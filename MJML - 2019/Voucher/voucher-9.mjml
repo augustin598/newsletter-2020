@@ -1,0 +1,154 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <mj-body background-color="#e9e6e1">
+    <mj-section padding="10px 0px">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+            Prețuri speciale la un singur click distanță! Campanie activă 10.06.2019 - 11.06.2019
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Menu -->
+    <mj-section mj-class="menu" background-color="#33393f" border-bottom="1px solid #fff">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links_white" href="/index.php?route=product/special" color="#ffffff">Reducere -50%</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_white" href="/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=2" color="#ffffff">Reducere -35%</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_white" href="/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=4" color="#ffffff">Reducere -30%</mj-navbar-link>
+
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+
+
+<!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/index.php?route=product/special" src="https://www.glemis.ro/image/catalog/newsletter-2019/oferte/discount-1.png" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- Slide End  -->
+    
+      
+  <!-- Slide Start  -->
+      <mj-section background-color="#dc0032" padding-top="0" padding-bottom="0">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+    <!-- Slide End  -->
+  
+ 
+
+  <!-- Slide Start  -->
+      <mj-section background-color="#e9e6e1" padding-top="10px" padding-bottom="0">
+        <mj-column>
+          <mj-button background-color="#f54132" font-size="15px" color="#fff" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/index.php?route=product/special" padding-bottom="10px" padding-top="0">VEZI OFERTA!</mj-button>
+          <mj-text align="center" font-size="16px">
+             -10% doar la produsele fara discount! *
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    <!-- Slide End  -->
+
+
+
+  <!-- Email content End -->
+  <!-- footer Start -->
+  <mj-section mj-class="footer" background-color="#33393f">
+    <mj-column>
+      <mj-text mj-class="footer-text">
+        <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+        <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+        </p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section mj-class="footer" background-color="#33393f">
+    <mj-column width="15%">
+    </mj-column>
+    <mj-column width="70%">
+      <mj-text mj-class="politic-terms">
+        <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+        <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="15%">
+    </mj-column>
+  </mj-section>
+
+
+  <mj-section mj-class="footer" background-color="#33393f">
+    <mj-column>
+      <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+        <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+        </mj-social-element>
+        <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+        </mj-social-element>
+        <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+        </mj-social-element>
+      </mj-social>
+    </mj-column>
+  </mj-section>
+  <!-- Footer End -->
+
+    <mj-section padding="10px 0px">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

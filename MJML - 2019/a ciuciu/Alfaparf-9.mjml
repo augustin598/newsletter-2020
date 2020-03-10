@@ -1,0 +1,271 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/template-5/style.mjml" />
+    </mj-attributes>
+    <mj-include path="../#0-Theme/template-4/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      // display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+  
+  .discount {
+    display: inline-block;
+    background-color: red;
+    width: 90%;
+    font-size: 13px;
+    padding: 5px 0px;
+    margin: 0px auto;
+    box-sizing: border-box;
+    color: #fff;
+    text-transform: uppercase;
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+            Aici cele mai bune soluții de îngrijire a părului de la Alfaparf Milano
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="clear-link" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/alfaparf-milano?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/alfaparf/alfaparf-banner-31.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/alfaparf-milano" style="color:#fff; text-decoration:none;">
+        <h1 h style="background-color: #dcb2b3;padding:10px 5px; display:block; margin:5px 0;">- Alfaparf Milano - </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+<!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mare-pentru-reconstructie-semi-di-lino-reconstruction-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-reconstruction/kit-mare-pentru-reconstructie-semi-di-lino-reconstruction-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mare pentru reconstrucție <br> Alfaparf Milano</span>
+          <p class="discount">Reducere -7%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mare-pentru-reconstructie-semi-di-lino-reconstruction-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-pentru-reconstructie-semi-di-lino-reconstruction-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-reconstruction/kit-small-for-reconstruction-semi-di-lino-reconstruction-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mic pentru reconstructie</span>
+            <p class="discount">Reducere -7%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-pentru-reconstructie-semi-di-lino-reconstruction-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mare-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano-633278706" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-moisture/kit-mare-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mare pentru hidratare</span>
+            <p class="discount">Reducere -10%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mare-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano-633278706?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-moisture/kit-mic-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mic pentru hidratare</span>
+                <p class="discount">Reducere -7%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/alfaparf-milano?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/alfaparf/AP_Lightening.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+  
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/alfaparf-milano" style="color:#fff; text-decoration:none;">
+        <h1 h style="background-color: #dcb2b3;padding:10px 5px; display:block; margin:5px 0;">- Alfaparf Milano - </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mare-pentru-stralucire-semi-di-lino-diamond-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-diamond/kit-great-for-shine-semi-di-lino-diamond-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mare pentru stralucire <br> Alfaparf Milano</span>
+            <p class="discount">Reducere -10%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mare-pentru-stralucire-semi-di-lino-diamond-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-pentru-stralucire-semi-di-lino-diamond-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-diamond/kit-mic-pentru-stralucire-semi-di-lino-diamond-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mic pentru stralucire <br> Alfaparf Milano</span>
+            <p class="discount">Reducere -7%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-pentru-stralucire-semi-di-lino-diamond-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-sampon-lotiune-semi-di-lino-scalp-care-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-scalp-care/kit-shampoo-lotion-semi-di-lino-scalp-care-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit sampon + lotiune <br> Alfaparf Milano</span>
+                <p class="discount">Reducere -5%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-sampon-lotiune-semi-di-lino-scalp-care-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-indreptarea-parului-lisse-design-keratin-therapy-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/lisse-design-keratin-therapy/kit-for-hair-straightening-lisse-design-keratin-therapy-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit pentru indreptarea parului <br> Alfaparf Milano</span>
+            <p class="discount">Reducere -10%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-indreptarea-parului-lisse-design-keratin-therapy-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/alfaparf-milano?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/alfaparf/AP_painting_color_balayage.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/alfaparf-milano" style="color:#fff; text-decoration:none;">
+        <h1 h style="background-color: #dcb2b3;padding:10px 5px; display:block; margin:5px 0;">- Alfaparf Milano - </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-sampon-balsam-masca-lisse-design-keratin-therapy-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/lisse-design-keratin-therapy/shampoo-conditioner-mask-kit-lisse-design-keratin-therapy-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit sampon + balsam + masca <br> Alfaparf Milano</span>
+          <p class="discount">Reducere -7%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-sampon-balsam-masca-lisse-design-keratin-therapy-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-sampon-balsam-lisse-design-keratin-therapy-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/lisse-design-keratin-therapy/shampoo-conditioner-kit-lisse-design-keratin-therapy-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit sampon + balsam <br> Alfaparf Milano</span>
+          <p class="discount">Reducere -5%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-sampon-balsam-lisse-design-keratin-therapy-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/pachet-sampon-balsam-ulei-lapte-lisse-design-keratin-therapy-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/lisse-design-keratin-therapy/shampoo-conditioner-oil-milk-kit-lisse-design-keratin-therapy-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Pachet sampon + balsam + ulei + lapte <br> Alfaparf Milano</span>
+                <p class="discount">Reducere -10%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/pachet-sampon-balsam-ulei-lapte-lisse-design-keratin-therapy-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mare-pentru-par-normal-sau-uscat-il-salone-milano-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/il-salone-milano/big-kit-for-normal-or-dry-hair-il-salone-milano-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mare pentru par normal sau uscat <br> alfaparf Milano</span>
+                <p class="discount">Reducere -7%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mare-pentru-par-normal-sau-uscat-il-salone-milano-alfaparf-milano?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- footer Start -->
+        <mj-include path="../#0-Theme/template-4/footer.mjml" />
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

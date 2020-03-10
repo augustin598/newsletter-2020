@@ -1,0 +1,207 @@
+<mjml>
+  
+<!-- All header control ellement Start -->  
+<mj-head>
+  <mj-attributes>
+    <mj-include path="./resurse/attribut.mjml" />
+    <mj-include path="./resurse/button.mjml" />
+    <mj-include path="./resurse/menu.mjml" />
+    <mj-include path="./resurse/border.mjml" />
+    <mj-include path="./resurse/images.mjml" />
+    <mj-include path="./resurse/call-to-action.mjml" /> 
+    <mj-include path="./resurse/footer.mjml" /> 
+</mj-attributes>
+<mj-include path="./resurse/standard-css.mjml" />
+<mj-include path="./resurse/background.mjml" />
+</mj-head>
+<!-- All header control ellement End -->  
+
+<!-- Container Start -->
+<mj-body>
+  <!-- Title & web_version & Logo -->
+  <mj-section mj-class="sec-padd-0">
+    <mj-column>
+      <mj-text mj-class="title">
+        Descoperă Oferta Happy Week -50% -40 -30 -20 -10 🛍️
+      </mj-text>
+      <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      <mj-text mj-class="web_version">
+        <a class="web_version-a" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" ><strong>Vezi varianta web.</strong>
+        </a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Title & web_version & Logo -->
+  
+  <!-- Menu -->
+   <mj-section mj-class="sec-padd-menu" background-color="#DA3C31">
+     <mj-column>
+       <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+         <mj-navbar-link mj-class="menu_links" href="/">Bruno Vassari</mj-navbar-link>
+         <mj-navbar-link mj-class="menu_links" href="/">Moroccanoil</mj-navbar-link>
+         <mj-navbar-link mj-class="menu_links" href="/">Olaplex</mj-navbar-link>
+         <mj-navbar-link mj-class="menu_links_offer" href="/">-20% Reducere</mj-navbar-link>
+       </mj-navbar>
+     </mj-column>
+   </mj-section>
+   <!-- Menu End -->
+   
+   <!-- Slide Start  -->
+   <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+     <mj-column>
+     <mj-image mj-class="slider" href="?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-27/reducere-50.jpg"></mj-image>
+     <mj-button href="https://www.glemis.ro/alfaparf-milano-semi-di-lino-sublime-all-hair-types?utm_content=call_action" mj-class="call-action-small">
+    www.glemis.ro
+     </mj-button>
+     </mj-column>
+   </mj-section>
+   <!-- Slide End  -->
+
+ <!-- Product 4 Start -->
+ <mj-section mj-class="sec-padd-product">
+   <mj-group>
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-2-scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nioxin/hair-system-2/scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+          <span class="product_title">Balsam pentru par natural SYS 2</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-2-scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+       
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-daromes-pour-homme-armani-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/giorgio-armani/pour-homme/eau-daromes-pour-homme-armani-50-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+        <span class="product_title">Eau D'aromes Pour Homme - Armani</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-daromes-pour-homme-armani-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+   </mj-group>  
+   
+   <mj-group>
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-nuit-pour-homme-armani-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/giorgio-armani/pour-homme/eau-de-nuit-pour-homme-armani-50-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+        <span class="product_title">Eau De Nuit Pour Homme - Armani</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-nuit-pour-homme-armani-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+       
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-toilette-gentlemen-only-intense-givenchy-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/givenchy/gentlemen-only/eau-de-toilette-gentlemen-only-intense-givenchy-50-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+         <span class="product_title">Gentlemen Only - Intense - Givenchy</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-toilette-gentlemen-only-intense-givenchy-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+   </mj-group>  
+   </mj-section>
+ <!-- Product 4 End --> 
+ 
+ <!-- 2 Group Image Elements Start -->
+ <mj-section mj-class="sec-padd-two-img">
+   
+   <mj-column mj-class="col-50">
+     <mj-image href="https://www.glemis.ro/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=3" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-27/reduceri-30.jpg" padding="10px"></mj-image>
+   </mj-column>
+   
+   <mj-column mj-class="col-50">
+     <mj-image href="https://www.glemis.ro/index.php?route=product/special&sort=percent&order=ASC&limit=24" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-27/reducere-50-2.jpg" padding="10px"></mj-image>
+   </mj-column>
+   
+ </mj-section>
+ <!-- 2 Group Image Elements Start -->
+ 
+ <!-- Product 4 Start -->
+  <mj-section mj-class="sec-padd-product">
+    <mj-group>
+      <mj-column vertical-align="middle">
+      <mj-image css-class="top30" href="https://www.glemis.ro/kit-reparator-cu-cheratina-keratin-chi?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/keratin/regenerating-kit-with-keratin-keratin-chi-228x228.png" width="200px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+           <span class="product_title">Kit reparator cu cheratina</span>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-reparator-cu-cheratina-keratin-chi?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+        
+      <mj-column vertical-align="middle">
+      <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-pentru-hidratare-light-sampon-balsam-masca-tratament-hydration-moroccanoil?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/small-kit-for-light-moisturizing-shampoo-conditioner-mask-treatment-hydration-moroccanoil-228x228.png" width="200px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+         <span class="product_title">Kit mic pentru hidratare light tratament</span>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-pentru-hidratare-light-sampon-balsam-masca-tratament-hydration-moroccanoil?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    
+    <mj-group>
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/kit-reparator-spray-cu-proteine-repair-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/repair/regenerating-kit-protein-spray-repair-keune-228x228.png" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+         <span class="product_title">Kit reparator + spray cu proteine</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-reparator-spray-cu-proteine-repair-keune?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+        
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/kit-hidratant-pentru-par-fara-sulfati-si-parabeni-so-pure-moisturizing-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/so-pure-moisturizing/moisturizing-kit-for-hair-without-sulfates-and-parabens-so-pure-moisturizing-keune-228x228.png" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+          <span class="product_title">
+            Kit hidratant pentru par fara sulfati si parabeni
+          </span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-hidratant-pentru-par-fara-sulfati-si-parabeni-so-pure-moisturizing-keune?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+    </mj-group>  
+    </mj-section>
+  <!-- Product 4 End --> 
+  
+  
+  <!-- Call to action Start  -->
+ <mj-section border-bottom="5px dotted #9B1D1E" border-top="5px dotted #9B1D1E" background-color="#fff" padding-bottom="0px" padding-top="0px">
+   <mj-column>
+       <mj-text align="center" color="#000" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+           <a style="font-size:25px;" href="https://www.glemis.ro/index.php?route=product/special" class="link-nostyle">Vezi toate produsele la Reducere</a>
+       </mj-text>
+   </mj-column>
+ </mj-section>
+ <!-- Call to action Start  -->
+ 
+ <!-- footer Start -->
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-text mj-class="footer">
+       <b>
+       CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+       <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+         style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+       </p>
+     </mj-text>
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column width="15%">
+   </mj-column>
+   <mj-column width="70%">
+     <mj-text mj-class="politic-terms">
+         <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+         <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+     </mj-text>
+   </mj-column>
+   <mj-column width="15%">
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+     </mj-social>
+   </mj-column>
+ </mj-section>
+<!-- Footer End -->
+</mj-body>
+</mjml>

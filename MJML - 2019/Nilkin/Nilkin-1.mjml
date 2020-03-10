@@ -1,0 +1,289 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+     <mj-style inline="inline">
+.link-nostyle { color: inherit; text-decoration: none }
+.circle {border-radius: 50%; width: 200px; height: 200px;}
+
+  h2 {display: block;
+    font-size: 1.5em;
+		margin: 10px 0px;
+    font-weight: bold;
+    height: 55px;
+    padding: 10px 0px;
+    overflow: hidden;
+  }
+
+  h1{
+    text-align:center;
+    margin: 5px 0px;
+    padding: 0px 0px;
+  }
+
+    .product {
+      font-weight: normal;
+      color: #000000;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+       </mj-style>
+  </mj-head>
+  <mj-body background-color="#000">
+
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Suport magnetic cu încărcător wireless pentru mașină - Nillkin 
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section background-color="#fff" padding="5px 0px">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0 0" background-color="#FFDF00">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#000">
+          <mj-navbar-link href="/suport-magnetic-cu-incarcator-wireless-pentru-masina-car-magnetic-wireless-charger-nillkin" color="#000" font-size="23px">OFERTA LIMITATA -15% OFF</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+<!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/suport-magnetic-cu-incarcator-wireless-pentru-masina-car-magnetic-wireless-charger-nillkin?utm_content=banner" src="https://media.giphy.com/media/t5ZpNEamwNEJhkiAV2/giphy.gif" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Call to action Start  -->
+    <mj-section background-color="#e85034" padding-bottom="0" padding-top="0">
+      <mj-column>
+          <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+              <a style="font-size:23px;" href="https://www.glemis.ro/suport-magnetic-cu-incarcator-wireless-pentru-masina-car-magnetic-wireless-charger-nillkin" class="link-nostyle">Descopeara noul kit auto cu incarcare Wirless</a>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Start  -->
+
+  <!-- Slide End  -->
+
+  <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="5px" border-bottom="0px">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-iphone-x-car-charger-nillkin?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/wireless-charging-kit-for-iphone-x-car-charger-nillkin-228x228.png" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Kit auto încarcare wireless pentru IPhone X</h2>
+        </mj-text>
+<mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-iphone-x-car-charger-nillkin?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-iphone-8-plus-car-charger-nillkin?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/wireless-charging-kit-for-iphone-8-plus-car-charger-nillkin-228x228.png" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Kit auto încarcare wireless pentru IPhone 8+</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-iphone-8-plus-car-charger-nillkin?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-iphone-8-car-charger-nillkin?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/wireless-charging-kit-for-iphone-8-car-charger-nillkin-228x228.png" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+            <h2>Kit auto încarcare wireless pentru IPhone 8</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-iphone-8-car-charger-nillkin?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+  <!-- Product button Orange End -->
+
+  <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+      <mj-image mj-class="slider" href="https://www.glemis.ro/suport-magnetic-cu-incarcator-wireless-pentru-masina-car-magnetic-wireless-charger-nillkin?utm_content=banner" src="https://www.glemis.ro/image/catalog/landing-page/nilkin-charger/nilkin-3.jpg" alt="Glemis"></mj-image>
+    </mj-column>
+  </mj-section>
+
+  <!-- Product button Red start -->
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="0px" border-bottom="0px">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-pentru-samsung-galaxy-note-8-car-charger-nillkin?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/wireless-charging-kit-for-samsung-galaxy-note-8-car-charger-nillkin-228x228.png" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Kit auto încarcare wireless pentru pentru Note 8</h2>
+        </mj-text>
+        <mj-button mj-class="red-button" href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-pentru-samsung-galaxy-note-8-car-charger-nillkin?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-samsung-galaxy-s9-car-charger-nillkin?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/wireless-charging-kit-for-samsung-galaxy-s9-car-charger-nillkin-228x228.png" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+            <h2>Kit auto încarcare wireless pentru pentru S9+</h2>
+        </mj-text>
+        <mj-button mj-class="red-button" href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-samsung-galaxy-s9-car-charger-nillkin?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-samsung-galaxy-s9-car-charger-nillkin-220159563?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/wireless-charging-kit-for-samsung-galaxy-s9-car-charger-nillkin-228x228.png" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+            <h2>Kit auto încarcare wireless pentru pentru S9</h2>
+        </mj-text>
+        <mj-button mj-class="red-button" href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-samsung-galaxy-s9-car-charger-nillkin-220159563?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+      <!-- Product button Red End -->
+
+      <mj-section padding-top="10px" padding-bottom="10px">
+        <mj-column>
+          <mj-image mj-class="slider" href="https://www.glemis.ro/suport-magnetic-cu-incarcator-wireless-pentru-masina-car-magnetic-wireless-charger-nillkin?utm_content=banner" src="https://www.glemis.ro/image/catalog/landing-page/nilkin-charger/nilkin-2.jpg" alt="Glemis"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!-- Product button Green start -->
+        <mj-section background-color="#ffffff" vertical-align="top" padding-top="0px" border-bottom="0px">
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-samsung-galaxy-s8-car-charger-nillkin-2033865500?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/wireless-charging-kit-for-samsung-galaxy-s8-car-charger-nillkin-228x228.png" alt="" width="200" padding="0px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+                <h2>Kit auto încarcare wireless pentru pentru S8</h2>
+            </mj-text>
+            <mj-button mj-class="green-button" href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-samsung-galaxy-s8-car-charger-nillkin-2033865500?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/suport-magnetic-cu-incarcator-wireless-pentru-masina-car-magnetic-wireless-charger-nillkin?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/car-magnetic-wireless-charger-nillkin-228x228.png" alt="" width="200" padding="0px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+              <h2>Suport magnetic cu încărcător wireless pentru mașină</h2>
+            </mj-text>
+            <mj-button mj-class="green-button" href="https://www.glemis.ro/suport-magnetic-cu-incarcator-wireless-pentru-masina-car-magnetic-wireless-charger-nillkin?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-samsung-galaxy-s8-car-charger-nillkin?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nillkin/car-charger/wireless-charging-kit-for-samsung-galaxy-s8-car-charger-nillkin-228x228.png" alt="" width="200" padding="0px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+              <h2>Kit auto încarcare wireless pentru pentru S8+</h2>
+            </mj-text>
+            <mj-button mj-class="green-button" href="https://www.glemis.ro/kit-auto-incarcare-wireless-pentru-samsung-galaxy-s8-car-charger-nillkin?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+        </mj-section>
+        <!-- Product button Green End -->
+
+    <!-- Email content End -->
+    <!-- Call to action Start  -->
+    <mj-section background-color="#e85034" padding-bottom="0" padding-top="0">
+      <mj-column>
+          <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+              <a style="font-size:25px;" href="https://www.glemis.ro/suport-magnetic-cu-incarcator-wireless-pentru-masina-car-magnetic-wireless-charger-nillkin" class="link-nostyle">Kit auto încarcare Wireless <br> + Husa Magnetica Gratuit<br>
+                <span style="font-size:30px;">Discount -30%</span>
+
+              </a>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Start  -->
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,31 @@
+<!-- 2 Group Image Elements Start -->
+<mj-section mj-class="two-img" background-url="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-15/backkgorund-green.jpg">
+  <mj-column mj-class="col-100">
+    <mj-table padding="0px">
+      <tr>
+        <td style="text-align:center;">
+          <span style="  font-size: 1.5em; display: block; padding: 5px 0px; color: #fff; text-transform: uppercase;">
+          DEZVOLTAT ȘI PRODUS DE REMARY
+          </span>
+        </td>
+      </tr>
+    </mj-table>
+    <mj-divider mj-class="border-1"></mj-divider>
+  </mj-column>
+
+  <mj-column mj-class="col-50">
+    <mj-image href="https://glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-250-ml?utm_content=remary_product" src="https://glemis.ro/image/catalog/remary-frontstore/crema-termoactiva-anticelulitica-foarte-puternica-remary.png" padding="10px"></mj-image>
+    <mj-text align="center" padding="20px 0px">
+      <span style="font-size: 1.6em;padding-bottom:10px; color: #000;">Crema termoactivă anti celulitică profesională</span>
+    </mj-text>
+  </mj-column>
+
+  <mj-column mj-class="col-50">
+    <mj-image href="https://www.glemis.ro/crema-profesionala-pentru-slabit-cu-alge-professional-slimming-body-cream-with-algae-extract-remary-250-ml?utm_content=remary_product" src="https://www.glemis.ro/image/catalog/remary-frontstore/crema-termoactiva-anticelulitica-foarte-puternica-remary3.png" padding="10px"></mj-image>
+    <mj-text align="center" padding="20px 0px">
+      <span style="font-size: 1.6em;padding-bottom:40px; color: #000;">Crema profesională pentru slăbit cu Alge</span>
+    </mj-text>
+  </mj-column>
+
+</mj-section>
+<!-- 2 Group Image Elements Start -->

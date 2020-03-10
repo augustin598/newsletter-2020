@@ -1,0 +1,64 @@
+<mj-all font-family="Ubuntu" />
+
+<!-- Title & web_version & Logo Start -->
+<mj-class name="title" align="center" color="#2f323b" font-size="13px" padding="10px 25px 10px 25px" line-height="20px;" />
+<mj-class name="logo-v1" width="150" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" />
+<mj-class name="web-version" align="center" color="#000" font-size="13px" padding="0px 25px 10px 25px" line-height="18px;" />
+<mj-class name="sec-padd-0" padding="0px" background-color="#ffffff" />
+<!-- Mj Title & web_version & Logo Start -->
+<mj-class name="logo-v2" width="250" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2019/joico/joico-logo-tagline-gold_jpg_hr_org.png" />
+
+<!-- Image Start -->
+<mj-class name="sec-padd-slider" padding="0px"/>
+<mj-class name="slider" align="center" border="none" width="600px" padding="0px" />
+<!-- Image End  -->
+
+<!-- Menu  -->
+<mj-class name="menu" padding="0px" border-bottom="2px #fff" />
+<mj-class name="menu_links_white" color="#fff" font-weight="400" font-size="16px" />
+<mj-class name="menu_links_offer" color="#F2C330" font-weight="900" font-size="18px" />
+<!-- Menu  -->
+
+<!-- Image Product Start  -->
+<mj-class name="product" vertical-align="top" padding="10px 0px" background-color="#fff" />
+<!-- Image Product End  -->
+
+<!-- Group 2 image  -->
+<mj-class name="two-img" padding="10px 5px" />
+<mj-class name="sec-padd-two-img-text" padding="10px 5px" background-color="#fff" />
+<mj-class name="brand-title" padding="10px 5px" />
+<!-- Group 2 image  -->
+
+<!-- Footer Start -->
+<mj-class name="footer" padding="10px 0px" background-color="#444444" />
+
+<mj-class name="politic-terms" font-weight="normal" align="center" color="#fff" font-size="15px" padding="0 10px 0 10px"/>
+
+<mj-class name="footer-text" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="26px;" padding="0px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+<!-- Footer end -->
+
+<!-- Colums Mod's Start  -->
+<mj-class name="col-33" vertical-align="middle" width="33.33333333333333%" />
+<mj-class name="col-50" vertical-align="middle" width="50.00000000000000%" />
+<mj-class name="col-100" vertical-align="middle" width="100%" />
+<!-- Colums Mod's End  -->
+
+<!-- Call to action button  -->
+<mj-class name="call-action-small"font-family="Helvetica" font-size="16px" background-color="#fff" color="#DA3C31" border="2px solid #DA3C31" inner-padding="15px 25px" border-radius="15px" />
+<mj-class name="call-action-round" font-family="Helvetica" font-size="16px" background-color="#fff" color="#ff7f50" border="2px solid #ff7f50" inner-padding="15px 25px" border-radius="15px" />
+<mj-class name="cta-full" padding="0px" />
+<!-- Call to action button  -->
+
+<!-- Buttons Start -->
+<mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#F2C330" color="#fff" font-size="13px" padding="5px 0px" />
+<!-- Buttons End -->
+
+<!-- Border Diver -->
+<mj-class name="border-1" border-color="#fff" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+<mj-class name="border-2" border-color="#fff" border-style="solid" border-width="2px" padding="5px 10px 5px 10px"/>
+<mj-class name="header-boder-product" border-color="#F2C330" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+<!-- Border Diver -->
+
+<mj-class name="tx-center" align="center" />
+
+<mj-class name="tx-prod-center" align="center" padding="0px" />

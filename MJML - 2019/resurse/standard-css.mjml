@@ -1,0 +1,90 @@
+<mj-style>
+.link-nostyle {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.discount {
+  display: inline-block;
+  background-color: red;
+  width: 100%;
+  font-size: 13px;
+  padding: 5px 0px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 480px) {
+  .b-bootom {
+    border: 2px solid #000;
+  }
+  
+  .not-display{
+    display: none;
+  }
+
+  .top30 {
+    padding-top: 30px !important;
+  }
+
+  .top20 {
+    padding-top: 20px !important;
+  }
+  
+  .top10 {
+    padding-top: 10px !important;
+  }
+
+  .top15 {
+    padding-top: 15px !important;
+  }
+
+}
+
+.web-title {
+  text-decoration: none;
+  color: #000 important;
+  text-align:center;
+}
+
+.product_title{
+  padding: 0px 10px;
+  font-size: 16px;
+  display: inline-block;
+  line-height: 16px;
+  font-weight: 400;
+  overflow: hidden;
+  height:60px;
+  text-align:center;
+}
+
+.two_img_header {
+  font-size: 1.5em;
+  display: block;
+  padding: 5px 0px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-size: 1.3em;
+  display: block;
+  padding: 5px 10px;
+  color: #000;
+}
+
+
+
+.custom_text_1 {
+  font-size: 1.2em;
+  display: block;
+  text-align: center;
+  line-height: 1.2em;
+  padding: 5px ;
+
+  color: #000;
+}
+
+</mj-style>

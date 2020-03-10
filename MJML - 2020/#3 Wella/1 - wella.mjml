@@ -1,0 +1,276 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/template-5/style.mjml" />
+    </mj-attributes>
+    <mj-include path="../#0-Theme/template-4/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      // display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+  
+  .discount {
+    display: inline-block;
+    background-color: #50c53c;
+    width: 90%;
+    font-size: 13px;
+    padding: 5px 0px;
+    margin: 0px auto;
+    box-sizing: border-box;
+    color: #fff;
+    text-transform: uppercase;
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+            Lichidare de stoc la brandul No1 international pentru ingrirea parului Wella Professionals
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="clear-link" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/wella-professionals?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/wella/wella-descopera.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/wella-professionals" style="color:#fff; text-decoration:none;">
+        <h1 h style="background-color: #dc3e4d;padding:10px 5px; display:block; margin:5px 0;">Lichidare de STOC - Wella Professionals </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-pentru-parul-fin-normal-vopsit-vibrant-color-conditioner-fine-invigo-brilliance-wella-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-color-brilliance/vibrant-color-conditioner-fine-invigo-brilliance-wella-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title"> Balsam pentru parul fin/normal vopsit</span>
+            <p class="discount">REDUCERE -33%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-parul-fin-normal-vopsit-vibrant-color-conditioner-fine-invigo-brilliance-wella-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/masca-tratament-pentru-parul-fin-vopsit-vibrant-color-mask-fine-invigo-brilliance-wella-150-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-color-brilliance/vibrant-color-mask-fine-invigo-brilliance-wella-150-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Masca-tratament pentru parul fin vopsit</span>
+                  <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-tratament-pentru-parul-fin-vopsit-vibrant-color-mask-fine-invigo-brilliance-wella-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-hidratant-pentru-par-deteriorat-conditioner-invigo-nutri-enrich-wella-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-nutri-enrich/conditioner-invigo-nutri-enrich-wella-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam hidratant pentru par deteriorat</span>
+        <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-hidratant-pentru-par-deteriorat-conditioner-invigo-nutri-enrich-wella-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/masca-tratament-hidratant-pentru-par-deteriorat-mask-invigo-nutri-enrich-wella-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-nutri-enrich/mask-invigo-nutri-enrich-wella-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Masca-tratament hidratant pentru par deteriorat</span>
+          <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/wella-professionals?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/wella/wella-discount.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+
+    
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/wella-professionals" style="color:#fff; text-decoration:none;">
+        <h1 h style="background-color: #dc3e4d;padding:10px 5px; display:block; margin:5px 0;">Lichidare de STOC - Wella Professionals </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+  
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-anti-matreata-anti-dandruff-shampoo-invigo-clean-scalp-wella-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-scalp/anti-dandruff-shampoo-invigo-clean-scalp-wella-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon anti-matreata Invigo Clean Scalp - Wella </span>
+            <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-anti-matreata-anti-dandruff-shampoo-invigo-clean-scalp-wella-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-pentru-scalp-sensibil-sensitive-shampoo-invigo-senso-calm-wella-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-scalp/sensitive-shampoo-invigo-senso-calm-wella-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon anti-matreata Invigo pentru scalp sensibil</span>
+        <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-scalp-sensibil-sensitive-shampoo-invigo-senso-calm-wella-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/masca-tratament-pentru-par-fin-crystal-mask-invigo-volume-boost-wella-145-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-volume-boost/crystal-mask-invigo-volume-boost-wella-145-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Masca-tratament pentru par fin Wella</span>
+              <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="glemis.ro/masca-tratament-pentru-par-fin-crystal-mask-invigo-volume-boost-wella-145-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-concentrat-pentru-volum-uplifting-concentrate-invigo-volume-booster-wella-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-volume-boost/uplifting-concentrate-invigo-volume-booster-wella-100-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament concentrat pentru volum Wella</span>
+        <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-concentrat-pentru-volum-uplifting-concentrate-invigo-volume-booster-wella-100-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/wella-professionals" style="color:#fff; text-decoration:none;">
+        <h1 h style="background-color: #dc3e4d;padding:10px 5px; display:block; margin:5px 0;">Lichidare de STOC - Wella Professionals </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-pentru-volum-par-fin-shampoo-volumize-sp-wella-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/system-professional-volumize/shampoo-volumize-sp-wella-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon pentru volum (par fin) WElla</span>
+            <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-volum-par-fin-shampoo-volumize-sp-wella-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-masca-de-volum-pentru-par-fin-mask-volumize-sp-wella-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/system-professional-volumize/mask-volumize-sp-wella-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament-masca de volum pentru par fin</span>
+           <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-masca-de-volum-pentru-par-fin-mask-volumize-sp-wella-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-regenerator-pentru-par-degradat-shampoo-reverse-sp-wella-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/professional-system-reverse/shampoo-reverse-sp-wella-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title"> Sampon regenerator pentru par degradat</span>
+           <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-regenerator-pentru-par-degradat-shampoo-reverse-sp-wella-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-masca-pentru-regenerarea-parului-degradat-mask-reverse-sp-wella-150-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/professional-system-reverse/mask-reverse-sp-wella-150-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament-masca pentru regenerarea parului degradat</span>
+         <p class="discount">REDUCERE -35%</p>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-masca-pentru-regenerarea-parului-degradat-mask-reverse-sp-wella-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/wella-professionals?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/wella/reduceri-wow.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+    <!-- footer Start -->
+        <mj-include path="../#0-Theme/template-4/footer.mjml" />
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

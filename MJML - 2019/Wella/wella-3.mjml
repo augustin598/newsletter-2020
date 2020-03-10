@@ -1,0 +1,479 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/template-4/style.mjml" />
+    </mj-attributes>
+    <mj-include path="../#0-Theme/template-4/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      // display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body width="800px">
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+           Ingrediente de inalta calitate, agenti de hidratare si lipide, au ca rezultat culori intense, vibrante si perfecte
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a style="text-decoration: none; color: #000;" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+
+    <!-- Slide Start  -->
+    <mj-hero mode="fixed-height" height="469px" background-width="600px" background-height="469px" background-url="https://www.glemis.ro/image/catalog/newsletter-2019/wella/wella-descopera.jpg" background-color="#2a3448" padding="200px 10px">
+    </mj-hero>
+    <!-- Slide End  -->
+    
+    <!-- Menu -->
+    <mj-section mj-class="menu" background-color="#444444" border-bottom="1px solid #fff">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links_white" href="/wella-professionals-illumina-color">Illumina Color</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_white" href="/wella-professionals-koleston-perfect-me">Koleston Perfect Me+</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_white" href="/wella-professionals-blondor">Blondor</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_offer" href="/wella-professionals">Wella Professionals</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Illumina Color</span>
+              <span class="subtitle"> Illumina Color Wella Professionals si noua colectie Illumina Color New Naturals Collection ce contine 11 nuante noi foarte naturale, luminoase si stralucitoare, se adreseaza femeilor care iubesc look-urile naturale, cu multa luminozitate si stralucire. Illumina Color este cea mai mare inovatie in materie de colorare a parului din ultimii 20 de ani de la Wella Professionals. </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      
+   <mj-group>
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-10-illumina-color-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/10-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">10/ - Illumina Color - Wella Professionals</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-10-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+     
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-4-illumina-color-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/4-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">4/- Illumina Color - Wella Professionals</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-4-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+
+   </mj-group>
+   
+      <mj-group>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-8-37-illumina-color-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/8-37-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">8/37 - Illumina Color - Wella Professionals</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-8-37-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-9-43-illumina-color-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/9-43-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">9/43 - Illumina Color - Wella Professionals - 60 ml</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-9-43-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-5-7-illumina-color-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/5-7-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">5/7 - Illumina Color - Wella Professionals</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-5-7-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="8/13 - Illumina Color - Wella Professionals" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/8-13-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">8/13 - Illumina Color - Wella Professionals</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Invigo Volume Boost - Invigo Scalp - Invigo Volume Boost</span>
+              <span class="subtitle"></span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      
+   <mj-group>
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/sampon-pentru-scalp-sensibil-sensitive-shampoo-invigo-senso-calm-wella-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-scalp/purifying-shampoo-invigo-aqua-pure-wella-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">Sensitive Shampoo - Invigo Senso Calm - Wella</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-scalp-sensibil-sensitive-shampoo-invigo-senso-calm-wella-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+     
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/sampon-de-volum-pentru-par-fin-bodyfing-shampoo-invigo-volume-boost-wella-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-volume-boost/bodyfing-shampoo-invigo-volume-boost-wella-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">Bodyfing Shampoo - Invigo Volume Boost - Wella</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-de-volum-pentru-par-fin-bodyfing-shampoo-invigo-volume-boost-wella-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+
+   </mj-group>
+   
+      <mj-group>
+      
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-impotriva-excesului-de-sebum-purifying-shampoo-invigo-aqua-pure-wella-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-scalp/purifying-shampoo-invigo-aqua-pure-wella-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Purifying Shampoo - Invigo Aqua Pure - Wella</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-impotriva-excesului-de-sebum-purifying-shampoo-invigo-aqua-pure-wella-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-concentrat-pentru-volum-uplifting-concentrate-invigo-volume-booster-wella-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-volume-boost/uplifting-concentrate-invigo-volume-booster-wella-100-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Uplifting Concentrate - Invigo Volume Booster - Wella</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-concentrat-pentru-volum-uplifting-concentrate-invigo-volume-booster-wella-100-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-pentru-netezire-si-stralucire-shampoo-oil-reflections-wella-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/care-luminous/shampoo-oil-reflections-wella-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Shampoo - Oil Reflections - Wella - 1000 ml</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-netezire-si-stralucire-shampoo-oil-reflections-wella-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-tratament-pentru-netezire-si-stralucire-conditioner-oil-reflections-wella-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/care-luminous/conditioner-oil-reflections-wella-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam-tratament pentru netezire si stralucire</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-tratament-pentru-netezire-si-stralucire-conditioner-oil-reflections-wella-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- Group avantge -->
+<mj-include path="../#0-Theme/template-4/avantage-1.mjml" />
+    <!-- Group avantge -->
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Koleston Perfect Me+</span>
+              <span class="subtitle">In anul 1950, specialistii de la Wella au creat prima vopsea crema din lume: Koleston Perfect. Un produs cu adevarat Perfect prin calitatile sale imbatabile in ce priveste colorarea parului. Koleston Perfect este in topul mondial al produselor pentru ingrijirea parului si unul din reperele brandului Wella.</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      
+   <mj-group>
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-00-koleston-perfect-me-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/0-00-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">0/00 - Koleston Perfect Me+ - Wella Professionals</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-00-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+     
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-43-koleston-perfect-me-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/0-43-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">0/43 - Koleston Perfect Me+ - Wella Professionals</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-43-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+
+   </mj-group>
+   
+      <mj-group>
+      
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-11-koleston-perfect-me-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/0-11-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">0/11 - Koleston Perfect Me+ - Wella Professionals</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-11-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-65-koleston-perfect-me-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/0-65-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">0/65 - Koleston Perfect Me+ - Wella Professionals</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-65-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-10-86-koleston-perfect-me-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/10-86-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">10/86 - Koleston Perfect Me+ - Wella Professionals</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-10-86-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-12-1-koleston-perfect-me-wella-professionals-60-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/12-1-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">12/1 - Koleston Perfect Me+ - Wella Professionals</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-12-1-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Invigo Color</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      
+   <mj-group>
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/balsam-pentru-parul-fin-normal-vopsit-vibrant-color-conditioner-fine-invigo-brilliance-wella-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-color-brilliance/vibrant-color-conditioner-fine-invigo-brilliance-wella-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">Vibrant Color Conditioner - Fine - Invigo Brilliance</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-parul-fin-normal-vopsit-vibrant-color-conditioner-fine-invigo-brilliance-wella-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+     
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-color-brilliance/vibrant-color-conditioner-fine-invigo-brilliance-wella-200-ml-228x228.jpg" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-color-brilliance/vibrant-color-conditioner-fine-invigo-brilliance-wella-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">Vibrant Color Conditioner - Fine - Invigo Brilliance - Wella</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-color-brilliance/vibrant-color-conditioner-fine-invigo-brilliance-wella-200-ml-228x228.jpg?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+
+   </mj-group>
+   
+      <mj-group>
+      
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-concentrat-pentru-par-vopsit-color-vibrancy-concentrate-invigo-brilliance-wella-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-color-brilliance/color-vibrancy-concentrate-invigo-brilliance-wella-100-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Color Vibrancy Concentrate - Invigo Brilliance - Wella</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-concentrat-pentru-par-vopsit-color-vibrancy-concentrate-invigo-brilliance-wella-100-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-hidratant-pentru-par-deteriorat-conditioner-invigo-nutri-enrich-wella-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-nutri-enrich/conditioner-invigo-nutri-enrich-wella-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Conditioner - Invigo Nutri Enrich - Wella</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-hidratant-pentru-par-deteriorat-conditioner-invigo-nutri-enrich-wella-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-hidratant-pentru-par-deteriorat-conditioner-invigo-nutri-enrich-wella-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-nutri-enrich/conditioner-invigo-nutri-enrich-wella-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Conditioner - Invigo Nutri Enrich - Wella - 200 ml</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-hidratant-pentru-par-deteriorat-conditioner-invigo-nutri-enrich-wella-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-concentrat-pentru-par-deteriorat-booster-invigo-nutri-enrich-wella-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-nutri-enrich/booster-invigo-nutri-enrich-wella-100-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Booster - Invigo Nutri Enrich - Wella - 100 ml</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-concentrat-pentru-par-deteriorat-booster-invigo-nutri-enrich-wella-100-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Product 4 End -->
+    <mj-include path="../#0-Theme/module/crema-porto.mjml" />
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Tratemente dupa vopsire</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      
+   <mj-group>
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/tratament-intens-pentru-par-hair-stabilizer-no-3-wellaplex-wella-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/wellaplex/hair-stabilizer-no-3-wellaplex-wella-100-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">Hair Stabilizer No.3 - Wellaplex - Wella - 100 ml</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-intens-pentru-par-hair-stabilizer-no-3-wellaplex-wella-100-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+     
+     <mj-column>
+       <mj-image css-class="top30" href="https://www.glemis.ro/tratament-de-neutralizare-dupa-colorare-post-color-treatment-invigo-color-service-wella-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/invigo-color-service/post-color-treatment-invigo-color-service-wella-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text mj-class="tx-prod-center">
+         <span class="product_title">Post Color Treatment - Invigo Color Service</span>
+       </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-de-neutralizare-dupa-colorare-post-color-treatment-invigo-color-service-wella-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+
+   </mj-group>
+   
+      <mj-group>
+      
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-perfector-hair-perfector-no-3-olaplex-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/olaplex/products/hair-perfector-no-3-olaplex-100-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Hair Perfector No.3 - Olaplex</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-perfector-hair-perfector-no-3-olaplex-100-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-fara-clatire-pentru-par-vopsit-leave-in-spray-precious-nature-colored-hair-alfaparf-milano-125-ml" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/precious-nature-colored-hair/leave-in-spray-precious-nature-colored-hair-alfaparf-milano-125-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament fara clatire pentru par vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-fara-clatire-pentru-par-vopsit-leave-in-spray-precious-nature-colored-hair-alfaparf-milano-125-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/stabilizator-de-culoare-pentru-parul-vopsit-acid-color-sealer-color-specifics-milk-shake-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/color-specifics/acid-color-sealer-color-specifics-milk-shake-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Stabilizator de culoare pentru parul vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/stabilizator-de-culoare-pentru-parul-vopsit-acid-color-sealer-color-specifics-milk-shake-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-pentru-fixarea-si-mentinerea-culorii-color-sealing-shampoo-color-specifics-milk-shake-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/color-specifics/color-sealing-shampoo-color-specifics-milk-shake-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon pentru fixarea si mentinerea culorii</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-fixarea-si-mentinerea-culorii-color-sealing-shampoo-color-specifics-milk-shake-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    <!-- footer Start -->
+        <mj-include path="../#0-Theme/template-4/footer.mjml" />
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

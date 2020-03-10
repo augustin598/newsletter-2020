@@ -1,0 +1,393 @@
+<mjml>
+  
+
+<mj-head>
+  <mj-attributes>
+    <mj-all font-family="Ubuntu" />
+    <!-- Title & web_version & Logo Start -->
+    <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding="10px 25px 10px 25px" line-height="20px;" />
+    <mj-class name="logo" width="150" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" />
+    <mj-class name="web-version" align="center" color="#2f323b" font-size="13px" padding="0px 25px 10px 25px" line-height="18px;" />
+    <mj-class name="sec-padd-0" padding="0px" background-color="#ffffff" />
+    <!-- Mj Title & web_version & Logo Start -->
+       
+    <!-- Menu  -->
+    <mj-class name="sec-padd-menu" padding="0px" background-color="#000000" />
+    <mj-class name="menu_links" color="#ffffff" font-weight="400" font-size="16px" />
+    <mj-class name="menu_links_offer" color="#F6DA01" font-weight="900" font-size="18px" />
+    <!-- Menu  -->
+    
+    <!-- Buttons Start -->
+    <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fbb450" color="#fff" font-size="13px" padding="5px 0px" />
+    <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+    <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+    <!-- Buttons End -->
+    
+    <!-- Image Start  -->
+    <mj-class name="sec-padd-slider" padding="0px"/>
+    <mj-class name="slider" align="center" border="none" width="800px" padding="0px" />
+    <!-- Image End  -->
+    
+    <!-- Image Product Start  -->
+    <mj-class name="sec-padd-product" vertical-align="top" padding="10px 0px" background-color="#fff" />
+    <!-- Image Product End  -->
+    
+    <!-- Group 2 image  -->
+  <mj-class name="sec-padd-two-img" padding="10px 5px" background-color="#fff" />
+  <mj-class name="sec-padd-two-img-text" padding="10px 5px" background-color="#fff" />
+  <mj-class name="sec-padd-header-product-title" padding="10px 5px" background-color="#fff" />
+  <!-- Group 2 image  -->
+    
+    <!-- Border Diver -->
+    <mj-class name="border-1" border-color="#fff" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+    <mj-class name="border-2" border-color="#000" border-style="solid" border-width="2px" padding="5px 10px 5px 10px"/>
+    <mj-class name="header-boder-product" border-color="#FABA00" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+    <!-- Border Diver -->
+    
+    
+    <!-- Call to action button  -->
+    <mj-class name="call-action-small"font-family="Helvetica" font-size="16px" background-color="#fff" color="#ff7f50" border="2px solid #ff7f50" inner-padding="15px 25px" border-radius="15px" />
+    
+    <mj-class name="call-action-round" font-family="Helvetica" font-size="16px" background-color="#fff" color="#ff7f50" border="2px solid #ff7f50" inner-padding="15px 25px" border-radius="15px" />
+    <!-- Call to action button  -->
+    
+    <!-- Colums Mod's Start  -->
+    <mj-class name="col-33" vertical-align="middle" width="33.33333333333333%" />
+    <mj-class name="col-50" vertical-align="middle" width="50.00000000000000%" />
+    <mj-class name="col-100" vertical-align="middle" width="100%" />
+    <!-- Colums Mod's End  -->
+    
+<!-- Footer Start -->
+<mj-class name="sec-padd-footer" padding="10px 0px" background-color="#000" />
+
+<mj-class name="plitic-terms" font-weight="normal" align="center" color="#fff" font-size="15px" padding="0 10px 0 10px"/>
+
+<mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="26px;" padding="0px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+  <!-- Footer end -->
+
+</mj-attributes>
+<mj-style>
+.link-nostyle {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.discount {
+  display: inline-block;
+  background-color: red;
+  width: 100%;
+  font-size: 13px;
+  padding: 5px 0px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 480px) {
+  .b-bootom {
+    border: 2px solid #000;
+  }
+
+  .top30 {
+    padding-top: 30px !important;
+  }
+
+  .top20 {
+    padding-top: 20px !important;
+  }
+
+  .top15 {
+    padding-top: 15px !important;
+  }
+
+}
+
+.web_version {
+  text-decoration: none;
+  color: #000000;
+}
+
+.product_title{
+  padding: 0px 10px;
+  font-size: 16px;
+  display: inline-block;
+  line-height: 16px;
+  font-weight: 400;
+  overflow: hidden;
+  height:60px;
+  text-align:center;
+}
+
+.two_img_header {
+  font-size: 2em;
+  display: block;
+  padding: 5px 0px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-size: 1.3em;
+  display: block;
+  padding: 5px 10px;
+  color: #000;
+}
+
+.custom_text_1 {
+  font-size: 1.2em;
+  display: block;
+  text-align: center;
+  line-height: 1.2em;
+  padding: 5px ;
+
+  color: #000;
+}
+
+</mj-style>
+<mj-style inline="inline">
+  body  {   
+ background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-21/Floral-Background-Pattern.jpg");
+}
+</mj-style>
+</mj-head>
+<mj-body width="800px">
+  <!-- Title & web_version & Logo -->
+  <mj-section mj-class="sec-padd-0">
+    <mj-column>
+      <mj-text mj-class="title">
+      În zona ochilor, pielea este mai sensibilă, mai predispusă la agresiunile mecanice și mai greu de îngrijit. De aceea, avem nevoie de produse profesionale.
+      </mj-text>
+      <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      <mj-text mj-class="web-version">
+        <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" ><strong>Vezi varianta web.</strong>
+        </a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Title & web_version & Logo -->
+  
+  <!-- Menu -->
+   <mj-section mj-class="sec-padd-menu">
+     <mj-column>
+       <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+         <mj-navbar-link mj-class="menu_links" href="/bruno-vassari">Bruno Vassari</mj-navbar-link>
+         <mj-navbar-link mj-class="menu_links" href="/maria-galland">Maria Galland</mj-navbar-link>
+         <mj-navbar-link mj-class="menu_links" href="/babor">Babor</mj-navbar-link>
+       </mj-navbar>
+     </mj-column>
+   </mj-section>
+   <!-- Menu End -->
+   
+   <!-- Slide Start  -->
+   <mj-section padding-top="0" padding-bottom="0">
+     <mj-column>
+     <mj-image mj-class="slider" href="https://www.glemis.ro/creme-de-ochi?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-19/fata-2.jpg"></mj-image>
+     </mj-column>
+   </mj-section>
+   <!-- Slide End  -->
+   
+  
+ <!-- Product 4 Start -->
+ <mj-section mj-class="sec-padd-product">
+   <mj-group>
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/crema-contur-pentru-ochi-antirid-eye-contour-cream-mille-1020-maria-galland-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/maria-galland/mille/eye-contour-cream-mille-1020-maria-galland-15-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+          <span class="product_title">Crema contur pentru ochi antirid</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-contur-pentru-ochi-antirid-eye-contour-cream-mille-1020-maria-galland-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+       
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/crema-de-lifting-si-fermitate-pentru-ochi-extra-firming-eye-cream-hsr-lifting-babor-30-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/hsr-lifting/extra-firming-eye-cream-hsr-lifting-babor-30-ml-500x500.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+        <span class="product_title">Crema de lifting si fermitate pentru ochi</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-de-lifting-si-fermitate-pentru-ochi-extra-firming-eye-cream-hsr-lifting-babor-30-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+   </mj-group>  
+   
+   <mj-group>
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/crema-de-ochi-peptide-eye-contour-gel-cream-collagen-booster-lab-division-bruno-vassari-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/bruno-vassari/collagen-booster/peptide-eye-contour-gel-cream-collagen-booster-lab-division-bruno-vassari-15-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+        <span class="product_title"> Crema de ochi  Lab Division <br>Bruno Vassari</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-de-ochi-peptide-eye-contour-gel-cream-collagen-booster-lab-division-bruno-vassari-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+       
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/crema-de-ochi-anti-rid-cu-celule-stem-cell-active-age-renewal-eye-concentrate-cream-bruno-vassari-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/maria-galland/dermatological-system/d-900-eye-gel-cream-soin-dermatologique-maria-galland-15-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+         <span class="product_title">Crema de ochi anti-rid cu celule stem</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-de-ochi-anti-rid-cu-celule-stem-cell-active-age-renewal-eye-concentrate-cream-bruno-vassari-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+   </mj-group>  
+   </mj-section>
+ <!-- Product 4 End --> 
+ 
+ <!-- 2 Group Image Elements Start -->
+ <mj-section mj-class="sec-padd-two-img">
+   
+   <mj-column mj-class="col-50">
+     <mj-image href="https://www.glemis.ro/creme-de-ochi?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-21/face-1.jpg" padding="10px"></mj-image>
+   </mj-column>
+   
+   <mj-column mj-class="col-50">
+     <mj-image href="https://www.glemis.ro/creme-de-ochi?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-21/face-2.jpg" padding="10px"></mj-image>
+   </mj-column>
+   
+ </mj-section>
+ <!-- 2 Group Image Elements Start -->
+ 
+ <!-- Product 4 Start -->
+ <mj-section mj-class="sec-padd-product">
+   <mj-group>
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/pad-uri-revigorante-pentru-ochi-skinovage-refreshing-eye-pads-babor-5-buc?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/skinovage-age-preventing-balancing/skinovage-refreshing-eye-pads-babor-5-buc-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+          <span class="product_title">Pad-uri revigorante pentru ochi</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/pad-uri-revigorante-pentru-ochi-skinovage-refreshing-eye-pads-babor-5-buc?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+       
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/crema-anti-age-pentru-ochi-luminozitate-si-netezire-anti-aging-eye-cream-reversive-babor-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/reversive/anti-aging-eye-cream-reversive-babor-15-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+        <span class="product_title"> Crema anti-age pentru ochi</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-anti-age-pentru-ochi-luminozitate-si-netezire-anti-aging-eye-cream-reversive-babor-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+   </mj-group>  
+   
+   <mj-group>
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/crema-anti-rid-cu-ceramide-kianty-viniferin-eyes-and-lips-cream-bruno-vassari-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/bruno-vassari/kianty/kianty-viniferin-eyes-and-lips-cream-bruno-vassari-15-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+        <span class="product_title">Crema anti-rid cu ceramide</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-anti-rid-cu-ceramide-kianty-viniferin-eyes-and-lips-cream-bruno-vassari-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+       
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/crema-anti-rid-nutritiva-vitamin-eye-cream-bruno-vassari-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/bruno-vassari/normal-and-combination-skin/vitamin-eye-cream-bruno-vassari-15-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+         <span class="product_title">Crema anti-rid nutritiva</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-anti-rid-nutritiva-vitamin-eye-cream-bruno-vassari-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+   </mj-group>  
+   </mj-section>
+ <!-- Product 4 End --> 
+ 
+ <!-- 2 grup image + Text Start -->
+<mj-section mj-class="sec-padd-two-img-text">
+  <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/set-tratament-anti-age-complet-reversive-treatment-set-reversive-babor-6-produse" src="https://www.glemis.ro/image/cache/catalog/product/babor/reversive/reversive-treatment-set-reversive-babor-6-produse-228x228.jpg" width="300px" padding="0px">
+      </mj-image>
+  </mj-column>
+  <mj-column vertical-align="middle">
+    <mj-spacer height="45px"></mj-spacer>
+    <mj-text>
+      <span style="font-size: 1.6em; display: block; padding:5px 10px; color:#000; text-align:center;">Set tratament anti-age complet</span>
+    </mj-text>
+    <mj-divider mj-class="border-2"></mj-divider>
+    <mj-text>
+      <span class="custom_text_1">
+      AHA peeling - 4 ml <br/>
+      Crema Reversive - 15 ml <br/>
+      Crema ochi Reversive - 3 ml   <br/>
+    Dual serum Reversive (fiole+pipetă) - 7 ml<br>
+    Mască Reversive - 10 ml.
+      <span>
+    </mj-text>
+    <mj-button mj-class="call-action-round" href="https://www.glemis.ro/set-tratament-anti-age-complet-reversive-treatment-set-reversive-babor-6-produse?"><i>DESCOPERA</i></mj-button>
+    <mj-spacer height="50px"></mj-spacer>
+  </mj-column>
+</mj-section>
+<!-- 2 grup image + Text Start -->
+
+<!-- Product 4 Start -->
+<mj-section mj-class="sec-padd-product">
+  <mj-group>
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/crema-pentru-ochi-hydra-lift-eye-cream-100-maria-galland-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/maria-galland/eyes-and-neckline/hydra-lift-eye-cream-100-maria-galland-15-ml-228x228.png" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+         <span class="product_title">Crema pentru ochi Maria Galland </span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-pentru-ochi-hydra-lift-eye-cream-100-maria-galland-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+      
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/crema-de-ochi-antirid-luxurianta-cu-extract-de-caviar-verde-the-eye-cream-seacreation-babor-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/seacreation/the-eye-cream-seacreation-babor-15-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+       <span class="product_title">Crema de ochi antirid cu extract de caviar verde
+</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-de-ochi-antirid-luxurianta-cu-extract-de-caviar-verde-the-eye-cream-seacreation-babor-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  
+  <mj-group>
+   <mj-column vertical-align="middle">
+   <mj-image css-class="top30" href="https://www.glemis.ro/crema-pentru-ochi-nutri-contur-enriched-eye-cream-93-maria-galland-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/maria-galland/eyes-and-neckline/enriched-eye-cream-93-maria-galland-15-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+     <mj-text align="center" padding="0px 0px">
+       <span class="product_title">Crema pentru ochi Nutri-Contur</span>
+     </mj-text>
+   <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-pentru-ochi-nutri-contur-enriched-eye-cream-93-maria-galland-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+   </mj-column>
+      
+   <mj-column vertical-align="middle">
+   <mj-image css-class="top30" href="https://www.glemis.ro/gel-crema-pentru-conturul-ochilor-eye-contur-gel-cream-skin-comfort-bruno-vassari-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/bruno-vassari/skin-comfort/eye-contur-gel-cream-skin-comfort-bruno-vassari-15-ml-228x228.png" width="200px" padding="5px"></mj-image>
+     <mj-text align="center" padding="0px 0px">
+        <span class="product_title">Easy and quick</span>
+     </mj-text>
+   <mj-button mj-class="orange-button" href="https://www.glemis.ro/gel-crema-pentru-conturul-ochilor-eye-contur-gel-cream-skin-comfort-bruno-vassari-15-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+   </mj-column>
+  </mj-group>  
+  </mj-section>
+<!-- Product 4 End --> 
+ 
+ <!-- footer Start -->
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-text mj-class="footer">
+       <b>
+       CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+       <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+         style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+       </p>
+     </mj-text>
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column width="15%">
+   </mj-column>
+   <mj-column width="70%">
+     <mj-text mj-class="plitic-terms">
+         <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+         <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+     </mj-text>
+   </mj-column>
+   <mj-column width="15%">
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+     </mj-social>
+   </mj-column>
+ </mj-section>
+<!-- Footer End -->
+</mj-body>
+</mjml>

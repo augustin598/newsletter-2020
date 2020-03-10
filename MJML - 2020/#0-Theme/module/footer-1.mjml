@@ -1,0 +1,39 @@
+
+
+<mj-section mj-class="footer-amazon">
+  <mj-column>
+    <mj-text mj-class="footer-text">
+      <b>
+        CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+      <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section mj-class="footer">
+  <mj-column width="15%">
+  </mj-column>
+  <mj-column width="70%">
+    <mj-text mj-class="politic-terms">
+      <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+      <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+    </mj-text>
+  </mj-column>
+  <mj-column width="15%">
+  </mj-column>
+</mj-section>
+
+
+<mj-section mj-class="footer">
+  <mj-column>
+    <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+      <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+      </mj-social-element>
+      <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+      </mj-social-element>
+      <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+      </mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,5 @@
+<!-- Menu  -->
+<mj-class name="sec-padd-menu" padding="0px" border-bottom="2px #fff" />
+<mj-class name="menu_links" color="#ffffff" font-weight="400" font-size="16px" />
+<mj-class name="menu_links_offer" color="#F6DA01" font-weight="900" font-size="18px" />
+<!-- Menu  -->

@@ -1,0 +1,398 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .link-nostyle { color: inherit; text-decoration: none } .circle {border-radius: 50%; width: 200px; height: 200px;} p{font-weight:normal;color:#000000;letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:center;font-family:lucida sans unicode,lucida
+      grande, sans-serif;line-height:1;margin:5px;padding:5px;} .p-head{font-weight:normal; color:#000; letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:justify;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:16px;margin:5px;padding:5px;}
+      .p-footer{font-weight:normal; color:#fff; letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:center;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:16px;margin:5px;padding:5px;} h3{font-weight:normal;color:#000000;letter-spacing:1pt;word-spacing:2pt;font-size:17px;text-align:center;font-family:arial
+      black, sans-serif;line-height:1; padding:10px 15px; margin:5px} h1{font-family: Ubuntu, Helvetica, Arial, sans-serif; line-height:1; font-size:21px;text-align:center; padding:10px 10px; margin:0px;} .h1-left{font-family: Ubuntu, Helvetica, Arial,
+      sans-serif; line-height:1; font-size:21px; text-align:left; padding:10px 10px; margin:0px;} /* === PRODUCT DESCRIPTION === */ .product{ font-weight: normal; color: #000000; letter-spacing: 0pt; word-spacing: 2pt; font-size: 12px; text-align: center;
+      font-family: lucida sans unicode,lucida grande, sans-serif; line-height: 1; margin: 5px; padding: 5px; height: 67px; overflow: hidden;text-overflow: ellipsis;} /* === PRODUCT DESCRIPTION === */ /* === PRODUCT HEADING === */ h3{font-family: Ubuntu,
+      Helvetica, Arial, sans-serif; line-height: 1; font-size: 16px; text-align: center; padding: 10px 0px; margin: 0px; color: #000; font-weight:500; height: 40px; overflow: hidden;} /* === PRODUCT HEADING === */ /* === BACKGROUND BODY START === */ body
+      { background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-7/vintage-pattern-background_1812528.jpg"); } /* === BACKGROUND BODY End === */
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container >
+      <mj-section background-color="#fff" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#2f323b" font-size="13" padding-left="25" padding-right="25" padding-bottom="5" padding-top="10">
+           Părul blond se enumeră în topul preferințelor femeilor, iar noi știm cât de greu este ...
+          </mj-text>
+          <mj-text align="center" color="#2f323b" font-size="13" padding-left="25" padding-right="25" padding-bottom="10" padding-top="5">
+            Daca intampinati probleme in vizualizarea acestui mail, <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong></a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-navbar background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image href="https://www.glemis.ro/" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" alt="Glemis" width="200" align="center" padding="10">
+          </mj-image>
+          < </mj-column>
+            <mj-column width="100%">
+              <mj-inline-links base-url="https://www.glemis.ro" hamburger="hamburger" ico-color="#fa8739">
+                <mj-link href="https://www.glemis.ro/index.php?route=product/special&amp;utm_content=header_menu" color="#000000">Oferte</mj-link>
+                <mj-link href="https://www.glemis.ro/articole?utm_content=header_menu" color="##ff1100">blog</mj-link>
+                <mj-link href="https://www.glemis.ro?utm_content=header_menu" color="#000000">store</mj-link>
+              </mj-inline-links>
+            </mj-column>
+      </mj-navbar>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="http://glemis.ro?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-7/blonde-hair.png" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-text align="center" color="#000" font-size="15" padding-left="0" padding-right="0" padding-bottom="0" padding-top="10">
+            <h2>Părul blond se enumeră în topul preferințelor femeilor, iar noi știm cât de greu este de întreținut, de aceea venim în ajutorul tău cu câteva sugestii pentru menținerea unui păr sănătos și strălucitor. </h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="5">
+        <mj-column width="10%"></mj-column>
+        <mj-column width="80%">
+          <mj-button background-color="#fa8739" color="#fff" font-size="17" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/cum-sa-alegi-nuante-potrivita-de-blond?utm_content=call_articol" padding-bottom="0" padding-top="0">
+            Cum să alegi nuanţe potrivită de blond
+          </mj-button>
+        </mj-column>
+        <mj-column width="10%"></mj-column>
+      </mj-section>
+
+      <!-- Produse Headear Start -->
+      <mj-section background-color="#fff" padding-top="5" padding-bottom="5">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h1>Folosește un șampon violet - gri</h1>
+          </mj-text>
+          <mj-text font-weight="bold" align="justify" color="#000" font-size="15" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0">
+            <p class="p-head">Părul blond are tendința de a căpăta o nuanță de portocaliu, acest lucru putând fi evitat prin folosirea unui astfel de șampon o dată pe săptămână, acesta ajutând la echilibrarea culorilor de blond. </p>
+          </mj-text>
+          <mj-image href="https://www.glemis.ro/top-4-vopsele-de-par-profesionale?utm_content=banner-articol" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-7/eb8a94bfa0a59c80d434a4c80bf8e545.png" alt="Glemis" align="center" border="none" width="600"
+            padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+      <!-- Produse Headear End -->
+      <mj-section background-color="#fff" padding-top="10" padding-bottom="10" padding-left="5" padding-right="5">
+        <!-- Produs 1 start -->
+        <mj-column>
+          <mj-image href="?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/manufacturer/joico-240x100.png" title="" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+        </mj-column>
+        <!-- Produs 1 End -->
+
+        <!-- Produs 2 start -->
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/keune?utm_content=product_brand" src="https://img.glemis.com/cache/catalog/manufacturer/keune-240x100.png" title="" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+        </mj-column>
+        <!-- Produs 2 End -->
+
+        <!-- Produs 3 start -->
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/alfaparf-milano?utm_content=product_brand" src="https://img.glemis.com/cache/catalog/manufacturer/alfaparf-milano-240x100.png" title="" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0"
+            width="200">
+          </mj-image>
+        </mj-column>
+        <!-- Produs 3 End -->
+
+      </mj-section>
+      <mj-section background-color="#fff" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+
+        <mj-column>
+          <mj-text>
+            <hr style="width:100%; height:2px;border:none;color:#000;background-color:#000;">
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+      <!-- Containter Produse Start 1 -->
+      <mj-section background-color="#fff" padding-top="10" padding-bottom="10" padding-left="5" padding-right="5">
+        <!-- Produs 1 start -->
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/sampon-pentru-par-blond-cu-reflexii-violet-color-endure-sulfate-free-shampoo-violet-joico-300-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/joico/color-endure/color-endure-sulfate-free-shampoo-violet-joico-300-ml-228x228.jpg"
+            title="Sampon pentru par blond cu reflexii violet - Color Endure - Sulfate Free Shampoo - Violet - Joico - 300 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Sampon pentru par blond cu reflexii violet - Color Endure - Sulfate Free Shampoo - Violet - Joico - 300 ml</h3>
+            <p class="product">este un șampon special formulat pentru menținerea culorilor de blond. Curăță gentil în timp ce păstrează vibrantă culoarea, hrănește, fortifică și protejează firul de păr, reducând semnificativ schimbarea de ton sau mătuirea culorii./p>
+              <p style="color: rgb(250, 135, 57);">63,50 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/sampon-pentru-par-blond-cu-reflexii-violet-color-endure-sulfate-free-shampoo-violet-joico-300-ml?utm_content=product_buy"
+            padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 1 End -->
+
+        <!-- Produs 2 start -->
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/sampon-cu-reflexii-argintii-silver-reflex-shampoo-keune-250-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/keune/blonde/silver-reflex-shampoo-keune-250-ml-228x228.jpg" title="Șampon cu reflexii argintii - Silver Reflex Shampoo - Keune - 250 ml"
+            align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Șampon cu reflexii argintii - Silver Reflex Shampoo - Keune - 250 ml</h3>
+            <p class="product">Samponul Silver curață reflexele de galben de pe părul alb, gri sau decolorat. Poate fi folosit pentru a neutraliza galbenul pe părul decolorat cu pudră. Proteinele de grâu și provitamina B5 ajută la obținerea unui păr strălucitor și plin
+              de vitalitate.</p>
+            <p style="color: rgb(250, 135, 57);">62,50 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/sampon-cu-reflexii-argintii-silver-reflex-shampoo-keune-250-ml?utm_content=product_buy" padding-bottom="10"
+            padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 2 End -->
+
+        <!-- Produs 3 start -->
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/sampon-pigmentat-anti-ingalbenire-pentru-par-alb-sau-blond-rece-never-brass-thats-it-alfaparf-milano-250-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/alfaparf-milano/thats-it/never-brass-thats-it-alfaparf-milano-250-ml-228x228.jpg"
+            title="Sampon pigmentat anti-ingalbenire pentru par alb sau blond rece - Never Brass - That's It - Alfaparf Milano - 250 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Sampon pigmentat anti-ingalbenire pentru par alb sau blond rece - Never Brass - That's It - Alfaparf Milano - 250 ml</h3>
+            <p class="product">Un șampon pigmentat formulat pentru a neutraliza tonurile nedorite și pentru a spori strălucirea părului vopsit în tonuri de blond rece și a părului tratat chimic în tonuri reci de alb sau gri. Anti-îngălbenire.</p>
+            <p style="color: rgb(250, 135, 57);">49,20 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/sampon-pigmentat-anti-ingalbenire-pentru-par-alb-sau-blond-rece-never-brass-thats-it-alfaparf-milano-250-ml?utm_content=product_buy"
+            padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 3 End -->
+
+      </mj-section>
+      <!-- Containter Produse End 1 -->
+      <mj-section padding-top="10" padding-bottom="5">
+        <mj-column width="100%">
+          <mj-image href="https://www.glemis.ro/index.php?route=product/special" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-7/trans1.png" title="" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!-- Produse Headear Start -->
+      <mj-section background-color="#fff" padding-top="5" padding-bottom="5">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h1>Utilizează produse special concepute pentru părul blond</h1>
+          </mj-text>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <p class="p-head">
+              Părul blond necesită îngrijire suplimentară, de aceea este important să folosești produse special concepute pentru acest tip de păr.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Produse Headear End -->
+
+      <mj-section background-url="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-7/nice-background-pattern-062.gif" background-repeat="repeat">
+        <mj-column width="50%">
+          <mj-image href="?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-7/1._After_Front_b70e8e77-b59d-478e-bc9f-754a5cc37503.jpg" title="" align="center" padding-left="5" padding-right="5" padding-bottom="0"
+            padding-top="0">
+          </mj-image>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/tratament-perfector-hair-perfector-no-3-olaplex-100-ml?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-7/5100195324.jpg" title="" align="center" padding-left="5" padding-right="5"
+            padding-bottom="0" padding-top="0">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!-- Containter Produse Start 2 -->
+      <mj-section background-url="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-7/nice-background-pattern-062.gif" background-repeat="repeat-" padding-top="10" padding-bottom="10" padding-left="5" padding-right="5">
+        <!-- Produs 1 start -->
+        <mj-column background-color="#fff">
+          <mj-image href="https://www.glemis.ro/sampon-iluminator-pentru-parul-blond-brightening-shampoo-blonde-life-joico-1000-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/joico/blonde-life/brightening-shampoo-blonde-life-joico-1000-ml-228x228.jpg"
+            title="Sampon iluminator pentru parul blond - Brightening Shampoo - Blonde Life - Joico - 1000 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="5" width="200">
+
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Sampon iluminator pentru parul blond - Brightening Shampoo - Blonde Life - Joico - 1000 ml</h3>
+            <p class="product">Nouă gamă JOICO Blonde Life este o gamă special concepută pentru nevoile speciale de întreținere ale părului blond, care știm că este o culoare ce se confruntă cu cele mai mari probleme, respectiv uscare și degradare accelerată, precum și
+              pierderea strălucirii sau a tonurilor create. Cu noile produse Joico Blonde Life întreținerea părului blond nu va mai fi o problemă. </p>
+            <p style="color: rgb(250, 135, 57);">175,60 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/sampon-iluminator-pentru-parul-blond-brightening-shampoo-blonde-life-joico-1000-ml?utm_content=product_buy"
+            padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 1 End -->
+
+        <!-- Produs 2 start -->
+        <mj-column background-color="#fff">
+          <mj-image href="https://www.glemis.ro/sampon-pentru-par-blond-sau-cu-suvite-anti-brassiness-shampoo-blondes-highlights-goldwell-1500-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/goldwell/blondes-highlights/sampon-pentru-par-blond-sau-cu-suvite-anti-brassiness-shampoo-blondes-highlights-goldwell-1500-ml-228x228.jpg"
+            title="Sampon pentru par blond sau cu suvite - Anti-Brassiness Shampoo - Blondes & Highlights - Goldwell - 1500 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="5" width="200">
+
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Sampon pentru par blond sau cu suvite - Anti-Brassiness Shampoo - Blondes & Highlights - Goldwell - 1500 ml</h3>
+            <p class="product">Șampon fortifiant anti-nuanțe arămii, ce creează o spumă cremoasă pentru curățarea delicată a părului. Conține o formula inovatoare impotriva decolorarii ce întărește activ ancorarea moleculelor de vopsea. Reduce la minimum decolorarea.</p>
+            <p style="color: rgb(250, 135, 57);">160,70 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/sampon-pentru-par-blond-sau-cu-suvite-anti-brassiness-shampoo-blondes-highlights-goldwell-1500-ml?utm_content=product_buy"
+            padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 2 End -->
+
+        <!-- Produs 3 start -->
+        <mj-column background-color="#fff">
+          <mj-image href="https://www.glemis.ro/balsam-iluminator-pentru-parul-blond-brightening-conditioner-blonde-life-joico-250-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/joico/blonde-life/brightening-conditioner-blonde-life-joico-250-ml-228x228.jpg"
+            title="Balsam iluminator pentru parul blond - Brightening Conditioner - Blonde Life - Joico - 250 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="5" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Balsam iluminator pentru parul blond - Brightening Conditioner - Blonde Life - Joico - 250 ml</h3>
+            <p class="product">Balsam pentru par blond imbogatit cu Arginina si uleiuri exotice de Monoi si Tamanu. Hidrateaza, confera stralucire, intareste si descurca firul de par.</p>
+            <p style="color: rgb(250, 135, 57);">71,80 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/balsam-iluminator-pentru-parul-blond-brightening-conditioner-blonde-life-joico-250-ml?utm_content=product_buy"
+            padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 3 End -->
+
+      </mj-section>
+      <!-- Containter Produse End 2 -->
+
+      !-- Produse Headear Start -->
+      <mj-section background-color="#fff" padding-top="5" padding-bottom="5">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h1>Oferă-i strălucire!</h1>
+          </mj-text>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <p class="p-head">
+              Un păr blond fără strălucire este inestetic, din acest motiv este indicat să îți hidratezi părul și să folosești produse special concepute în acest sens.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Produse Headear End -->
+
+      <!-- Containter Produse Start 1 -->
+      <mj-section background-color="#fff" padding-top="10" padding-bottom="10" padding-left="5" padding-right="5">
+        <!-- Produs 1 start -->
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/spray-iluminator-si-protector-pentru-parul-blond-brightening-veil-blonde-life-joico-150-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/joico/blonde-life/brightening-veil-blonde-life-joico-150-ml-228x228.png" title="
+Spray iluminator si protector pentru parul blond - Brightening Veil - Blonde Life - Joico - 150 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>
+Spray iluminator si protector pentru parul blond - Brightening Veil - Blonde Life - Joico - 150 ml</h3>
+            <p class="product">Spray pentru parul blond. Protejeaza impotriva razelor UV, nu lasa reziduuri, actioneaza ca protectie termica pentru produsele de coafat (placa, ondulator, feon) si anti-frizz ( lupta impotriva incretirii: nu lasa parul sa se deshidrateze si nu lasa umezeala din aer sa afecteze coafura).</p>
+            <p style="color: rgb(250, 135, 57);">77,10 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/spray-iluminator-si-protector-pentru-parul-blond-brightening-veil-blonde-life-joico-150-ml?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 1 End -->
+
+        <!-- Produs 2 start -->
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/serum-tip-spray-pentru-protectia-culorii-serum-spray-blondes-highlights-goldwell-150-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/goldwell/blondes-highlights/serum-tip-spray-pentru-protectia-culorii-serum-spray-blondes-highlights-goldwell-150-ml-228x228.jpg" title="Serum tip spray pentru protectia culorii - Serum Spray - Blondes & Highlights - Goldwell - 150 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Serum tip spray pentru protectia culorii - Serum Spray - Blondes & Highlights - Goldwell - 150 ml</h3>
+            <p class="product">este un ser pentru parul blond sau cu suvite ce ajuta la protejarea culorii, intensifica stralucirea culorii blonde si restructureaza firele de par./p>
+            <p style="color: rgb(250, 135, 57);">59,20 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/serum-tip-spray-pentru-protectia-culorii-serum-spray-blondes-highlights-goldwell-150-ml?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 2 End -->
+
+        <!-- Produs 3 start -->
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/tratament-pentru-par-subtire-sau-de-culoare-deschisa-treatment-light-moroccanoil-100-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/moroccanoil/scalp-balance-light/treatment-light-moroccanoil-100-ml-228x228.jpg" title="Tratament pentru par subtire sau de culoare deschisa - Treatment - Light - Moroccanoil - 100 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Tratament pentru par subtire sau de culoare deschisa - Treatment - Light - Moroccanoil - 100 ml</h3>
+            <p class="product">Formula sa unica, versatila, combina doleantele celor care isi doresc de la acest tratament un produs pentru ingrijire, tratare, hidratare si regenerare a parului degradat, dar si un produs pentru coafare si finisare. </p>
+            <p style="color: rgb(250, 135, 57);">176,12 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/tratament-pentru-par-subtire-sau-de-culoare-deschisa-treatment-light-moroccanoil-100-ml?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 3 End -->
+
+      </mj-section>
+      <!-- Containter Produse End 1 -->
+
+
+      <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#fff" font-size="13" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <a style="font-size:20;" href="https://www.glemis.ro/index.php?route=product/special" class="link-nostyle">Super Reduceri!</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#000" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <p class="p-footer">
+              CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.<br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+              <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+                style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#000" padding-bottom="0" padding-top="0">
+        <mj-column width="15%">
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <p class="p-footer">
+              <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|&nbsp;
+              <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+            </p>
+          </mj-text>
+          <mj-social font-size="13" text-mode="false" facebook-href="https://www.facebook.com/GlemisRomania" twitter-href="https://twitter.com/GlemisRomania" google-href="https://plus.google.com/+GlemisSuceava" mode="horizontal" display="facebook twitter google"
+            padding-left="25" padding-right="25" padding-bottom="5" padding-top="5">
+          </mj-social>
+        </mj-column>
+        <mj-column width="15%">
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>

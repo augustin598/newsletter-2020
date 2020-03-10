@@ -1,0 +1,411 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+      E:\#0 Theme\resurse
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+          Descopera rujurile profesionale de la Malu Wilz
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/malu-wilz?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/malu-wilz/Malu-Wilz-600x600.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Call to action Full Start-->
+    <mj-section mj-class="cta-full">
+      <mj-column mj-class="col-100" background-color="#f2d3db" padding="5px">
+        <mj-text mj-class="tx-center" font-size="20px" color="#000">
+          <a class="clear-link" href="https://www.glemis.ro/malu-wilz?utm_content=call_action"><b>Comandă</b></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Full End-->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Rujuri persistente care asigură o acoperire uniformă</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+    
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-de-buze-nuantator-natural-natural-glow-lip-balm-malu-wilz" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/natural-glow-lip-balm-malu-wilz-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam de buze nuantator natural MALU WILZ</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-de-buze-nuantator-natural-natural-glow-lip-balm-malu-wilz?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-01" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-01-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lipstick - MALU WILZ - Nr. 01 Ruj</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-01?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-107" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-107-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lipstick - MALU WILZ - Nr. 107 Ruj
+</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="#https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-107utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-146" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-146-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lipstick - MALU WILZ - Nr. 146 Ruj</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-146?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-150" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-150-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lipstick - MALU WILZ - Nr. 150 Ruj</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-150?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-160" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-160-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lipstick - MALU WILZ - Nr. 160 Ruj</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-160?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-65" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-65-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lipstick - MALU WILZ - Nr. 65 Ruj</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-65?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-03-malu-wilz" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-03-malu-wilz-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lipstick 03 - MALU WILZ Ruj</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-03-malu-wilz?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+
+    <!-- 2 Group Image Elements Start -->
+    <mj-section mj-class="two-img" background-color="#f2d3db">
+      <mj-column mj-class="col-50">
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2019/malu-wilz/ruj1.jpg" href="https://www.glemis.ro/malu-wilz" padding="10px">
+        </mj-image>
+      </mj-column>
+
+      <mj-column mj-class="col-50">
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2019/malu-wilz/ruj2.jpg" href="https://www.glemis.ro/malu-wilz" padding="10px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- 2 Group Image Elements Start -->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">True Matt Lipstick</span>
+              <span class="subtitle">Rujuri rezistente, prezentate într-o nouă înfăţişare, în clasicul negru de lux, conferă o senzaţie mătăsoasă şi acoperire mare</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-mat-hidratant-fara-parabeni-11-true-matt-lipstick-malu-wilz-4-gr" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/true-matt-lipstick/11-true-matt-lipstick-malu-wilz-4-gr-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Ruj mat hidratant fara parabeni<br> MALU WILZ</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-mat-hidratant-fara-parabeni-11-true-matt-lipstick-malu-wilz-4-gr?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-mat-hidratant-fara-parabeni-13-true-matt-lipstick-malu-wilz-4-gr" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/true-matt-lipstick/13-true-matt-lipstick-malu-wilz-4-gr-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Ruj mat hidratant fara parabeni <br>MALU WILZ </span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-mat-hidratant-fara-parabeni-13-true-matt-lipstick-malu-wilz-4-gr?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-mat-hidratant-fara-parabeni-15-true-matt-lipstick-malu-wilz-4-gr" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/true-matt-lipstick/15-true-matt-lipstick-malu-wilz-4-gr-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Ruj mat hidratant fara parabeni <br>MALU WILZ</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-mat-hidratant-fara-parabeni-15-true-matt-lipstick-malu-wilz-4-gr?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-mat-hidratant-fara-parabeni-19-true-matt-lipstick-malu-wilz-4-gr" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/true-matt-lipstick/19-true-matt-lipstick-malu-wilz-4-gr-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Ruj mat hidratant fara parabeni <br> MALU WILZ </span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-mat-hidratant-fara-parabeni-19-true-matt-lipstick-malu-wilz-4-gr?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+
+    <mj-include path="../#0-Theme/Remary-section/section-1.mjml" />
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;"> Lip Stylo</span>
+              <span class="subtitle">Rujuri rezistente si hranitoare, cu finish glossy.</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-rezistent-si-hranitor-cu-finish-glossy-1-lip-stylo-malu-wilz" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lip-stylo/1-lip-stylo-malu-wilz-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title"> Malu Wilz Ruj rezistent si hranitor cu finish glossy</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-rezistent-si-hranitor-cu-finish-glossy-1-lip-stylo-malu-wilz?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-rezistent-si-hranitor-cu-finish-glossy-2-lip-stylo-malu-wilz" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lip-stylo/2-lip-stylo-malu-wilz-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Ruj rezistent si hranitor cu finish glossy</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-rezistent-si-hranitor-cu-finish-glossy-2-lip-stylo-malu-wilz?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-rezistent-si-hranitor-cu-finish-glossy-7-lip-stylo-malu-wilz" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lip-stylo/6-lip-stylo-malu-wilz-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Ruj rezistent si hranitor cu finish glossy</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-rezistent-si-hranitor-cu-finish-glossy-7-lip-stylo-malu-wilz?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ruj-rezistent-si-hranitor-cu-finish-glossy-9-lip-stylo-malu-wilz" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lip-stylo/9-lip-stylo-malu-wilz-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Ruj rezistent si hranitor cu finish glossy</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-rezistent-si-hranitor-cu-finish-glossy-9-lip-stylo-malu-wilz?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/malu-wilz?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/malu-wilz/malu-willz-2.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Glossuri</span>
+              <span class="subtitle">Gama de produse pentru o strălucire intensă a buzelor
+</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/gloss-hidratant-glossy-stick-moisturizing-lip-color-orange-kiss-3-malu-wilz" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/glosses/glossy-stick-moisturizing-lip-color-orange-kiss-3-malu-wilz-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Orange Kiss 3 - MALU WILZ Gloss hidratant</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/gloss-hidratant-glossy-stick-moisturizing-lip-color-orange-kiss-3-malu-wilz?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/gloss-hidratant-glossy-stick-moisturizing-lip-color-skin-touch-4-malu-wilz" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/glosses/glossy-stick-moisturizing-lip-color-skin-touch-4-malu-wilz-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Skin Touch 4 - MALU WILZ Gloss hidratant</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/gloss-hidratant-glossy-stick-moisturizing-lip-color-skin-touch-4-malu-wilz?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/gloss-hidratant-glossy-stick-moisturizing-lip-color-malu-wilz-3-gr-nr-1" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/glosses/glossy-stick-moisturizing-lip-color-malu-wilz-3-gr-nr-1-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lip Color - MALU WILZ - 3 gr - nr. 1 Gloss hidratant</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/gloss-hidratant-glossy-stick-moisturizing-lip-color-malu-wilz-3-gr-nr-1?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/gloss-hidratant-glossy-stick-moisturizing-lip-color-malu-wilz-3-gr-nr-1" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/glosses/glossy-stick-moisturizing-lip-color-malu-wilz-3-gr-nr-1-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Lip Color - MALU WILZ - 3 gr - nr. 1 Gloss hidratant</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/gloss-hidratant-glossy-stick-moisturizing-lip-color-malu-wilz-3-gr-nr-1?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- footer Start -->
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer-text">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

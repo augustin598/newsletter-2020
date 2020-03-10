@@ -1,0 +1,5 @@
+<!-- Colums Mod's Start  -->
+<mj-class name="col-33" vertical-align="middle" width="33.33333333333333%" />
+<mj-class name="col-50" vertical-align="middle" width="50.00000000000000%" />
+<mj-class name="col-100" vertical-align="middle" width="100%" />
+<!-- Colums Mod's End  -->

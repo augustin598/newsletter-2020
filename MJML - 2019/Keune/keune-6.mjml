@@ -1,0 +1,451 @@
+<mjml>
+  
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+      E:\#0 Theme\resurse
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body background-color="#f4c095">
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+        Keune este brandul eleganței și al creativității care îi conferă părului un aspect modern. 
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Menu -->
+    <mj-section mj-class="menu" background-color="#000">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links" color="#fff" href="/keune-satin-oil">
+Satin Oil</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" color="#fff" href="/keune-color-brillianz">Color Brillianz</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" color="#fff" href="/keune-vital-nutrition">Vital Nutrition</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" color="#fff" href="/keune-derma-care">Derma Care</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/keune?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/keune/1212_KEUNE_Tinta_Diamond_ALIQUE_905.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Call to action Full Start-->
+    <mj-section mj-class="cta-full">
+      <mj-column mj-class="col-100" background-color="#000" padding="5px">
+        <mj-text mj-class="tx-center" font-size="20px" color="#fff">
+          <a class="clear-link" href="https://www.glemis.ro/keune?utm_content=call_action"><b>Calitate Keune încă din 1922</b></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Full End-->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Satin Oil</span>
+              <span class="subtitle">Gama Satin Oil de la Keune are la bază o formulă inovatoare ce lasă părul incredibil de strălucitor, sănătos și ușor de pieptănat. </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-de-stralucire-si-hranire-pentru-par-deshidratat-conditioner-satin-oil-keune-80-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/conditioner-satin-oil-keune-80-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:violet; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Balsam de stralucire si hranire pentru par deshidratat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-de-stralucire-si-hranire-pentru-par-deshidratat-conditioner-satin-oil-keune-80-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-de-stralucire-si-hranire-pentru-par-deshidratat-shampoo-satin-oil-keune-80-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/shampoo-satin-oil-keune-80-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:violet; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Sampon de stralucire si hranire pentru par deshidratat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-de-stralucire-si-hranire-pentru-par-deshidratat-shampoo-satin-oil-keune-80-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-de-stralucire-si-hranire-pentru-par-deshidratat-conditioner-satin-oil-keune-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/conditioner-satin-oil-keune-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:violet; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Balsam de stralucire si hranire pentru par deshidratat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-de-stralucire-si-hranire-pentru-par-deshidratat-conditioner-satin-oil-keune-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-crema-de-stralucire-si-hranire-pentru-par-deshidratat-satin-oil-oil-milk-keune-140-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/satin-oil-oil-milk-keune-140-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:violet; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Tratament cremă de strălucire și hrănire pentru păr deshidratat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-crema-de-stralucire-si-hranire-pentru-par-deshidratat-satin-oil-oil-milk-keune-140-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-pentru-stralucire-satin-oil-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/kit-mic-pentru-stralucire-satin-oil-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:violet; padding: 5px; color: #fff;">Reducere -30%</p>
+            <span class="product_title">Kit mic pentru stralucire
+Kuune</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-pentru-stralucire-satin-oil-keune?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-stralucire-satin-oil-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/kit-to-shine-satin-oil-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:violet; padding: 5px; color: #fff;">Reducere -30%</p>
+            <span class="product_title">Kit pentru stralucire Keune</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-stralucire-satin-oil-keune?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ulei-tratament-de-stralucire-si-hranire-pentru-parul-deshidratat-satin-oil-treatment-keune-95-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/satin-oil-treatment-keune-95-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:violet; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Ulei tratament de strălucire și hrănire pentru părul deshidratat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ulei-tratament-de-stralucire-si-hranire-pentru-parul-deshidratat-satin-oil-treatment-keune-95-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+    
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/masca-de-stralucire-si-hranire-pentru-par-deshidratat-satin-oil-mask-keune-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/satin-oil-mask-keune-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:violet; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Mască de strălucire și hrănire pentru păr deshidratat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-de-stralucire-si-hranire-pentru-par-deshidratat-satin-oil-mask-keune-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Color Brillianz</span>
+              <span class="subtitle">Produsele profesionale Keune din gama Color Brillianz au la bază ingrediente ce sigilează culoarea și îi prelungesc intensitatea, furnizând părului protecție și strălucire de durată. </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-intens-protector-pentru-par-vopsit-conditioner-color-brillianz-keune-80-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/conditioner-color-brillianz-keune-80-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:green; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Balsam intens protector pentru par vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-intens-protector-pentru-par-vopsit-conditioner-color-brillianz-keune-80-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-intens-protector-pentru-par-vopsit-shampoo-color-brillianz-keune-80-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/shampoo-color-brillianz-keune-80-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+             <p style="background-color:green; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Sampon intens protector pentru par vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-intens-protector-pentru-par-vopsit-shampoo-color-brillianz-keune-80-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-intens-protector-pentru-par-vopsit-conditioner-color-brillianz-keune-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/conditioner-color-brillianz-keune-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:green; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Balsam intens protector pentru par vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-intens-protector-pentru-par-vopsit-conditioner-color-brillianz-keune-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/spray-stabilizator-de-culoare-color-brillianz-conditioning-spray-keune-140-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/color-brillianz-conditioning-spray-keune-140-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:green; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Spray stabilizator de culoare</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/spray-stabilizator-de-culoare-color-brillianz-conditioning-spray-keune-140-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-pentru-sigilarea-culorii-color-brillianz-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/kit-mic-pentru-sigilarea-culorii-color-brillianz-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:green; padding: 5px; color: #fff;">Reducere -30%</p>
+            <span class="product_title">Kit mic pentru sigilarea culorii</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-pentru-sigilarea-culorii-color-brillianz-keune?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+    
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-sigilarea-culorii-color-brillianz-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/kit-pentru-sigilarea-culorii-color-brillianz-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:green; padding: 5px; color: #fff;">Reducere -30%</p>
+            <span class="product_title">Kit pentru sigilarea culorii</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-sigilarea-culorii-color-brillianz-keune?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/masca-tratament-intens-protectoare-pentru-sigilarea-culorii-color-brillianz-mask-keune-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/color-brillianz-mask-keune-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:green; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Mască tratament intens protectoare pentru sigilarea culorii
+</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-tratament-intens-protectoare-pentru-sigilarea-culorii-color-brillianz-mask-keune-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+    
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-intens-protector-pentru-par-vopsit-shampoo-color-brillianz-keune-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/shampoo-color-brillianz-keune-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:green; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Sampon intens protector pentru par vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-intens-protector-pentru-par-vopsit-shampoo-color-brillianz-keune-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+
+    <mj-include path="../#0-Theme/Remary-section/section-1.mjml" />
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">
+                Vital Nutrition	</span>
+              <span class="subtitle">Produsele profesionale Keune din gama Vital Nutrition sunt ideale pentru părul deshidratat, degradat, sau agresat chimic datorită formulei exclusive ce conține polimeri cu rol de hidratare și hrănire profundă din interior </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-nutritiv-si-hidratant-pentru-par-intens-degradat-conditioner-vital-nutrition-keune-80-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/conditioner-vital-nutrition-keune-80-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:red; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Balsam nutritiv si hidratant pentru par intens degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-nutritiv-si-hidratant-pentru-par-intens-degradat-conditioner-vital-nutrition-keune-80-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-nutritiv-si-hidratant-pentru-par-intens-degradat-shampoo-vital-nutrition-keune-80-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/shampoo-vital-nutrition-keune-80-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:red; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Sampon nutritiv si hidratant pentru par intens degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-nutritiv-si-hidratant-pentru-par-intens-degradat-shampoo-vital-nutrition-keune-80-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-nutritiv-si-hidratant-pentru-par-intens-degradat-conditioner-vital-nutrition-keune-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/conditioner-vital-nutrition-keune-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:red; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title"> Balsam nutritiv si hidratant pentru par intens degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-nutritiv-si-hidratant-pentru-par-intens-degradat-conditioner-vital-nutrition-keune-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/spray-protector-si-hranitor-pentru-par-intens-degradat-vital-nutrition-protein-spray-keune-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/vital-nutrition-protein-spray-keune-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:red; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Spray protector și hrănitor pentru păr intens degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/spray-protector-si-hranitor-pentru-par-intens-degradat-vital-nutrition-protein-spray-keune-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/crema-reconstructoare-cu-protectie-termica-pentru-par-uscat-vital-nutrition-thermal-cream-keune-140-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/vital-nutrition-thermal-cream-keune-140-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:red; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Cremă reconstructoare cu protecție termică pentru păr uscat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-reconstructoare-cu-protectie-termica-pentru-par-uscat-vital-nutrition-thermal-cream-keune-140-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+    
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-par-degradat-vital-nutrition-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/kit-pentru-par-degradat-vital-nutrition-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:red; padding: 5px; color: #fff;">Reducere -30%</p>
+            <span class="product_title">Kit pentru par degradat Keune</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-par-degradat-vital-nutrition-keune?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-pentru-par-degradat-vital-nutrition-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/kit-mic-pentru-par-degradat-vital-nutrition-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:red; padding: 5px; color: #fff;">Reducere -30%</p>
+            <span class="product_title">Kit mic pentru par degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-pentru-par-degradat-vital-nutrition-keune?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+    
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/ser-crema-pentru-regenerarea-parului-poros-intens-degradat-vital-nutrition-porosity-filler-keune-25-ml" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/vital-nutrition-porosity-filler-keune-25-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <p style="background-color:red; padding: 5px; color: #fff;">Reducere -25%</p>
+            <span class="product_title">Ser cremă pentru regenerarea părului poros intens degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ser-crema-pentru-regenerarea-parului-poros-intens-degradat-vital-nutrition-porosity-filler-keune-25-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- footer Start -->
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer-text">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

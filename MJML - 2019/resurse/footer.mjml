@@ -1,0 +1,7 @@
+<!-- Footer Start -->
+<mj-class name="sec-padd-footer" padding="10px 0px" background-color="#fff" />
+
+<mj-class name="politic-terms" font-weight="normal" align="center" color="#000" font-size="15px" padding="0 10px 0 10px"/>
+
+<mj-class name="footer" font-weight="normal" color="#000" font-size="13px" align="center" line-height="26px;" padding="0px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+<!-- Footer end -->

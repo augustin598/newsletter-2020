@@ -1,0 +1,200 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .link-nostyle { color: inherit; text-decoration: none } .circle {border-radius: 50%; width: 200px; height: 200px;} p{font-weight:normal;color:#000000;letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:center;font-family:lucida sans unicode,lucida
+      grande, sans-serif;line-height:1;margin:5px;padding:5px;} .p-head{font-weight:normal; color:#000; letter-spacing:0pt;word-spacing:0pt;font-size:17px;text-align:justify;Ubuntu, Helvetica, Arial, sans-serif;line-height:19px;margin:5px;padding:5px;}
+      .p-footer{font-weight:normal; color:#fff; letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:center;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:16px;margin:5px;padding:5px;} h3{font-weight:normal;color:#000000;letter-spacing:1pt;word-spacing:2pt;font-size:17px;text-align:center;font-family:arial
+      black, sans-serif;line-height:1; padding:10px 15px; margin:5px} h1{font-family: Ubuntu, Helvetica, Arial, sans-serif; line-height:1; font-size:21px;text-align:center; padding:10px 10px; margin:0px;} .h1-left{font-family: Ubuntu, Helvetica, Arial,
+      sans-serif; line-height:1; font-size:21px; text-align:center; padding:10px 10px; margin:0px; font-weight:500;line-height: 26px;} /* === PRODUCT DESCRIPTION === */ .product{ font-weight: normal; color: #000000; letter-spacing: 3pt; word-spacing:
+      2pt; font-size: 12px; text-align: center; font-family: lucida sans unicode,lucida grande, sans-serif; line-height: 1; margin: 5px; padding: 5px; height: 67px; overflow: hidden;text-overflow: ellipsis;} /* === PRODUCT DESCRIPTION === */ /* === PRODUCT
+      HEADING === */ h3{font-family: Ubuntu, Helvetica, Arial, sans-serif; line-height: 1; font-size: 16px; text-align: center; padding: 10px 0px; margin: 0px; color: #000; font-weight:500; height: 40px; overflow: hidden;} /* === PRODUCT HEADING === */
+      /* === BACKGROUND BODY START === */ body { background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-1/f630ed82629b24f882a7b7d9a2456cfd--shaving-brush-haircut-styles.jpg"); } /* === BACKGROUND BODY End === */
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#d6dde5">
+      <mj-section background-color="#fff" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px">
+            Vrei o modalitate ușoară și nedureroasă de a scăpa de părul nedorit de pe față?
+          </mj-text>
+          <mj-text align="center" color="#2f323b" font-size="13" padding-left="25" padding-right="25" padding-bottom="10" padding-top="5px">
+            Daca intampinati probleme in vizualizarea acestui mail, <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong></a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image href="https://www.glemis.ro/" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" alt="Glemis" width="200" align="center" padding="10px">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="0" padding-bottom="0px">
+        <mj-column>
+          <mj-text color="#000" font-size="15" padding-left="0" padding-right="0" padding-bottom="0px" padding-top="0">
+            <h1 class="h1-left">Descoperă noul epilator facial hipoalergenic GLEMIS™</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f1e89d" padding-top="0" padding-bottom="5">
+        <mj-column width="60%">
+          <mj-image border="1px solid #fff" href="?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-27/500-x-870.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0px" padding-top="5px" width="500">
+          </mj-image>
+        </mj-column>
+
+        <mj-column width="40%">
+          <mj-image border="1px solid #fff" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-27/testat-dermatologic2.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0px" padding-top="5px" width="235">
+          </mj-image>
+          <mj-image border="1px solid #fff" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-27/adio-rose.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="5" padding-top="5px" width="235">
+          </mj-image>
+          <mj-image border="1px solid #fff" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-27/toate-tipurile.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0px" padding-top="0" width="235">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="0" padding-bottom="0px">
+        <mj-column>
+          <mj-text font-weight="bold" color="#000" font-size="30px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px">
+            <p class="p-head">
+              O modalitate hipoalergenică de a elimina părul nedorit de pe față și de pe corp! Acest epilator pentru față și corp este discret și extrem de delicat cu pielea dumneavoastră. Nimeni nu trebuie să știe ce este cu adevărat în geanta ta! Încearcă Noua tehnologie
+              revoluționară, cu aur de 18 K, pentru eliminarea părului facial, de la Glemis™.
+            </p>
+            <p class="p-head">
+              De la epilatorul facial pentru femei, NR.1 în lume, vine GLEMIS™ Facial Hair Remover - un dispozitiv revoluționar nou care elimină părul facial instantaneu și fără durere. Recomandat de dermatologi, capul placat cu aur de 18 K este hipoalergenic și extrem
+              de delicat cu toate tipurile de piele.</p>
+
+            <p class="p-head">
+              Dispune de tehnologia luminoasă Built-in, astfel încât să nu ratați niciodată vreun fir de păr! Fără ciupituri, roșeață sau iritație.
+            </p>
+
+            <p class="p-head">
+              Un finisaj la fel de neted ca ceara! Și, odată ce părul de pe față este eliminat, aplicarea machiajului dvs. este ușoară și fără defecte.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" border="2px solid #ff002a" padding="0px">
+        <mj-column>
+          <mj-text align="center" color="#ff002a" font-size="30" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <a style="font-size:30;" href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis?utm_content=call_action" class="link-nostyle">PROFITA ACUM!</a>
+          </mj-text>
+          <mj-text align="center" color="#ff002a" font-size="23" padding-left="25" padding-right="25" padding-bottom="10" padding-top="0"><b>-25% Discount!</b></mj-text>
+          <mj-image href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-6/transport-gratuit.png"
+            title="" align="center" padding-left="5px" padding-right="5px" padding-bottom="0px" padding-top="0" width="300">
+          </mj-image>
+          <mj-text align="center" color="#ff002a" font-size="25" padding-left="25" padding-right="25" padding-bottom="10" padding-top="0"><b>Transport Gratuit!</b></mj-text>
+
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section background-color="#fff" padding-top="10px" padding-bottom="10px" padding-left="5px" padding-right="5px">
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-27/imag1.jpg"
+            title="" align="center" padding-left="5px" padding-right="5px" padding-bottom="0px" padding-top="0" width="300">
+          </mj-image>
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-27/imag2.jpg"
+            title="" align="center" padding-left="5px" padding-right="5px" padding-bottom="0px" padding-top="0" width="300">
+          </mj-image>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="5px" padding-bottom="0px" padding-left="5px" padding-right="5px">
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-27/vezi-opinii.png"
+            title="" align="center" padding-left="5px" padding-right="5px" padding-bottom="0px" padding-top="5px" width="300"></mj-image>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-27/au-cumparat.png"
+            title="" align="center" padding-left="5px" padding-right="5px" padding-bottom="0px" padding-top="5px" width="300"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!-- Produse Headear Start -->
+      <mj-section background-color="#fff" padding-top="5px" padding-bottom="5">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0px" padding-top="0">
+            <h1 class="h1-left">Prezentare Video 18K Gold-Plated Facial Hair Remover - GLEMIS™</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Produse Headear End -->
+
+
+      <mj-section padding-top="0" padding-bottom="0px">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemisv?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter/newsletter-32/newsletter-32-4.jpg"
+            alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section background-color="#fff" padding-top="0" padding-bottom="0px">
+        <mj-column>
+          <mj-text font-weight="bold" color="#000" font-size="30px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px">
+            <p class="p-head">
+              Bucurați-vă de un ten neted, radiant, și nu vă mai faceți griji cu privire la părul jenant de pe zonele vizibile ale feței cu ajutorul epilatorului revoluționar Facial Hair Remover Glemis™.
+            </p>
+            
+            <p class="p-head">
+              Acest produs oferă o experiență de epilare superioară pentru o piele cu adevărat netedă. Epilatorul Facial Hair Remover Glemis™ îndepărtează chiar și cele mai fine fire de păr de pe piele.</p>
+
+            <p class="p-head">
+              Dispune de un cap performant ce ajută la eliminarea completă a părului nedorit într-o singură trecere, fiind ușor de controlat, pentru îndepartarea completă a firelor de păr inestetice.
+            </p>
+
+            <p class="p-head">
+              Facial Hair Remover Glemis™ este un epilator ideal pentru femei cu ajutorul căruia se pot obține rezultate spectaculoase și minuțioase, cu utilizare fără efort, chiar și în zonele sensibile.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#fff" font-size="26px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <a style="font-size:26px;" href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis?utm_content=call_action" class="link-nostyle">Vreau Epilator facial hipoalergenic</a>
+          </mj-text>
+      </mj-section>
+
+
+      <mj-section background-color="#000" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0px" padding-top="0">
+            <p class="p-footer">
+              CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.<br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+              <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+                style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#000" padding-bottom="0px" padding-top="0">
+        <mj-column width="15%">
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding="0px 10px">
+            <p class="p-footer">
+              <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|&nbsp;
+              <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+            </p>
+          </mj-text>
+          <mj-social font-size="13" facebook-href="https://www.facebook.com/GlemisRomania" twitter-href="https://twitter.com/GlemisRomania" google-href="https://plus.google.com/+GlemisSuceava" mode="horizontal" display="facebook twitter google"
+            padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="5px">
+          </mj-social>
+        </mj-column>
+        <mj-column width="15%">
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>

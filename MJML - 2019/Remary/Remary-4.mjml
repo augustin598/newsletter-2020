@@ -1,0 +1,221 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../resurse/attribut.mjml" />
+      <mj-include path="../resurse/button.mjml" />
+      <mj-include path="../resurse/menu.mjml" />
+      <mj-include path="../resurse/border.mjml" />
+      <mj-include path="../resurse/images.mjml" />
+      <mj-include path="../resurse/call-to-action.mjml" />
+      <mj-include path="../resurse/footer.mjml" />
+      <mj-include path="../resurse/colum.mjml" />
+    </mj-attributes>
+    <mj-include path="../resurse/standard-css.mjml" />
+  </mj-head>
+  <!-- All header control ellement End -->
+  <mj-body background-color="#c4356c">
+
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+          Remary™ vă ajută să redobândiți și să vă păstrați frumusețea naturală optând pentru cele mai bune soluții pentru îngrijirea superioară atât a tenului, cât și a corpului.
+        </mj-text>
+
+        <mj-image mj-class="logo-v2" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a style="color:inherit; text-decoration: none;" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Menu -->
+    <mj-section mj-class="sec-padd-menu" background-color="#000">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links" href="/remary">PRODUSE PROFESIONALE CU EXTRACTE DE INGREDIENTE<br> NATURALE ATENT SELECȚIONATE</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Slide Start  -->
+    <mj-section mj-class="sec-padd-slider">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-250-ml" src="https://www.glemis.ro/image/catalog/remary-newsletter/header.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <mj-section padding-top="10px" padding-bottom="10px">
+      <mj-column background-color="#46b8da">
+        </mj-image>
+        <mj-text align="center" color="#fff" font-size="30px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:30px; color: inherit !important;
+  text-decoration: none !important;" href="https://www.glemis.ro/remary?utm_content=call_action" style="link-nostyle"><b>-25% Discount</b></a>
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="#46b8da" css-class="top10">
+        </mj-image>
+        <mj-text align="center" color="#fff" font-size="30px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:20px; color:#c4356c; color: inherit !important;
+  text-decoration: none !important;" href="https://www.glemis.ro/remary"><b>Produsele notificate EU</b></a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column background-color="#46b8da" css-class="top10">
+        <mj-text align="center" color="#fff" font-size="17px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:20px; color: inherit !important;
+  text-decoration: none !important;" href="https://www.glemis.ro/remary?utm_content=call_action"><b>Ofertă valabilă pana la 12.01.2019</b></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">
+      <mj-column>
+
+        <mj-text align="left" color="#000" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px" line-height="19px">
+          <p>Eticienilor Remary™ este aceea de a reda frumusețea naturală femeilor, dar și de a seta noi standarde în fiecare zi, ajutându-se de metetode și tehnologii inovatoare și exclusiviste</p>
+          <p>Plecând de la premisa că fiecare femeie este unică, este foarte important de reținut că și fiecare tip de piele este unic. Remary™ vă ajută să redobândiți și să vă păstrați frumusețea naturală optând pentru cele mai bune soluții pentru îngrijirea
+            superioară atât a tenului, cât și a corpului. Remary™ este un brand nou, născut din dragoste pentru îngrijirea pielii.</p>
+          <blockqoute style="padding:0px 10px; font-weight: 500">Produsele Remary™ sunt destinate atât saloanelor profesionale cât și uzului personal, fiind fabricate sub licenta brandului Ecovital Professional.</blockqoute>
+          <p>Credem cu tărie că sănătatea se menține și prin alegerea atentă a produselor cosmetice, motiv pentru care Remary™ dezvoltă produse de îngrijire personală cu ingrediente de origine naturală, fără substanțele nocive regăsite în majoritatea produselor
+            cosmetice tradiționale.</p>
+        </mj-text>
+
+        <mj-image href="https://www.glemis.ro/remary?utm_content=banner" src="https://www.glemis.ro/image/catalog/remary-newsletter/remary-headint-2.png" alt="Glemis"
+          align="center" border="none" width="600px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+
+    <!-- 2 Group Image Elements Start -->
+    <mj-section mj-class="sec-padd-two-img" background-color="#c4356c">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px">
+          <tr>
+            <td style="text-align:center;">
+              <span class="two_img_header">
+              PROGRAMUL DE SLĂBIRE CARE VA SCHIMBA <br>TOT CE ȘTII DESPRE DIETE!
+              </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="border-1"></mj-divider>
+      </mj-column>
+
+      <mj-column mj-class="col-50">
+        <mj-image href="https://www.remary.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-250-ml" src="https://glemis.ro/image/catalog/remary-frontstore/crema-termoactiva-anticelulitica-foarte-puternica-remary.png" padding="10px"></mj-image>
+        <mj-text align="center" padding="20px 0px">
+           <span style="font-size: 1.6em;padding-bottom:10px; color: #fff;">Crema termoactivă anti celulitică profesională</span>
+        </mj-text>
+      </mj-column>
+
+      <mj-column mj-class="col-50">
+        <mj-image href="https://www.remary.ro/crema-profesionala-pentru-slabit-cu-alge-professional-slimming-body-cream-with-algae-extract-remary-250-ml" src="https://www.glemis.ro/image/catalog/remary-frontstore/crema-termoactiva-anticelulitica-foarte-puternica-remary3.png" padding="10px"></mj-image>
+        <mj-text align="center" padding="20px 0px">
+            <span style="font-size: 1.6em;padding-bottom:40px; color: #fff;">Crema profesională pentru slăbit cu Alge</span>
+        </mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="col-100" background-color="#43a047" padding-bottom="0px" padding-top="0px">
+        <mj-text align="center" color="#fff" font-size="25px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:25;" href="https://www.glemis.ro/remary?utm_content=call_action" class="link-nostyle"><b>Acum poti spune ADIO CELULITEI!</b></a>
+          <a style="font-size:25;" href="https://www.glemis.ro/remary?utm_content=call_action" class="link-nostyle"><b><br>Descoperă produsele Remary</b></a>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <!-- 2 Group Image Elements Start -->
+
+    
+    <!-- Slide End  -->
+    <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-text align="left" color="#000" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px" line-height="19px">
+
+          <p>Celulita este o problemă a pielii ce afectează tot mai multe femei, indiferent de vârstă și greutate.</p>
+          <p>Celulita apare mai ales pe șolduri, fese și membrele inferioare (coapse). Pentru aspectul de "coajă de portocală" atât de inestetic, specialiștii Remary au găsit o rezolvare,dezvoltând o formulă inovatoare, exclusivistă, bazată pe ingrediente
+            naturale, ce reușește să învingă definitiv celulita și să remodeleze pielea în profunzime.</p>
+          <p style="background-color:#c4356c; width;100%; color: #fff; font-size:16px; word-spacing:1px; padding:5px;">Apariţia celulitei este legată de prezenţa unor celule adipoase care cresc în volum, până la dimensiunile unui bob de fasole şi îşi modifică forma în urma acţiunii estrogenilor (hormonii sexuali feminini), determinând dereglarea circulaţiei
+            sângelui la nivelul vaselor periferice din ţesutul adipos subcutanat, reducerea aportului de oxigen (hipoxie) şi acumularea de lichid limfatic care transportă reziduurile şi toxinele ce congestionează matricea conjunctivă. </p>
+          <p>Professional ThermoActive Anti Celulite Cream este un produs inovator ce conține extracte naturale de plante, cu efect imediat de drenaj al toxinelor din piele, ce crește circulația sângelui, elimină lichidele în exces și stimulează producerea
+            de celule noi. În plus, are efect astringent pentru pielea afectată de celulită și de revitalizare imediată pentru pielea flască sau îmbătrânită.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Slide Start  -->
+    <mj-section mj-class="sec-padd-slider">
+      <mj-column>
+    <mj-image mj-class="slider" css-class="not-display" href="https://www.glemis.ro/remary?utm_content=banner" src="https://www.glemis.ro/image/catalog/remary-newsletter/cum-scapi-de-celulita.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+  <mj-section padding="10px 0px">
+  <mj-column background-color="#f44336" width="50%">
+    <mj-image href="https://www.glemis.ro/remary?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/remary-newsletter/300x300.png" title="" align="center" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px"
+      width="300px">
+    </mj-image>
+    <mj-text align="center" color="#fff" font-size="20px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+      <a style="font-size:20;" href="https://www.glemis.ro/remary?utm_content=call_action" class="link-nostyle">ELIMINĂ INESTETICA  <b>„coajă de portocală” <br>&nbsp;</b></a>
+    </mj-text>
+  </mj-column>
+
+  <mj-column background-color="#F67302" width="50%" css-class="top10">
+    <mj-image href="https://www.glemis.ro/remary?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/remary-newsletter/30x186.png" title="" align="center" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px"
+      width="300px">
+    </mj-image>
+    <mj-text align="center" color="#fff" font-size="20px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+      <a style="font-size:20;" href="https://www.glemis.ro/remary?utm_content=call_action" class="link-nostyle">REDUC CIRCUMFERINȚA CORPORALĂ ȘI TOPESC GRĂSIMILE</a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+    
+
+    <!-- footer Start -->
+    <mj-section mj-class="sec-padd-footer">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona
+          <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="sec-padd-footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none; color: #fff;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none; color: #fff;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="sec-padd-footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,39 @@
+<!-- Product 4 Start -->
+<mj-section mj-class="product">
+  <mj-group>
+    <mj-column>
+      <mj-image css-class="top30" href="" src="https://dummyimage.com/200x200/000/fff" width="200px" padding="5px"></mj-image>
+      <mj-text mj-class="tx-prod-center">
+        <span class="product_title"></span>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+
+    <mj-column>
+      <mj-image css-class="top30" href="" src="https://dummyimage.com/200x200/000/fff" width="200px" padding="5px"></mj-image>
+      <mj-text mj-class="tx-prod-center">
+        <span class="product_title"></span>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>
+
+  <mj-group>
+    <mj-column>
+      <mj-image css-class="top30" href="" src="https://dummyimage.com/200x200/000/fff" width="200px" padding="5px"></mj-image>
+      <mj-text mj-class="tx-prod-center">
+        <span class="product_title"></span>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+
+    <mj-column>
+      <mj-image css-class="top30" href="" src="https://dummyimage.com/200x200/000/fff" width="200px" padding="5px"></mj-image>
+      <mj-text mj-class="tx-prod-center">
+        <span class="product_title"></span>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<!-- Product 4 End -->

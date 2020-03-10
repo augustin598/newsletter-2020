@@ -1,0 +1,314 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+      E:\#0 Theme\resurse
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+          Află cum se îngrijeşte corect părul gras şi ce produse <br> poţi folosi pentru a scăpa de această neplăcere.
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Menu -->
+    <mj-section mj-class="menu" background-color="#FE7E00">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links" href="/joico-seturi-duo">Joico Seturi Duo</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" href="/joico-k-pak">Joico K-Pak</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" href="/milk-shake-moisture-plus">Moisture Plus</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_offer" href="/index.php?route=product/special">Discount</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/joico?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/joico/joico=1.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Call to action Full Start-->
+    <mj-section mj-class="cta-full">
+      <mj-column mj-class="col-100" background-color="#FE7E00" padding="5px">
+        <mj-text mj-class="tx-center" font-size="20px" color="#fff">
+          <a class="clear-link" href="https://www.glemis.ro/joico?utm_content=call_action"><b>&nbsp;</b></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Full End-->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Special Care Line</span>
+              <span class="subtitle">Gamă dedicată sănătăţii scalpului: anti-mătreaţă, împotriva scalpului gras</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-echilibrant-pentru-scalp-si-par-gras-shampoo-normalizing-blend-milk-shake-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/especially-that-line/shampoo-normalizing-blend-milk-shake-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon echilibrant pentru scalp si par gras</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-echilibrant-pentru-scalp-si-par-gras-shampoo-normalizing-blend-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-pentru-curatare-in-profunzime-shampoo-deep-cleansing-milk-shake-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/especially-that-line/shampoo-deep-cleansing-milk-shake-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon pentru curatare in profunzime</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-curatare-in-profunzime-shampoo-deep-cleansing-milk-shake-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-pentru-curatare-in-profunzime-shampoo-deep-cleansing-milk-shake-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/especially-that-line/shampoo-deep-cleansing-milk-shake-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon pentru curatare in profunzime</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-curatare-in-profunzime-shampoo-deep-cleansing-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/image/cache/catalog/product/milk-shake/especially-that-line/shampoo-purifying-blend-milk-shake-300-ml-228x228.jpg" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/especially-that-line/shampoo-purifying-blend-milk-shake-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon purificator anti-matreata</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-purificator-anti-matreata-shampoo-purifying-blend-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- 2 Group Image Elements Start -->
+    <mj-section mj-class="two-img" background-color="#FE7E00">
+      <mj-column mj-class="col-50">
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-14/moroccanoil.jpg" href="https://www.glemis.ro/tratament-pentru-scalp-seboreic-oily-scalp-treatment-oily-moroccanoil-45-ml?utm_content=banner" padding="10px">
+        </mj-image>
+      </mj-column>
+
+      <mj-column mj-class="col-50">
+        <mj-image src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/clarifying-line/oily-scalp-treatment-oily-moroccanoil-45-ml-228x228.jpeg" href="https://www.glemis.ro/tratament-pentru-scalp-seboreic-oily-scalp-treatment-oily-moroccanoil-45-ml?utm_content=banner" padding="10px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- 2 Group Image Elements Start -->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Tea Tree Oil</span>
+              <span class="subtitle">Gamă fără parabeni pentru calmarea și reechilibrarea scalpului</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-calmant-si-revigorant-fara-parabeni-paraben-free-conditioner-tea-tree-oil-chi-739-ml" src="https://www.glemis.ro/image/cache/catalog/product/chi/tea-tree-oil/paraben-free-conditioner-tea-tree-oil-chi-739-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam calmant si revigorant fara parabeni</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-calmant-si-revigorant-fara-parabeni-paraben-free-conditioner-tea-tree-oil-chi-739-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-fara-sulfati-si-parabeni-sulfate-and-paraben-free-shampoo-tea-tree-oil-chi-739-ml" src="https://www.glemis.ro/image/cache/catalog/product/chi/tea-tree-oil/sulfate-and-paraben-free-shampoo-tea-tree-oil-chi-739-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon fara sulfati si parabeni</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-fara-sulfati-si-parabeni-sulfate-and-paraben-free-shampoo-tea-tree-oil-chi-739-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-calmant-si-revigorant-fara-parabeni-paraben-free-conditioner-tea-tree-oil-chi-355-ml" src="https://www.glemis.ro/image/cache/catalog/product/chi/tea-tree-oil/paraben-free-conditioner-tea-tree-oil-chi-355-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam calmant si revigorant fara parabeni</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-calmant-si-revigorant-fara-parabeni-paraben-free-conditioner-tea-tree-oil-chi-355-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-fara-sulfati-si-parabeni-sulfate-and-paraben-free-shampoo-tea-tree-oil-chi-355-ml" src="https://www.glemis.ro/image/cache/catalog/product/chi/tea-tree-oil/sulfate-and-paraben-free-shampoo-tea-tree-oil-chi-355-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon fara sulfati si parabeni</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-fara-sulfati-si-parabeni-sulfate-and-paraben-free-shampoo-tea-tree-oil-chi-355-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <mj-include path="../#0-Theme/Remary-section/section-1.mjml" />
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Sampon și balsam pentru îngrijirea completă a părului</span>
+              <span class="subtitle"></span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-degradat-k-pak-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/k-pak-duo-joico-2-x-500-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam reparator pentru păr degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-degradat-k-pak-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-vopsit-k-pak-color-therapy-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/k-pak-color-therapy-duo-joico-2-x-500-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam reparator pentru păr vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-vopsit-k-pak-color-therapy-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-purificator-clarifying-shampoo-joico-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/clarifying-shampoo-joico-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Șampon purificator de la Joico</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-purificator-clarifying-shampoo-joico-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-pentru-reconstructie-si-hidratare-intensa-intense-hydrator-k-pak-joico-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/intense-hydrator-k-pak-joico-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament pentru reconstructie si hidratare intensa</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-pentru-reconstructie-si-hidratare-intensa-intense-hydrator-k-pak-joico-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- footer Start -->
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer-text">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

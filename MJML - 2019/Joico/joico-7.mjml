@@ -1,0 +1,250 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+      E:\#0 Theme\resurse
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+          Produsele de la Joico nu au nevoie de nicio introducere pentru că de mai bine de trei decenii au grijă ca părul să arate impecabil. 
+        </mj-text>
+        <mj-image mj-class="logo-v2" href="https://www.glemis.ro/joico" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Menu -->
+    <mj-section mj-class="menu" background-color="#b5995b">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links" href="/set-sampon-balsam-reparator-pentru-par-vopsit-k-pak-color-therapy-duo-joico-2-x-500-ml">K-Pak Color Therapy Sampon 500ml + Balsam 500ml</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-vopsit-k-pak-color-therapy-duo-joico-2-x-500-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/joico/joico-13.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Call to action Full Start-->
+    <mj-section mj-class="cta-full">
+      <mj-column mj-class="col-100" background-color="#b5995b" padding="5px">
+        <mj-text mj-class="tx-center" font-size="20px" color="#fff">
+          <a class="clear-link" href="https://www.glemis.ro/joico-seturi-duo?utm_content=call_action"><b>Aici seturile Duo de la Joico</b></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Full End-->
+
+
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-pentru-hidratare-intensa-moisture-recovery-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/moisture-recovery-duo-joico-2-x-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam pentru hidratare intensă</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-sampon-balsam-pentru-hidratare-intensa-moisture-recovery-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-pentru-par-vopsit-color-endure-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/color-endure-duo-joico-2-x-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam pentru păr vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-sampon-balsam-pentru-par-vopsit-color-endure-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-pentru-volum-body-luxe-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/body-luxe-duo-joico-2-x-500-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam pentru volum Joico</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-sampon-balsam-pentru-volum-body-luxe-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-degradat-k-pak-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/k-pak-duo-joico-2-x-500-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam reparator pentru păr degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-degradat-k-pak-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- 2 Group Image Elements Start -->
+    <mj-section mj-class="two-img" background-color="#b5995b">
+      <mj-column mj-class="col-50">
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2019/joico/joico-1.jpg" href="https://www.glemis.ro/balsam-pentru-reparare-intensiva-reconstruct-conditioner-to-repair-damage-k-pak-joico-1000-ml" padding="10px">
+        </mj-image>
+        <mj-text align="center" padding="0px 10px">
+          <span style="font-size: 1.6em;padding-bottom:40px; color: #fff;">Reconstruct Conditioner To Repair Damage - K-Pak - Joico - 1000 ml</span>
+        </mj-text>
+      </mj-column>
+
+      <mj-column mj-class="col-50">
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2019/joico/joico-2.jpg" href="https://www.glemis.ro/sampon-purificator-clarifying-shampoo-joico-1000-ml" padding="10px">
+        </mj-image>
+        <mj-text align="center" padding="0px 10px">
+          <span style="font-size: 1.6em;padding-bottom:40px; color: #fff;">Clarifying Shampoo - Joico - 1000 ml</span>
+          <br>&nbsp;&nbsp;&nbsp;&nbsp;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 Group Image Elements Start -->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Joico K-Pak</span>
+              <span class="subtitle">Joico K-Pak este un brand recunoscut pentru performanta superioara a produselor sale, cat si liderul de necontestat in tratarea parului. Anul 2007 a reprezentat o revolutie in industria produselor de reconstruire si protejare a parului prin introducerea Gamei K-Pak.</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-pentru-reconstructie-si-hidratare-k-pak-revitaluxe-treatment-joico-480-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/k-pak-revitaluxe-treatment-joico-480-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament pentru reconstructie si hidratare</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-pentru-reconstructie-si-hidratare-k-pak-revitaluxe-treatment-joico-480-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-pentru-reparare-intensiva-reconstruct-conditioner-to-repair-damage-k-pak-joico-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/smoothing-balm-joico-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam pentru reparare intensiva Joico</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-reparare-intensiva-reconstruct-conditioner-to-repair-damage-k-pak-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-reparator-mic-k-pak-joico" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/small-regenerating-kit-k-pak-joico-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">K-Pak - Joico Kit reparator mic</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-reparator-mic-k-pak-joico?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-reconstructiv-pentru-parul-uscat-si-degradat-deep-penetrating-reconstructor-k-pak-joico-150-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/deep-penetrating-reconstructor-k-pak-joico-150-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament reconstructiv pentru parul uscat si degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-reconstructiv-pentru-parul-uscat-si-degradat-deep-penetrating-reconstructor-k-pak-joico-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <mj-include path="../#0-Theme/Remary-section/section-1.mjml" />
+    
+
+
+    <!-- footer Start -->
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer-text">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

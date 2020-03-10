@@ -1,0 +1,59 @@
+<mj-section background-color="#6DCBE4" border="2px solid #fff" padding="20px 0px;">
+  <mj-column vertical-align="middle" width="33.33333333333333%" padding="0px">
+    <mj-table>
+    <tr>
+      <td style="padding: 0px" align="center">
+        <img src="https://www.glemis.ro/image/catalog/newsletter-2018/new/logistics-delivery-truck-in-movement2.png" width="64" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <span style="font-size:16px; color:#fff; text-transform:uppercase;">LIVRARE GRATUITĂ</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0px" align="center">
+        <p style="margin:0px; color:#fff; text-align:center;">  La comenzi de peste 300 RON</p>
+      </td>
+    </tr>
+  </mj-table>
+  </mj-column>
+  <mj-column vertical-align="middle" width="33.33333333333333%">
+    <mj-table>
+    <tr>
+      <td style="padding: 0px" align="center">
+        <img src="https://www.glemis.ro/image/catalog/newsletter-2018/new/verification-of-delivery-list-clipboard-symbol.png" width="64" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <span style="font-size:14px; color:#fff; text-transform:uppercase;">Produse autentice</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0px" align="center">
+        <p style="margin:0px; color:#fff; text-align:center;">Toate produsele listate SUNT ORIGINALE</p>
+      </td>
+    </tr>
+  </mj-table>
+  </mj-column>
+  <mj-column vertical-align="middle" width="33.33333333333333%">
+    <mj-table>
+    <tr>
+      <td style="padding: 0px" align="center">
+        <img src="https://www.glemis.ro/image/catalog/newsletter-2018/new/call-center-worker-with-headset.png" width="64" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <span style="font-size:16px; color:#fff; text-transform:uppercase;">Suport telefonic</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0px" align="center">
+        <p style="margin:0px; color:#fff; text-align:center;">Program: Luni-Vineri: 09:-17</p>
+      </td>
+    </tr>
+  </mj-table>
+  </mj-column>
+</mj-section>

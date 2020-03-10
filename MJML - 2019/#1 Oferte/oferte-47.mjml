@@ -1,0 +1,497 @@
+<mjml>
+  
+
+<mj-head>
+  <mj-attributes>
+    <mj-all font-family="Ubuntu" />
+    <!-- Title & web_version & Logo Start -->
+    <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding="10px 25px 10px 25px" line-height="20px;" />
+    <mj-class name="logo" width="150" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" />
+    <mj-class name="web-version" align="center" color="#2f323b" font-size="13px" padding="0px 25px 10px 25px" line-height="18px;" />
+    <mj-class name="sec-padd-0" padding="0px" background-color="#ffffff" />
+    <!-- Mj Title & web_version & Logo Start -->
+       
+    <!-- Menu  -->
+    <mj-class name="sec-padd-menu" padding="0px" background-color="#DA3C31" border-bottom="2px #fff" />
+    <mj-class name="menu_links" color="#ffffff" font-weight="400" font-size="16px" />
+    <mj-class name="menu_links_offer" color="#F6DA01" font-weight="900" font-size="18px" />
+    <!-- Menu  -->
+    
+    <!-- Buttons Start -->
+    <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fbb450" color="#fff" font-size="13px" padding="5px 0px" />
+    <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+    <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+    <!-- Buttons End -->
+    
+    <!-- Image Start  -->
+    <mj-class name="sec-padd-slider" padding="0px"/>
+    <mj-class name="slider" align="center" border="none" width="600px" padding="0px" />
+    <!-- Image End  -->
+    
+    <!-- Image Product Start  -->
+    <mj-class name="sec-padd-product" vertical-align="top" padding="10px 0px" background-color="#fff" />
+    <!-- Image Product End  -->
+    
+    <!-- Group 2 image  -->
+  <mj-class name="sec-padd-two-img" padding="10px 5px" background-color="#DA3C31" />
+  <mj-class name="sec-padd-two-img-text" padding="10px 5px" background-color="#fff" />
+  <mj-class name="sec-padd-header-product-title" padding="10px 5px" background-color="#fff" />
+  <!-- Group 2 image  -->
+    
+    <!-- Border Diver -->
+    <mj-class name="border-1" border-color="#fff" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+    <mj-class name="border-2" border-color="#fff" border-style="solid" border-width="2px" padding="5px 10px 5px 10px"/>
+    <mj-class name="header-boder-product" border-color="#FABA00" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+    <!-- Border Diver -->
+    
+    
+    <!-- Call to action button  -->
+    <mj-class name="call-action-small"font-family="Helvetica" font-size="16px" background-color="#fff" color="#DA3C31" border="2px solid #DA3C31" inner-padding="15px 25px" border-radius="15px" />
+    
+    <mj-class name="call-action-round" font-family="Helvetica" font-size="16px" background-color="#fff" color="#ff7f50" border="2px solid #ff7f50" inner-padding="15px 25px" border-radius="15px" />
+    <!-- Call to action button  -->
+    
+    <!-- Colums Mod's Start  -->
+    <mj-class name="col-33" vertical-align="middle" width="33.33333333333333%" />
+    <mj-class name="col-50" vertical-align="middle" width="50.00000000000000%" />
+    <mj-class name="col-100" vertical-align="middle" width="100%" />
+    <!-- Colums Mod's End  -->
+    
+<!-- Footer Start -->
+<mj-class name="sec-padd-footer" padding="10px 0px" background-color="#000" />
+
+<mj-class name="plitic-terms" font-weight="normal" align="center" color="#fff" font-size="15px" padding="0 10px 0 10px"/>
+
+<mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="26px;" padding="0px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+  <!-- Footer end -->
+
+</mj-attributes>
+<mj-style>
+.link-nostyle {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.discount {
+  display: inline-block;
+  background-color: red;
+  width: 100%;
+  font-size: 13px;
+  padding: 5px 0px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 480px) {
+  .b-bootom {
+    border: 2px solid #000;
+  }
+
+  .top30 {
+    padding-top: 30px !important;
+  }
+
+  .top20 {
+    padding-top: 20px !important;
+  }
+
+  .top15 {
+    padding-top: 15px !important;
+  }
+
+}
+
+.web_version {
+  text-decoration: none;
+  color: #000000;
+}
+
+.product_title{
+  padding: 0px 10px;
+  font-size: 16px;
+  display: inline-block;
+  line-height: 16px;
+  font-weight: 400;
+  overflow: hidden;
+  height:60px;
+  text-align:center;
+}
+
+.two_img_header {
+  font-size: 2em;
+  display: block;
+  padding: 5px 0px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-size: 1.3em;
+  display: block;
+  padding: 5px 10px;
+  color: #000;
+}
+
+.custom_text_1 {
+  font-size: 1.2em;
+  display: block;
+  text-align: center;
+  line-height: 1.2em;
+  padding: 5px ;
+
+  color: #000;
+}
+
+</mj-style>
+</mj-head>
+<mj-body>
+
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+        Vopsele de par profesionale cu si fara amoniac
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="title">
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>Vezi varianta web</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+    
+    <!-- Menu -->
+     <mj-section mj-class="sec-padd-menu">
+       <mj-column>
+         <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+           <mj-navbar-link mj-class="menu_links" href="/alfaparf-milano-vopsea-evolution-of-the-color-cube">Vopsea Alfaperf</mj-navbar-link>
+           <mj-navbar-link mj-class="menu_links" href="/vitalitys-vopsea-permanenta-art-absolute">Vopsea Vitality's</mj-navbar-link>
+           <mj-navbar-link mj-class="menu_links" href="/loreal-professionnel-majirel">Vopsea Majirel</mj-navbar-link>
+           <mj-navbar-link mj-class="menu_links" href="/joico-vopsea-vero-k-pak">VERO K-PAK</mj-navbar-link>
+         </mj-navbar>
+       </mj-column>
+     </mj-section>
+     <!-- Menu End -->
+
+<!-- Slide Start  -->
+<mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+  <mj-column>
+    <mj-image mj-class="slider" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-1/faq-program-hairstylist.jpg" alt="Glemis">
+    </mj-image>
+    <mj-table padding="10px 0px 0px">
+      <tr>
+      <td style="text-align:center;">
+        <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Cum ne alegem o vopsea de păr?</span>
+        <span class="subtitle">Având în vedere că un păr îngrijit reflectă foarte mult personalitatea, o primă regulă a alegerii unei vopsele ar fi potrivirea de nuanțe atât cu tenul, cât și cu ochii. Iar pentru ca o vopsea să fie aleasă corect și în concordanță cu nuanța pielii, este bine ca mai întâi să știi care este tonul pielii tale. Așa că, specialiștii au împărțit nuanţele pielii în două tonuri: cele reci și cele calde.</span>
+        </td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>
+<!-- Slide End  -->
+
+
+
+<!-- Produse Headear Start -->
+<mj-section background-color="#fff" padding-top="5px" padding-bottom="5px">
+    <mj-column>
+      <mj-divider border-color="#F45E43" padding="0px"></mj-divider>
+        <mj-text font-weight="bold" align="center" color="#000" padding="1px 10px">
+            <h1>Vopsea Evolution of the Color CUBE</h1>
+       </mj-text> 
+      <mj-divider border-color="#F45E43" padding="0px"></mj-divider>
+    </mj-column>
+</mj-section>
+<!-- Produse Headear End -->
+
+<!-- Product button Orange start -->
+<mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+<mj-group>
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/vopsea-permanenta-profesionala-01-evolution-of-the-color-cube-alfaparf-milano-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/evolution-of-the-color-cube-professional-permanent-hair-color/01-evolution-of-the-color-cube-alfaparf-milano-60-ml-228x228.jpg" width="200px" padding="5px" ></mj-image>
+      <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+      <mj-text align="center" padding-bottom="0px">
+        <h3 style="margin-top:0px; padding-top:0px !important;">Vopsea permanenta profesionala - Nr. 01</h3>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-permanenta-profesionala-01-evolution-of-the-color-cube-alfaparf-milano-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+    
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/vopsea-permanenta-profesionala-02-evolution-of-the-color-cube-alfaparf-milano-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/evolution-of-the-color-cube-professional-permanent-hair-color/02-evolution-of-the-color-cube-alfaparf-milano-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+      <mj-text align="center" padding-bottom="0px">
+        <h3 style="margin-top:0px; padding-top:0px !important;">Vopsea permanenta profesionala - Nr. 02</h3>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-permanenta-profesionala-02-evolution-of-the-color-cube-alfaparf-milano-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+</mj-group>  
+
+<mj-group>
+  <mj-column vertical-align="middle">
+    <mj-image href="?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/evolution-of-the-color-cube-professional-permanent-hair-color/1-evolution-of-the-color-cube-alfaparf-milano-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+    <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+    <mj-text align="center" padding-bottom="0px">
+      <h3 style="margin-top:0px; padding-top:0px !important;">Vopsea permanenta profesionala - Nr. 1</h3>
+    </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-permanenta-profesionala-1-evolution-of-the-color-cube-alfaparf-milano-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+  </mj-column>
+    
+  <mj-column vertical-align="middle">
+    <mj-image href="https://www.glemis.ro/vopsea-permanenta-profesionala-1-11-evolution-of-the-color-cube-alfaparf-milano-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/evolution-of-the-color-cube-professional-permanent-hair-color/1-11-evolution-of-the-color-cube-alfaparf-milano-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+    <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+    <mj-text align="center" padding-bottom="0px">
+      <h3 style="margin-top:0px; padding-top:0px !important;">Vopsea permanenta profesionala - Nr. 1.11</h3>
+    </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-permanenta-profesionala-1-11-evolution-of-the-color-cube-alfaparf-milano-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+  </mj-column>
+</mj-group>  
+</mj-section>
+<!-- Product button Orange End -->
+
+
+<!-- Header title Product -->
+<mj-section mj-class="sec-padd-header-product-title">
+<mj-column mj-class="col-100">
+  <mj-image mj-class="slider" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/how-to-dip-dye-at-home-1080x480.jpg" alt="Glemis">
+  </mj-image>
+</mj-column>
+</mj-section>
+<!-- Header title Product -->
+
+<!-- Produse Headear Start -->
+<mj-section background-color="#fff" padding-top="5px" padding-bottom="5px">
+    <mj-column>
+      <mj-divider border-color="#F45E43" padding="0px"></mj-divider>
+        <mj-text font-weight="bold" align="center" color="#000" padding="1px 10px">
+            <h1>Vopsea semi-permanenta Color Wear - fara amoniac</h1>
+       </mj-text> 
+      <mj-divider border-color="#F45E43" padding="0px"></mj-divider>
+    </mj-column>
+</mj-section>
+<!-- Produse Headear End -->
+
+<!-- Product button Orange start -->
+<mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+<mj-group>
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/vopsea-semi-permanenta-fara-amoniac-profesionala-10-02-color-wear-alfaparf-milano-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/paint-semi-permanent-color-wear/10-02-color-wear-alfaparf-milano-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+      <mj-text align="center" padding-bottom="0px">
+        <h3 style="margin-top:0px; padding-top:0px !important;">Vopsea semi-permanenta fara amoniac - Nr. 10.02</h3>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-semi-permanenta-fara-amoniac-profesionala-10-02-color-wear-alfaparf-milano-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+    
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/vopsea-semi-permanenta-fara-amoniac-profesionala-10-31-color-wear-alfaparf-milano-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/paint-semi-permanent-color-wear/10-31-color-wear-alfaparf-milano-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+      <mj-text align="center" padding-bottom="0px">
+        <h3 style="margin-top:0px; padding-top:0px !important;">Vopsea semi-permanenta fara amoniac - Nr. 10.31</h3>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-semi-permanenta-fara-amoniac-profesionala-10-31-color-wear-alfaparf-milano-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+</mj-group>  
+
+<mj-group>
+  <mj-column vertical-align="middle">
+    <mj-image href="https://www.glemis.ro/vopsea-semi-permanenta-fara-amoniac-profesionala-5-66-color-wear-alfaparf-milano-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/paint-semi-permanent-color-wear/5-66-color-wear-alfaparf-milano-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+    <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+    <mj-text align="center" padding-bottom="0px">
+      <h3 style="margin-top:0px; padding-top:0px !important;">Vopsea semi-permanenta fara amoniac - Nr. 5.66</h3>
+    </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-semi-permanenta-fara-amoniac-profesionala-5-66-color-wear-alfaparf-milano-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+  </mj-column>
+    
+  <mj-column vertical-align="middle">
+    <mj-image href="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/paint-semi-permanent-color-wear/5-14-color-wear-alfaparf-milano-60-ml-228x228.jpg?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/paint-semi-permanent-color-wear/5-14-color-wear-alfaparf-milano-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+    <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+    <mj-text align="center" padding-bottom="0px">
+      <h3 style="margin-top:0px; padding-top:0px !important;">Vopsea semi-permanenta fara amoniac - Nr. 5.14</h3>
+    </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/paint-semi-permanent-color-wear/5-14-color-wear-alfaparf-milano-60-ml-228x228.jpg?utm_content=product_buy">CUMPĂRĂ</mj-button>
+  </mj-column>
+</mj-group>  
+</mj-section>
+<!-- Product button Orange End -->
+
+<!-- Produse Headear Start -->
+<mj-section background-color="#fff" padding-top="5px" padding-bottom="5px">
+    <mj-column>
+      <mj-image mj-class="slider" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/denim-hair-color-blue-gray-800x333.jpg" alt="Glemis">
+      </mj-image>
+      <mj-table padding="10px 0px">
+        <tr>
+        <td style="text-align:center;">
+          <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Ce oxidant să folosești?</span>
+          <span class="subtitle">Oxidantul îți poate aduce culoarea pe care o visezi, dar în acelaşi timp, există și posibilitatea să-ți degradeze părul destul de tare. Ce trebuie să faci în acest caz? Nu te decolora cu oxidanți din comerț și nu trece de la o extremă la alta, de la brunet la blond, ci optează pentru o decolorare treptată. Dacă dorești să-ți deschizi părul cu o nuanţă este bine să folosești oxidantul cu o consistență de 3%, iar dacă vrei ca părul tău să fie mai deschis cu 1-2 nuanțe atunci optează pentru cel de 6%. Pentru o decolorare mai intensă, alege oxidantul cu o concentrație de 9% care deschide părul cu 2-3 nuanțe, iar pentru 3-4 tonalități mai intense și mai accentuate, alege-l pe cel cu 12% concentrație.</span>
+          </td>
+        </tr>
+      </mj-table
+    </mj-column>
+</mj-section>
+<!-- Produse Headear End -->
+
+<!-- Product button Orange start -->
+<mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+<mj-group>
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/joico-oxidanti?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/oxidants/veroxide-40-joico-950-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/joico-240x100.png" width="200px" padding-bottom="0px" />
+      <mj-text align="center" padding-bottom="0px">
+      </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/joico-oxidanti?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+    
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/alfaparf-milano-vopsea-evolution-of-the-color-cube?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/paint-the-evolution-of-the-color-cube/evolution-of-the-color-cube-30-vol-alfaparf-milano-90ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/alfaparf-milano-240x100.png" width="200px" padding-bottom="0px" />
+      <mj-text align="center" padding-bottom="0px">
+      </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/alfaparf-milano-vopsea-evolution-of-the-color-cube?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+</mj-group>  
+
+<mj-group>
+  <mj-column vertical-align="middle">
+    <mj-image href="https://www.glemis.ro/goldwell-silk-lift-oxycur-platin?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/goldwell/silk-lift-oxycur-platin/3-10-vol-conditioning-cream-developer-silk-lift-goldwell-750-ml-228x228.png" width="200px" padding="5px"></mj-image>
+    <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/goldwell-240x100.jpg" width="200px" padding-bottom="0px" />
+    <mj-text align="center" padding-bottom="0px">
+    </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/goldwell-silk-lift-oxycur-platin?utm_content=product_buy">CUMPĂRĂ</mj-button>
+  </mj-column>
+    
+  <mj-column vertical-align="middle">
+    <mj-image href="https://www.glemis.ro/joico-vopsea-lumishine?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/lumishine-color/10ng-permanent-color-cream-lumishine-joico-74-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+    <mj-image src="https://www.glemis.ro/image/cache/catalog/manufacturer/joico-240x100.png" width="200px" padding-bottom="0px" />
+    <mj-text align="center" padding-bottom="0px">
+    </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/joico-vopsea-lumishine?utm_content=product_buy">CUMPĂRĂ</mj-button>
+  </mj-column>
+</mj-group>  
+</mj-section>
+<!-- Product button Orange End -->
+
+<!-- Produse Headear Start -->
+<mj-section background-color="#fff" padding-top="5px" padding-bottom="5px">
+    <mj-column>
+      <mj-image mj-class="slider" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/b12277242a2c719a75db10e8215c20eb.jpg" alt="Glemis">
+      </mj-image>
+      <mj-divider border-color="#F45E43" padding="0px"></mj-divider>
+        <mj-text font-weight="bold" align="center" color="#000" padding="10px 10px">
+            <h1>Produse pentru ingrijirea parului dupa vopsire</h1>
+       </mj-text> 
+      <mj-divider border-color="#F45E43" padding="0px"></mj-divider>
+    </mj-column>
+</mj-section>
+<!-- Produse Headear End -->
+
+<!-- Product button Orange start -->
+<mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+<mj-group>
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/tratament-perfector-hair-perfector-no-3-olaplex-100-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/olaplex/products/hair-perfector-no-3-olaplex-100-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding-bottom="0px">
+        <h3>Tratament Perfector - Hair Perfector No.3</h3>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-perfector-hair-perfector-no-3-olaplex-100-ml?utm_content=product_defined">CUMPĂRĂ</mj-button>
+    </mj-column>
+    
+  <mj-column vertical-align="middle">
+    <mj-image href="https://www.glemis.ro/sampon-pentru-protectia-culorii-parului-vopsit-colored-hair-shampoo-precious-nature-alfaparf-milano-250-ml-1057732107?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/precious-nature-colored-hair/colored-hair-shampoo-precious-nature-alfaparf-milano-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding-bottom="0px">
+        <h3>Sampon pentru protectia culorii parului vopsit Alfaparf Milano</h3>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-protectia-culorii-parului-vopsit-colored-hair-shampoo-precious-nature-alfaparf-milano-250-ml-1057732107?utm_content=product_defined">CUMPĂRĂ</mj-button>
+  </mj-column>
+</mj-group>  
+
+<mj-group>
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/tratament-fara-clatire-pentru-par-vopsit-precious-nature-hair-leave-in-alfaparf-milano-125-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/precious-nature-colored-hair/precious-nature-hair-leave-in-alfaparf-milano-125-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding-bottom="0px">
+        <h3>Tratament fara clatire pentru par vopsit Alfaparf Milano</h3>
+      </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-fara-clatire-pentru-par-vopsit-precious-nature-hair-leave-in-alfaparf-milano-125-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+    
+  <mj-column vertical-align="middle">
+    <mj-image href="https://www.glemis.ro/crema-reparatoare-pentru-par-bond-rebuilder-the-hair-supporters-alfaparf-milano-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/the-hair-supporters/bond-rebuilder-the-hair-supporters-alfaparf-milano-300-ml-228x228.png" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding-bottom="0px">
+    <h3>Crema reparatoare pentru par - Bond Rebuilder Alfaparf Milano</h3>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-reparatoare-pentru-par-bond-rebuilder-the-hair-supporters-alfaparf-milano-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+  </mj-column>
+</mj-group>  
+</mj-section>
+<!-- Product button Orange End -->
+      
+<mj-section background-color="#FF0000" padding-bottom="0px" padding-top="0px">
+  <mj-column>
+    <mj-text align="center" color="#fff" padding="0px">
+      <a class="link-nostyle" href="https://www.glemis.ro/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=6">
+      <p style="padding:0px; font-size: 22px;">Vopsele cu discount -30%</p>
+      </a>
+      </mj-text>
+  </mj-column>
+</mj-section>
+
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+
+
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+
+  </mj-body>

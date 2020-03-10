@@ -1,0 +1,315 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+     <mj-style inline="inline">
+    .link-nostyle { color: inherit; text-decoration: none }
+    .circle {border-radius: 50%; width: 200px; height: 200px;}
+
+    h2 {display: block;
+      font-size: 1.5em;
+  		margin: 10px 10px;
+      font-weight: bold;
+      color: #fff;
+      padding: 0px 10px;
+    }
+
+    h3 {display: block;
+      margin: 10px 0px;
+      height: 35px;
+      color: #fff;
+      padding: 10px 0px;
+      line-height: 1.3em;
+      overflow: hidden;
+    }
+
+    h4{
+      display: block;
+        font-size: 1.5em;
+    		margin: 10px 10px;
+        font-weight: bold;
+        color: #000;
+        padding: 0px 10px;
+    }
+
+    .product {
+      font-weight: normal;
+      color: #fff;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+
+       @media (max-width: 320px) {
+         h2 {
+           text-align: center !important;
+         }
+
+       }
+       body{
+         background-url=""
+       }
+
+
+body {
+  background: url(https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-11/backgorund-5.png) no-repeat center center fixed;
+  background-color: #ffff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+       </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Produsele CHI sunt benefice oricărui tip de păr, astfel că șamponul și balsamul fac minuni pentru toate categoriile de păr.
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0 0" background-color="#000">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/chi-color-nurture" color="#ffffff">Color Nurture</mj-navbar-link>
+          <mj-navbar-link href="/chi-tea-tree-oil" color="#ffffff">Tea Tree Oil</mj-navbar-link>
+          <mj-navbar-link href="/chi-keratin" color="#ffffff">Keratin</mj-navbar-link>
+          <mj-navbar-link href="/chi-argan" color="#ffffff">Argan</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+<!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/chi?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-11/chi-slider-trim.jpg" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+
+  <!-- Slide End  -->
+    <mj-section background-url="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-11/backgorund-1.jpg" background-color="#fff"  vertical-align="middle" background-repeat="no-repeat" padding-top="25" padding-bottom="5">
+      <mj-column>
+        <mj-text align="left
+        "color="#fff" font-size="18px">
+          <h2>LIVRARE GRATUITĂ<br><span style="font-weight: bold;color: #fff;">  La comenzi de peste 300 RON</span></h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- Product button Orange start -->
+    <mj-section background-color="#EE3125" vertical-align="top" padding-top="5px" border-bottom="0px">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/balsam-protector-pentru-par-uscat-si-vopsit-protecting-conditioner-color-nurture-chi-340-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/color-nurture/protecting-conditioner-color-nurture-chi-340-ml-228x228.jpg" width="200" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h3>Protecting Conditioner - Color Nurture - CHI</h3>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-protector-pentru-par-uscat-si-vopsit-protecting-conditioner-color-nurture-chi-340-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/tratament-fara-clatire-pentru-par-vopsit-repair-shine-leave-in-tonic-color-nurture-chi-59-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/color-nurture/repair-shine-leave-in-tonic-color-nurture-chi-59-ml-228x228.jpg" width="200" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h3>Repair & Shine - Leave-In - Color Nurture - CHI</h3>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-fara-clatire-pentru-par-vopsit-repair-shine-leave-in-tonic-color-nurture-chi-59-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/sampon-protector-pentru-par-uscat-si-vopsit-protecting-shampoo-color-nurture-chi-340-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/color-nurture/protecting-shampoo-color-nurture-chi-340-ml-228x228.jpg" width="200" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h3>Protecting Shampoo - Color Nurture - CHI</h3>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-protector-pentru-par-uscat-si-vopsit-protecting-shampoo-color-nurture-chi-340-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+  <!-- Product button Orange End -->
+
+  <mj-section background-url="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-11/backgorund-3.png" background-color="#EE3125" vertical-align="middle" background-repeat="no-repeat" padding-top="50px" padding-bottom="50px">
+    <mj-column>
+      <mj-text align="left
+      "color="#000" font-size="18px">
+      <p style="padding: 5px;"> Toate produsele listate <b>SUNT ORIGINALE</b>, au termen <br>de valabilitate mare și se livrează însoțite de factură </br>cu declarație de conformitate.
+</p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <!-- Product button Red start -->
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="20px" border-bottom="0px">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/balsam-cu-keratina-keratin-conditioner-chi-355-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/keratin/keratin-conditioner-chi-355-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h3 style="color: #000 !import;">Balsam cu keratina - Keratin Conditioner CHI </h3>
+        </mj-text>
+        <mj-button mj-class="red-button" href="https://www.glemis.ro/balsam-cu-keratina-keratin-conditioner-chi-355-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/keratin-silk-infusion-keratin-silk-infusion-chi-59-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/keratin/keratin-shampoo-chi-355-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+            <h3 style="color: #000 !import;">Keratin Silk Infusion - CHI</h3>
+        </mj-text>
+        <mj-button mj-class="red-button" href="https://www.glemis.ro/keratin-silk-infusion-keratin-silk-infusion-chi-59-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/keratin/keratin-shampoo-chi-355-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h3 style="color: #000 !import;">Keratin Silk Infusion - CHI</h3>
+        </mj-text>
+        <mj-button mj-class="red-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+      <!-- Product button Red End -->
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image mj-class="slider" href="?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-11/banner-footer.png" alt="Glemis"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!-- Product button Green start -->
+        <mj-section background-color="#EE3125" vertical-align="top" padding-top="20px" border-bottom="0px">
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/balsam-cu-ulei-de-argan-argan-conditioner-chi-355-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/argan/argan-conditioner-chi-355-ml-228x228.jpg" alt="" width="200" padding="5px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+              <h3>Balsam cu ulei de argan - Argan Conditioner - CHI</h3>
+            </mj-text>
+            <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-cu-ulei-de-argan-argan-conditioner-chi-355-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/sampon-cu-ulei-de-argan-argan-shampoo-chi-355-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/argan/argan-shampoo-chi-355-ml-228x228.jpg" alt="" width="200" padding="5px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+              <h3>Sampon cu ulei de argan - Argan Shampoo - CHI</h3>
+            </mj-text>
+            <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-cu-ulei-de-argan-argan-shampoo-chi-355-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/ulei-de-argan-argan-oil-chi-89-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/chi/argan/argan-oil-chi-89-ml-228x228.jpg" alt="" width="200" padding="5px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+              <h3>Ulei de argan - Argan Oil - CHI</h3>
+            </mj-text>
+            <mj-button mj-class="orange-button" href="https://www.glemis.ro/ulei-de-argan-argan-oil-chi-89-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+        </mj-section>
+        <!-- Product button Green End -->
+
+    <!-- Email content End -->
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+
+  </mj-body>
+</mjml>

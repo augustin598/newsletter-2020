@@ -1,0 +1,302 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600px" padding="0px 0px" />
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+    </mj-attributes>
+    <mj-style inline="inline">
+      .link-nostyle {
+        color: inherit;
+        text-decoration: none
+      }
+
+      /* === PRODUCT HEADING === */
+      h3 {
+        font-family: Ubuntu, Helvetica, Arial, sans-serif;
+        line-height: 1;
+        font-size: 16px;
+        text-align: center;
+        padding: 10px 0px;
+        margin: 0px;
+        color: #000;
+        font-weight: 500;
+        height: 40px;
+        overflow: hidden;
+      }
+
+      /* === PRODUCT HEADING === */
+
+      /* === BACKGROUND BODY START === */
+      body {
+        background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-42/cute_cartoon_decorative_pattern_background_vector_519720.jpg");
+      }
+
+      /* === BACKGROUND BODY End === */
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+     <mj-section padding="10px 0px">
+       </mj-section>
+    
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Cea mai variata gama de produse Joico la Glemis, la preturi avantajoase si cu extra beneficii
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong>
+          </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0 0" background-color="#ef6451">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/joico" color="#ffffff" font-size="18px">Arta părului frumos are un nume: Joico</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/joico-k-pak?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-49/joico1.png" alt="Glemis" align="center" border="none" width="600px" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/joico-k-pak?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-49/k-pack.png" alt="Glemis" align="center" border="none" width="600px" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" padding="10px 0px">
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/sampon-purificator-clarifying-shampoo-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/clarifying-shampoo-joico-300-ml-500x500.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Clarifying Shampoo</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-purificator-clarifying-shampoo-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/balsam-pentru-reparare-intensiva-reconstruct-conditioner-to-repair-damage-k-pak-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/reconstruct-conditioner-to-repair-damage-k-pak-joico-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>K-Pak Reconstruct Conditione</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-reparare-intensiva-reconstruct-conditioner-to-repair-damage-k-pak-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/sampon-reparator-k-pak-shampoo-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/k-pak-shampoo-joico-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>K-Pak Shampoo</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-reparator-k-pak-shampoo-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/spray-tratament-cu-proteine-k-pak-hkp-professional-joico-350-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak/k-pak-hkp-professional-joico-350-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>K-Pak HKP Professional</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/spray-tratament-cu-proteine-k-pak-hkp-professional-joico-350-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/joico-k-pak-color-therapy?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-49/joico.png" alt="Glemis" align="center" border="none" width="600px" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/joico-k-pak-color-therapy?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-49/k-pacl-color-therapy.png" alt="Glemis" align="center" border="none" width="600px" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" padding="10px 0px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/tratament-pentru-par-vopsit-luster-lock-repair-treatment-k-pak-color-therapy-joico-140-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak-color-therapy/luster-lock-repair-treatment-k-pak-color-therapy-joico-140-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Color Preserve Shampoo</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-pentru-par-vopsit-luster-lock-repair-treatment-k-pak-color-therapy-joico-140-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/balsam-pentru-par-vopsit-conditioner-to-preserve-color-repair-damage-k-pak-color-therapy-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak-color-therapy/k-pak-color-therapy-conditioner-joico-1000-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Conditioner to Preserve Color</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-par-vopsit-conditioner-to-preserve-color-repair-damage-k-pak-color-therapy-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/balsam-pentru-par-vopsit-k-pak-color-therapy-conditioner-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak-color-therapy/k-pak-color-therapy-conditioner-joico-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Color Therapy Conditioner</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-par-vopsit-k-pak-color-therapy-conditioner-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/sampon-pentru-par-vopsit-shampoo-to-preserve-color-k-pak-color-therapy-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak-color-therapy/shampoo-to-preserve-color-k-pak-color-therapy-joico-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Shampoo To Preserve Color</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-par-vopsit-shampoo-to-preserve-color-k-pak-color-therapy-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/joico-moisture-recovery?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-49/joico3.png" alt="Glemis" align="center" border="none" width="600px" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/joico-moisture-recovery?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-49/daily-care.png" alt="Glemis" align="center" border="none" width="600px" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" padding="10px 0px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/balsam-hidratant-pentru-par-degradat-conditioner-for-dry-hair-moisture-recovery-joico-1000-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/moisture-recovery/conditioner-for-dry-hair-moisture-recovery-joico-1000-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Conditioner For Dry Hair</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-hidratant-pentru-par-degradat-conditioner-for-dry-hair-moisture-recovery-joico-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/balsam-hidratant-pentru-parul-uscat-moisture-recovery-conditioner-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/moisture-recovery/moisture-recovery-conditioner-joico-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Moisture Recovery Conditioner</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-hidratant-pentru-parul-uscat-moisture-recovery-conditioner-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/balsam-hidratant-pentru-par-uscat-conditioner-for-dry-hair-moisture-recovery-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/moisture-recovery/moisture-recovery-shampoo-joico-1000-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Moisture Recovery Shampoo</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-hidratant-pentru-par-uscat-conditioner-for-dry-hair-moisture-recovery-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/tratament-hidratant-moisture-recovery-leave-in-moisturizer-joico-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/moisture-recovery/moisture-recovery-leave-in-moisturizer-joico-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Moisture Recovery Leave-in</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-hidratant-moisture-recovery-leave-in-moisturizer-joico-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+
+
+    <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="20px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:20px; text-decoration:none; color:#fff;" href="https://www.glemis.ro/joico?utm_content=call_action" class="link-nostyle">CUMPĂRĂ JOICO</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a style="text-decoration: none; color:#fff;" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding="0px 0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none; color:#fff;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none; color:#fff;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+    </mj-container>
+        <mj-section padding="10px 0px">
+       </mj-section>
+  </mj-body>
+</mjml>

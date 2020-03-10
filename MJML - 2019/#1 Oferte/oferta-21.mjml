@@ -1,0 +1,358 @@
+<mjml>
+  
+
+<mj-head>
+  <mj-attributes>
+    <mj-all font-family="Ubuntu" />
+    <!-- Title & web_version & Logo Start -->
+    <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding="10px 25px 10px 25px" line-height="20px;" />
+    <mj-class name="logo" width="150" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" />
+    <mj-class name="web-version" align="center" color="#2f323b" font-size="13px" padding="0px 25px 10px 25px" line-height="18px;" />
+    <mj-class name="sec-padd-0" padding="0px" background-color="#ffffff" />
+    <!-- Mj Title & web_version & Logo Start -->
+       
+    <!-- Menu  -->
+    <mj-class name="sec-padd-menu" padding="0px" background-color="#DA3C31" border-bottom="2px #fff" />
+    <mj-class name="menu_links" color="#ffffff" font-weight="400" font-size="16px" />
+    <mj-class name="menu_links_offer" color="#F6DA01" font-weight="900" font-size="18px" />
+    <!-- Menu  -->
+    
+    <!-- Buttons Start -->
+    <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fbb450" color="#fff" font-size="13px" padding="5px 0px" />
+    <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+    <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+    <!-- Buttons End -->
+    
+    <!-- Image Start  -->
+    <mj-class name="sec-padd-slider" padding="0px"/>
+    <mj-class name="slider" align="center" border="none" width="600px" padding="0px" />
+    <!-- Image End  -->
+    
+    <!-- Image Product Start  -->
+    <mj-class name="sec-padd-product" vertical-align="top" padding="10px 0px" background-color="#fff" />
+    <!-- Image Product End  -->
+    
+    <!-- Group 2 image  -->
+  <mj-class name="sec-padd-two-img" padding="10px 5px" background-color="#DA3C31" />
+  <mj-class name="sec-padd-two-img-text" padding="10px 5px" background-color="#fff" />
+  <mj-class name="sec-padd-header-product-title" padding="10px 5px" background-color="#fff" />
+  <!-- Group 2 image  -->
+    
+    <!-- Border Diver -->
+    <mj-class name="border-1" border-color="#fff" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+    <mj-class name="border-2" border-color="#fff" border-style="solid" border-width="2px" padding="5px 10px 5px 10px"/>
+    <mj-class name="header-boder-product" border-color="#FABA00" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+    <!-- Border Diver -->
+    
+    
+    <!-- Call to action button  -->
+    <mj-class name="call-action-small"font-family="Helvetica" font-size="16px" background-color="#fff" color="#DA3C31" border="2px solid #DA3C31" inner-padding="15px 25px" border-radius="15px" />
+    
+    <mj-class name="call-action-round" font-family="Helvetica" font-size="16px" background-color="#fff" color="#ff7f50" border="2px solid #ff7f50" inner-padding="15px 25px" border-radius="15px" />
+    <!-- Call to action button  -->
+    
+    <!-- Colums Mod's Start  -->
+    <mj-class name="col-33" vertical-align="middle" width="33.33333333333333%" />
+    <mj-class name="col-50" vertical-align="middle" width="50.00000000000000%" />
+    <mj-class name="col-100" vertical-align="middle" width="100%" />
+    <!-- Colums Mod's End  -->
+    
+<!-- Footer Start -->
+<mj-class name="sec-padd-footer" padding="10px 0px" background-color="#000" />
+
+<mj-class name="plitic-terms" font-weight="normal" align="center" color="#fff" font-size="15px" padding="0 10px 0 10px"/>
+
+<mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="26px;" padding="0px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+  <!-- Footer end -->
+
+</mj-attributes>
+<mj-style>
+.link-nostyle {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.discount {
+  display: inline-block;
+  background-color: red;
+  width: 100%;
+  font-size: 13px;
+  padding: 5px 0px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 480px) {
+  .b-bootom {
+    border: 2px solid #000;
+  }
+
+  .top30 {
+    padding-top: 30px !important;
+  }
+
+  .top20 {
+    padding-top: 20px !important;
+  }
+
+  .top15 {
+    padding-top: 15px !important;
+  }
+
+}
+
+.web_version {
+  text-decoration: none;
+  color: #000000;
+}
+
+.product_title{
+  padding: 0px 10px;
+  font-size: 16px;
+  display: inline-block;
+  line-height: 16px;
+  font-weight: 400;
+  overflow: hidden;
+  height:64px;
+  text-align:center;
+}
+
+.two_img_header {
+  font-size: 2em;
+  display: block;
+  padding: 5px 0px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-size: 1.3em;
+  display: block;
+  padding: 5px 10px;
+  color: #000;
+}
+
+.custom_text_1 {
+  font-size: 1.2em;
+  display: block;
+  text-align: center;
+  line-height: 1.2em;
+  padding: 5px ;
+
+  color: #000;
+}
+
+</mj-style>
+<mj-style inline="inline">
+  body  {   
+ background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-27/storyblocks-simple-dandelion-flower-pattern-vector-design-cute-single-pastel-color-florals-on-white-background_Hqx7FpnQX_thumb.jpg");
+}
+</mj-style>
+</mj-head>
+<mj-body>
+  <!-- Title & web_version & Logo -->
+  <mj-section mj-class="sec-padd-0">
+    <mj-column>
+      <mj-text mj-class="title">
+        Descoperă Oferta Happy Week -50% -40 -30 -20 -10 🛍️
+      </mj-text>
+      <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      <mj-text mj-class="web-version">
+        <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" ><strong>Vezi varianta web.</strong>
+        </a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Title & web_version & Logo -->
+  
+
+   
+   <!-- Slide Start  -->
+   <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+     <mj-column>
+     <mj-image mj-class="slider" href="https://www.glemis.ro/loreal-professionnel?utm_content=banner?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-27/loreal-romania.jpg"></mj-image>
+     </mj-column>
+   </mj-section>
+   <!-- Slide End  -->
+   
+   <!-- Header title Product  + logo   -->
+   <mj-section mj-class="sec-padd-header-product-title">
+   <mj-column mj-class="col-100">
+     <mj-image width="240px" padding="0px" href="https://www.glemis.ro/loreal-professionnel?utm_content=banner" src="https://www.glemis.ro/image/cache/catalog/manufacturer/loreal-professionnel-240x100.png">
+     </mj-image>
+     <mj-table padding="0px 0px">
+       <tr>
+       <td style="text-align:center;">
+         <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Este o companie franceză, veche de peste 100 de ani </span>
+         <span class="subtitle">în industria frumuseții, care combină cea mai recentă tehnologie cu cea mai mare calitate, rezultând în final un brand de frumusețe care îndeplinește toate calitățile unui produs de succes</span>
+         </td>
+       </tr>
+     </mj-table>
+      <mj-divider mj-class="header-boder-product"></mj-divider>
+   </mj-column>
+   </mj-section>
+   <!-- Header title Product  + logo   -->
+
+   <!-- Product 4 Start -->
+    <mj-section mj-class="sec-padd-product">
+      <mj-group>
+        <mj-column vertical-align="middle">
+        <mj-image css-class="top30" href="https://www.glemis.ro/balsam-pentru-volum-volumetry-serie-expert-loreal-professionnel-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/care/volumetry-serie-expert-loreal-professionnel-150-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+             <span class="product_title">Balsam pentru volum</span>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-volum-volumetry-serie-expert-loreal-professionnel-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+          
+        <mj-column vertical-align="middle">
+        <mj-image css-class="top30" href="https://www.glemis.ro/balsam-regenerant-instant-resurfacing-conditioner-absolut-repair-lipidium-loreal-professionnel-750-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/care/instant-resurfacing-conditioner-absolut-repair-lipidium-loreal-professionnel-750-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+           <span class="product_title"> Balsam regenerant L'oreal</span>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-regenerant-instant-resurfacing-conditioner-absolut-repair-lipidium-loreal-professionnel-750-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>  
+      
+      <mj-group>
+       <mj-column vertical-align="middle">
+       <mj-image css-class="top30" href="https://www.glemis.ro/masca-nutritiva-masque-fondant-nutrifier-glycerol-loreal-professionnel-500-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/care/masque-fondant-nutrifier-glycerol-loreal-professionnel-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+         <mj-text align="center" padding="0px 0px">
+           <span class="product_title"> Masca nutritiva L'oreal Professionnel</span>
+         </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-nutritiva-masque-fondant-nutrifier-glycerol-loreal-professionnel-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+       </mj-column>
+          
+       <mj-column vertical-align="middle">
+       <mj-image css-class="top30" href="https://www.glemis.ro/sampon-post-colorare-post-lightening-shampoo-blond-studio-loreal-professionnel-500-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/care/post-lightening-shampoo-blond-studio-loreal-professionnel-500-ml-228x228.gif" width="200px" padding="5px"></mj-image>
+         <mj-text align="center" padding="0px 0px">
+            <span class="product_title">Sampon post colorare</span>
+         </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-post-colorare-post-lightening-shampoo-blond-studio-loreal-professionnel-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+       </mj-column>
+      </mj-group>  
+      </mj-section>
+    <!-- Product 4 End --> 
+    
+    <!-- Product 4 Start -->
+     <mj-section mj-class="sec-padd-product">
+       <mj-group>
+         <mj-column vertical-align="middle">
+         <mj-image css-class="top30" href="?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/mythic-oil/oil-rich-masque-thick-hair-mythic-oil-loreal-professionnel-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+           <mj-text align="center" padding="0px 0px">
+              <span class="product_title">Easy and quick</span>
+           </mj-text>
+         <mj-button mj-class="orange-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+         </mj-column>
+           
+         <mj-column vertical-align="middle">
+         <mj-image css-class="top30" href="https://www.glemis.ro/sampon-hranitor-pentru-par-gros-shampoo-with-argan-myrrh-mythic-oil-loreal-professionnel-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/mythic-oil/shampoo-with-argan-myrrh-mythic-oil-loreal-professionnel-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+           <mj-text align="center" padding="0px 0px">
+            <span class="product_title">Sampon hranitor pentru par gros</span>
+           </mj-text>
+         <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-hranitor-pentru-par-gros-shampoo-with-argan-myrrh-mythic-oil-loreal-professionnel-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+         </mj-column>
+       </mj-group>  
+       
+       <mj-group>
+        <mj-column vertical-align="middle">
+        <mj-image css-class="top30" href="https://www.glemis.ro/masca-de-netezire-keratinoil-complex-masque-liss-unlimited-loreal-professionnel-500-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/liss-unlimited/keratinoil-complex-masque-liss-unlimited-loreal-professionnel-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <span class="product_title">Masca de netezire L'oreal Professionnel</span>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-de-netezire-keratinoil-complex-masque-liss-unlimited-loreal-professionnel-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+           
+        <mj-column vertical-align="middle">
+        <mj-image css-class="top30" href="https://www.glemis.ro/masca-fixatoare-de-culoare-color-protection-mask-vitamino-color-aox-loreal-professionnel-75-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/vitamino-color/color-protection-mask-vitamino-color-aox-loreal-professionnel-75-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+             <span class="product_title">L'oreal Professionnel</span>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-fixatoare-de-culoare-color-protection-mask-vitamino-color-aox-loreal-professionnel-75-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+       </mj-group>  
+       </mj-section>
+     <!-- Product 4 End --> 
+ 
+     <!-- Product 4 Start -->
+      <mj-section mj-class="sec-padd-product">
+        <mj-group>
+          <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/crema-modelatoare-hollywood-waves-waves-fatales-tecni-art-loreal-professionnel-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/tecni-art/hollywood-waves-waves-fatales-tecni-art-loreal-professionnel-150-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+               <span class="product_title">Crema modelatoare L'oreal Professionnel</span>
+            </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-modelatoare-hollywood-waves-waves-fatales-tecni-art-loreal-professionnel-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+            
+          <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/gel-crema-pentru-netezire-si-control-liss-control-tecni-art-loreal-professionnel-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/tecni-art/liss-control-tecni-art-loreal-professionnel-150-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+             <span class="product_title">Gel crema pentru netezire si control</span>
+            </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/gel-crema-pentru-netezire-si-control-liss-control-tecni-art-loreal-professionnel-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+        </mj-group>  
+        
+        <mj-group>
+         <mj-column vertical-align="middle">
+         <mj-image css-class="top30" href="https://www.glemis.ro/kit-asymmetric-pixie-loreal-professionnel?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/tecni-art/asymmetric-pixie-228x228.jpg" width="200px" padding="5px"></mj-image>
+           <mj-text align="center" padding="0px 0px">
+             <span class="product_title">Kit Asymmetric Pixie L'oreal Professionnel</span>
+           </mj-text>
+         <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-asymmetric-pixie-loreal-professionnel?utm_content=product_buy">CUMPĂRĂ</mj-button>
+         </mj-column>
+            
+         <mj-column vertical-align="middle">
+         <mj-image css-class="top30" href="https://www.glemis.ro/kit-messy-braid-loreal-professionnel?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/loreal-professionnel/tecni-art/messy-braid-228x228.jpg" width="200px" padding="5px"></mj-image>
+           <mj-text align="center" padding="0px 0px">
+              <span class="product_title">Kit Messy Braid L'oreal Professionnel</span>
+           </mj-text>
+         <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-messy-braid-loreal-professionnel?utm_content=product_buy">CUMPĂRĂ</mj-button>
+         </mj-column>
+        </mj-group>  
+        </mj-section>
+      <!-- Product 4 End --> 
+      
+ <!-- footer Start -->
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-text mj-class="footer">
+       <b>
+       CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+       <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+         style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+       </p>
+     </mj-text>
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column width="15%">
+   </mj-column>
+   <mj-column width="70%">
+     <mj-text mj-class="plitic-terms">
+         <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+         <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+     </mj-text>
+   </mj-column>
+   <mj-column width="15%">
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+     </mj-social>
+   </mj-column>
+ </mj-section>
+<!-- Footer End -->
+</mj-body>
+</mjml>

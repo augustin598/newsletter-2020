@@ -1,0 +1,151 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+      E:\#0 Theme\resurse
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#000">
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+            Glemis Halloween Crazy Days-bagam spaima in preturi
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+<!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/index.php?route=product/special" src="https://www.glemis.ro/image/catalog/newsletter-2019/halloween/happy-hallo-3.jpg" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- Slide End  -->
+  
+  <mj-section mj-class="cta-full">
+    <mj-column mj-class="col-100" background-color="#e98a01" padding="5px">
+      <mj-text mj-class="tx-center" font-size="20px" color="#fff">
+        <a class="clear-link" href="https://www.glemis.ro/index.php?route=product/special"><b>Vezi pagina cu reduceri</b></a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+
+  <!-- cupon Content -->
+  <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+    <mj-column>
+      <mj-text align="center
+      "color="#fff" font-size="18px">
+        <h2>LIVRARE GRATUITĂ<br><span style="font-weight: bold;color: #e98a01;">  La comenzi de peste 300 RON</span></h2>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- cupon Content -->
+
+  <mj-section background-color="#000" padding-bottom="0px" padding-top="0">
+    <mj-column width="15%">
+
+    </mj-column>
+    <mj-column width="70%" background-color="#000" padding="0px 0px">
+      <mj-text align="center "color="#fff" font-size="18px">
+      <h3 style="font-size:24px;margin-top: 0px;">CUPON CADOU</h3>
+      <p><span style="color: #fff; font-weight:900; border:2px solid #fff; padding:8px;">Cod: halloween</span></p>
+      </mj-text>
+    </mj-column>
+    <mj-column width="15%">
+    </mj-column>
+  </mj-section>
+
+  <!-- Slide Start  -->
+      <mj-section background-color="#000" padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-button background-color="#e98a01" font-size="18px" color="#fff" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro?utm_content=call_action" padding-bottom="10px" padding-top="0">Foloseşte Cupon!</mj-button>
+          <mj-text align="center">
+            * 10% Doar la produsele fara discount! *
+          </mj-text>
+          <mj-image mj-class="slider" href="https://www.glemis.ro/index.php?route=product/special" src="https://www.glemis.ro/image/catalog/newsletter-2019/halloween/happy-hallo-4.jpg" alt="Glemis"></mj-image>
+        </mj-column>
+      </mj-section>
+    <!-- Slide End  -->
+    
+
+
+    <!-- footer Start -->
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer-text">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

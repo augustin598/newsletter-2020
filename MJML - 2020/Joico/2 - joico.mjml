@@ -1,0 +1,384 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+       .link-nostyle { color: inherit; text-decoration: none } 
+      .circle {border-radius: 50%; width: 200px; height: 200px;} p{font-weight:normal;color:#000000;letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:center;font-family:lucida sans unicode,lucida
+      grande, sans-serif;line-height:1;margin:5px;padding:5px;} 
+      .p-head{font-weight:normal; color:#000; letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:justify;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:16px;margin:5px;padding:5px;}
+      .p-footer{font-weight:normal; color:#fff; letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:center;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:16px;margin:5px;padding:5px;} 
+      
+
+      
+      h1{font-family: Ubuntu, Helvetica, Arial, sans-serif; line-height:1; font-size:21px;text-align:center; padding:10px 10px; margin:0px;} .h1-left{font-family: Ubuntu, Helvetica, Arial,sans-serif; line-height:1; font-size:21px; text-align:left; padding:10px 10px; margin:0px;}
+      
+      
+      /* === PRODUCT DESCRIPTION === */ 
+      
+      .product{ font-weight: normal; color: #000000; letter-spacing: 0pt; word-spacing: 2pt; font-size: 12px; text-align: center;
+      font-family: lucida sans unicode,lucida grande, sans-serif; line-height: 1; padding: 10px 5px 10px 5px; height: 30px; overflow: hidden;text-overflow: ellipsis; background-color:#fff; margin:0px 0px 0px 0px;} 
+     /* === PRODUCT DESCRIPTION End === */ 
+      
+      /* === PRODUCT HEADING === */ 
+      
+      h3{font-family: Ubuntu,Helvetica, Arial, sans-serif; line-height: 1; font-size: 16px; text-align: center;  margin: 0px; color: #000; font-weight:500; height: 40px; overflow: hidden; padding:10px 15px; margin:5px 0px 0px 0px ; background-color:#fff;}
+      
+      /* === PRODUCT HEADING === */ /* === BACKGROUND BODY START === */ 
+      
+      .price{ color: rgb(250, 135, 57); background-color:#fff; margin: 0px 0px 10px 0px; padding: 12px 5px 10px; font-size: 16px; font-weight:bold;
+      
+      }
+      
+      body
+      { background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-1/f630ed82629b24f882a7b7d9a2456cfd--shaving-brush-haircut-styles.jpg"); } /* === BACKGROUND BODY End === */
+          
+.button{
+    padding: 3px;
+    display: inline;
+    border-radius: 2px;
+    font-family: "Arial";
+    border: 0;
+    margin: 10px 0px 0px 10px;
+    background: red;
+    font-size: 13px;
+    line-height: 15px;
+    color: white;
+    width: auto;
+    position: absolute;
+    text-decoration: line-through;
+    height: auto;
+    box-sizing: content-box;
+}
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#d6dde5">
+      
+      <mj-section background-color="#fff" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#2f323b" font-size="13" padding-left="25" padding-right="25" padding-bottom="5" padding-top="10">
+            Tratamentul pentru păr este întodeauna o alegere bună pentru tine...
+          </mj-text>
+          <mj-text align="center" color="#2f323b" font-size="13" padding-left="25" padding-right="25" padding-bottom="10" padding-top="5">
+            Daca intampinati probleme in vizualizarea acestui mail, <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong></a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image href="https://www.glemis.ro/" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" alt="Glemis" width="200" align="center" padding="10">
+          </mj-image>
+          < </mj-column>
+            <mj-column width="100%">
+              <mj-inline-links base-url="https://www.glemis.ro" hamburger="hamburger" ico-color="#fa8739">
+                <mj-link href="https://www.glemis.ro/joico?utm_content=header_menu" font-size="30px" color="#000000">Joico</mj-link>
+          
+              </mj-inline-links>
+            </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-divider border-color="#F45E43" width="100%" padding-top="0" padding-left="0" padding-right="9" padding-bottom="0"></mj-divider>
+          <mj-text font-weight="bold" align="justify" color="#000" font-size="15" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0">
+            <h1>Joico Color Butter</h1>
+          </mj-text>
+          
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section background-color="#fff" padding-top="10" padding-bottom="0">
+        <mj-column width="60%">
+          <mj-image href="https://www.glemis.ro/joico-color-butter?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/butter4.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0" padding-top="5"
+            width="500">
+          </mj-image>
+        </mj-column>
+
+        <mj-column width="40%">
+          <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/butter1.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0"
+            padding-top="5" width="235">
+          </mj-image>
+          <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par-color-depositing-treatment-color-butter-green-joico-177-ml?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/butter2.jpg" title="" align="center"
+            padding-left="0" padding-right="0" padding-bottom="5" padding-top="5" width="235">
+          </mj-image>
+          <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par-color-depositing-treatment-color-butter-pink-joico-177-ml?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/butter3.jpg" title="" align="center"
+            padding-left="0" padding-right="0" padding-bottom="0" padding-top="0" width="235">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section background-color="#fff" padding-top="0" padding-bottom="10">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par-color-depositing-treatment-color-butter-purple-joico-177-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/joico/color-butter/color-depositing-treatment-color-butter-purple-joico-177-ml-228x228.jpg"
+            title="" align="center" padding-left="0" padding-right="0" padding-bottom="0" padding-top="5" width="235">
+          </mj-image>
+
+        </mj-column>
+
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par-color-depositing-treatment-color-butter-red-joico-177-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/joico/color-butter/color-depositing-treatment-color-butter-red-joico-177-ml-228x228.jpg"
+            title="" align="center" padding-left="0" padding-right="0" padding-bottom="0" padding-top="5" width="235">
+          </mj-image>
+
+        </mj-column>
+
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/joico4.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0"
+            padding-top="5" width="235">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+
+
+      <mj-section background-color="#e21637" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#fff" font-size="18" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <a style="font-size:20;" href="https://www.glemis.ro/alfaparf-milano?utm_content=call_action" class="link-nostyle">CUMPĂRĂ COLOR BUTTER</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Containter Produse Start 1 -->
+      <mj-section background-color="#fff" padding-top="10" padding-bottom="10" padding-left="5" padding-right="5">
+        <!-- Produs 1 start -->
+        <mj-column width="33%">
+          <mj-image href="https://www.glemis.ro/spray-pentru-colorare-temporara-a-parului-amethyst-temporary-color-shimmer-spray-instatint-joico-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/instatint-color/amethyst-temporary-color-shimmer-spray-instatint-joico-50-ml-228x228.jpeg"
+            title="Ser disciplinant pentru par rebel - Frizz Control - Frizz - Moroccanoil - 50 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Amethyst - Temporary Color Shimmer Spray.</h3>
+            <p class="product">Spray pentru colorare temporara a parului</p>
+            <p style="color: rgb(250, 135, 57);"><b>61,50 lei</b></p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/spray-pentru-colorare-temporara-a-parului-amethyst-temporary-color-shimmer-spray-instatint-joico-50-ml?utm_content=product_buy" padding-bottom="10"
+            padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 1 End -->
+
+        <!-- Produs 2 start -->
+      <mj-column width="33%">
+          <mj-image href="https://www.glemis.ro/spray-pentru-colorare-temporara-a-parului-rose-gold-temporary-color-shimmer-spray-instatint-joico-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/instatint-color/rose-gold-temporary-color-shimmer-spray-instatint-joico-50-ml-228x228.png" title="Recipient pulverizare apa - Water Sprayer - Moroccanoil - 300 ml"
+            align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Rose Gold - Temporary Color Shimmer Spray</h3>
+            <p class="product">Spray pentru colorare temporara a parului</p>
+            <p style="color: rgb(250, 135, 57);">63,11 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/spray-pentru-colorare-temporara-a-parului-rose-gold-temporary-color-shimmer-spray-instatint-joico-50-ml?utm_content=product_buy" padding-bottom="10"
+            padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 2 End -->
+
+        <!-- Produs 3 start -->
+        <mj-column width="33%">
+          <mj-image href="https://www.glemis.ro/spray-pentru-colorare-temporara-a-parului-violet-opal-temporary-color-shimmer-spray-instatint-joico-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/instatint-color/violet-opal-temporary-color-shimmer-spray-instatint-joico-50-ml-228x228.jpg"
+            title="Concentrat pentru netezire / uscare cu foenul - Blow-Dry Concentrate - Smooth - Moroccanoil - 100 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Violet Opal - Temporary Color Shimmer Spray</h3>
+            <p class="product">Spray pentru colorare temporara a parului</p>
+            <p style="color: rgb(250, 135, 57);">63,11 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/spray-pentru-colorare-temporara-a-parului-violet-opal-temporary-color-shimmer-spray-instatint-joico-50-ml?utm_content=product_buy"
+            padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 3 End -->
+
+      </mj-section>
+      <!-- Containter Produse End 1 -->
+
+      <mj-section background-color="#000" padding-top="10" padding-bottom="0">
+        <mj-column>
+          <mj-image href="http://glemis.ro?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/joico1.jpg" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text font-weight="normal" align="justify" color="#fff" font-size="15" padding-left="10px" padding-right="10px" padding-bottom="0" padding-top="0" line-height="1.4">
+
+            Tratamentul pentru păr este întodeauna o alegere bună pentru tine, mai ales cand vine vorba Color Butter, modalitatea instantanee de a lupta împotriva decolorării și de a adauga nuanțe intense.<br><br>Acest tratament super-hrănitor depozitează
+            culori vibrante pe părul decolorat - perfect pentru momentul în care doriți să vă reîmprospătați nuanța de blond.<br><br> Lasă părul moale, voluminos, strălucitor, cu o culoare ultra vibrantă. Nu este greu de utilizat, iar culoarea rezistă
+            până la 10 șamponări.
+          </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+      <mj-section background-color="#e21637" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#fff" font-size="18" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <a style="font-size:20;" href="https://www.glemis.ro/alfaparf-milano?utm_content=call_action" class="link-nostyle">CUMPĂRĂ Joico</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#000" padding-top="0" padding-bottom="10">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/joico-k-pak-color-therapy?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/kpak-family.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0"
+            padding-top="5" width="235">
+          </mj-image>
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            K-Pak Color Therapy
+          </mj-text>
+        </mj-column>
+
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/joico-moisture-recovery?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/daily-fam.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0"
+            padding-top="5" width="235">
+          </mj-image>
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            Moisture Recovery
+          </mj-text>
+        </mj-column>
+
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/joico-color-endure?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/smoothcure-fam.jpg" title="" align="center" padding-left="0" padding-right="0" padding-bottom="0"
+            padding-top="5" width="235">
+          </mj-image>
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            Color Endure
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#000" padding-top="10" padding-bottom="0">
+        <mj-column>
+          <mj-image href="http://glemis.ro?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/joico2.jpg" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+
+
+
+      <!-- Containter Produse Start 2 -->
+      <mj-section background-color="#000" padding-top="10" padding-bottom="10" padding-left="5" padding-right="5">
+        <!-- Produs 1 start -->
+      <mj-column width="33%">
+          <mj-image href="https://www.glemis.ro/infuzie-reparatoare-mending-infusion-repair-moroccanoil-75-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/color-infuse/blue-conditioner-color-balance-joico-300-ml-228x228.jpg" title="" align="center"
+            padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Blue Conditioner - Color Balance - Joico</h3>
+            <p class="product">Balsam pigmentat pentru intretinerea parului brunet sau decolorat</p>
+            <p class="price">76,16 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/infuzie-reparatoare-mending-infusion-repair-moroccanoil-75-ml?utm_content=product_buy" padding-bottom="10"
+            padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 1 End -->
+
+        <!-- Produs 2 start -->
+      <mj-column width="33%">
+          <mj-image href="https://www.glemis.ro/infuzie-reparatoare-mending-infusion-repair-moroccanoil-20-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/color-infuse/brown-conditioner-color-infuse-joico-300-ml-228x228.jpg"
+            title="Infuzie reparatoare - Mending Infusion - Repair - Moroccanoil - 20 ml" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Brown Conditioner - Color Infuse - Joico</h3>
+            <p class="product"> Balsam pigmentat pentru intretinerea parului saten
+          </p>
+           <p class="price">76,16 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/infuzie-reparatoare-mending-infusion-repair-moroccanoil-20-ml?utm_content=product_buy" padding-bottom="10"
+            padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 2 End -->
+
+        <!-- Produs 3 start -->
+          <mj-column width="33%">
+          <mj-image href="https://www.glemis.ro/vopsea-crema-semi-permanenta-color-intensity-semi-permanent-sky-joico-118-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/paint-semi-permanent-color-intensity/color-intensity-semi-permanent-sky-joico-118-ml-228x228.jpg" title="Spray texturizant pentru bucle rebele - Texturizing Finisher - Beach Shake - Joico - 250 ml"
+            align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Vopsea crema semi-permanenta</h3>
+            <p class="product">Un produs de styling ce conferă textură firului de păr, hidratarea necesară și totodată crează un look final ca de satin, fără sare. Ideal pentru părul fin spre normal, acest hibrid unic combină uleiul de nucă de cocos, uleiul de floarea soarelui,
+              ceara de albine și rășinile flexibile pentru un aspect de beach waves, fără a usca părul. </p>
+            <p class="price">64,86 lei</p>
+          </mj-text>
+
+          <mj-button background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/vopsea-crema-semi-permanenta-color-intensity-semi-permanent-sky-joico-118-ml?utm_content=product_buy"
+            padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+        <!-- Produs 3 End -->
+
+      </mj-section>
+      <!-- Containter Produse End 2 -->
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="http://glemis.ro/joico?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/joico3.jpg" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#fff" font-size="13" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <a style="font-size:20;" href="https://www.glemis.ro/joico?utm_content=call_action" class="link-nostyle">CUMPĂRĂ</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#000" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <p class="p-footer">
+              CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.<br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+              <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+                style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#000" padding-bottom="0" padding-top="0">
+        <mj-column width="15%">
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <p class="p-footer">
+              <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|&nbsp;
+              <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+            </p>
+          </mj-text>
+          <mj-social font-size="13" text-mode="false" facebook-href="https://www.facebook.com/GlemisRomania" twitter-href="https://twitter.com/GlemisRomania" google-href="https://plus.google.com/+GlemisSuceava" mode="horizontal" display="facebook twitter google"
+            padding-left="25" padding-right="25" padding-bottom="5" padding-top="5">
+          </mj-social>
+        </mj-column>
+        <mj-column width="15%">
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>

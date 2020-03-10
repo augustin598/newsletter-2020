@@ -1,0 +1,98 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../resurse/attribut.mjml" />
+      <mj-include path="../resurse/button.mjml" />
+      <mj-include path="../resurse/menu.mjml" />
+      <mj-include path="../resurse/border.mjml" />
+      <mj-include path="../resurse/images.mjml" />
+      <mj-include path="../resurse/call-to-action.mjml" />
+      <mj-include path="../resurse/footer.mjml" />
+      <mj-include path="../resurse/colum.mjml" />
+    </mj-attributes>
+    <mj-include path="./resurse/standard-css.mjml" />
+    <mj-include path="./resurse/background.mjml" />
+  </mj-head>
+  <!-- All header control ellement End -->
+  <mj-body>
+
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+          <!--  Titlu -->
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a style="color:inherit; text-decoration: none;" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Menu -->
+    <mj-section mj-class="sec-padd-menu" background-color="#DA3C31">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links" href="/">Bruno Vassari</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" href="/">Moroccanoil</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" href="/">Olaplex</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_offer" href="/">-20% Reducere</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Slide Start  -->
+    <mj-section mj-class="sec-padd-slider">
+      <mj-column>
+        <mj-image mj-class="slider" href="" src=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+ <!-- footer Start -->
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-text mj-class="footer">
+       <b>
+       CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+       <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona 
+       <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+         style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+       </p>
+     </mj-text>
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column width="15%">
+   </mj-column>
+   <mj-column width="70%">
+     <mj-text mj-class="politic-terms">
+         <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+         <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+     </mj-text>
+   </mj-column>
+   <mj-column width="15%">
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+     </mj-social>
+   </mj-column>
+ </mj-section>
+<!-- Footer End -->
+
+  </mj-body>
+</mjml>

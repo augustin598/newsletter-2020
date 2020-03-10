@@ -1,0 +1,342 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+     <mj-style inline="inline">
+.link-nostyle { color: inherit; text-decoration: none }
+.circle {border-radius: 50%; width: 200px; height: 200px;}
+
+  h2 {display: block;
+    font-size: 1.5em;
+		margin: 10px 0px;
+    font-weight: bold;
+    height: 55px;
+    padding: 10px 0px;
+    overflow: hidden;
+  }
+
+    .product {
+      font-weight: normal;
+      color: #000000;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+       </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Promotii valabile <b>25-07.2018</b> - <b>27-07.2018</b> in limita stocului disponibil!
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0 0" background-color="#ef6451">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/wella-professionals" color="#ffffff">wella</mj-navbar-link>
+          <mj-navbar-link href="/nioxin" color="#ffffff">Nioxin</mj-navbar-link>
+          <mj-navbar-link href="/label-m" color="#ffffff">Label.m</mj-navbar-link>
+          <mj-navbar-link href="/mary-cohr" color="#ffffff">Mary Cohr</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+<!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/index.php?route=product/special" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-70/reduceri.jpg" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+
+  <!-- Slide End  -->
+
+  <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="20px" border-bottom="0px">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-1-scalp-revitaliser-conditioner-fine-hair-nioxin-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nioxin/hair-system-1/scalp-revitaliser-conditioner-fine-hair-nioxin-300-ml-228x228.jpg" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>SYS 1 - Scalp Revitaliser Conditioner</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-1-scalp-revitaliser-conditioner-fine-hair-nioxin-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-2-scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nioxin/hair-system-2/scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml-228x228.jpg" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>SYS 2 - Scalp Revitaliser - Conditioner</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-2-scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/balsam-pentru-par-vopsit-cu-structura-fina-sys-3-scalp-revitaliser-conditioner-fine-hair-chemically-treated-nioxin-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/nioxin/hair-system-3/scalp-revitaliser-conditioner-fine-hair-chemically-treated-nioxin-300-ml-228x228.jpg" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>SYS 3 - Scalp Revitaliser - Conditioner</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-pentru-par-vopsit-cu-structura-fina-sys-3-scalp-revitaliser-conditioner-fine-hair-chemically-treated-nioxin-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+  <!-- Product button Orange End -->
+
+  <!-- Call to action Start  -->
+  <mj-section background-color="#e85034" padding-bottom="0" padding-top="0">
+    <mj-column>
+        <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+            <a style="font-size:23px;" href="https://www.glemis.ro/nioxin" class="link-nostyle">-50% discount la gama de produse Nioxin System </a>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Call to action Start  -->
+
+  <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+      <mj-image mj-class="slider" href="https://www.glemis.ro/label-m?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-70/label-m2.jpg" alt="Glemis"></mj-image>
+    </mj-column>
+  </mj-section>
+
+
+  <!-- Product button Red start -->
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="20px" border-bottom="0px">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/spray-rosu-pentru-vopsire-instanta-powder-red-spray-label-m-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/label-m/color-spray/powder-red-spray-label-m-150-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Spray rosu pentru vopsire instanta</h2>
+        </mj-text>
+        <mj-button mj-class="red-button" href="https://www.glemis.ro/spray-rosu-pentru-vopsire-instanta-powder-red-spray-label-m-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/crema-anti-imbatranire-cu-caviar-alb-therapy-age-defying-protein-cream-label-m-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/label-m/therapy/therapy-age-defying-protein-cream-label-m-50-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Crema anti-imbatranire cu caviar alb</h2>
+        </mj-text>
+        <mj-button mj-class="red-button" href="https://www.glemis.ro/crema-anti-imbatranire-cu-caviar-alb-therapy-age-defying-protein-cream-label-m-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/spray-nuantator-rosu-red-highlighting-toner-label-m-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/label-m/color-spray/red-highlighting-toner-label-m-150-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Spray nuantator Red Highlighting Toner</h2>
+        </mj-text>
+        <mj-button mj-class="red-button" href="https://www.glemis.ro/spray-nuantator-rosu-red-highlighting-toner-label-m-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+      <!-- Product button Red End -->
+
+      <!-- Call to action Start  -->
+      <mj-section background-color="#df0130" padding-bottom="0" padding-top="0">
+        <mj-column>
+            <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+                <a style="font-size:23px;" href="https://www.glemis.ro/label-m" class="link-nostyle">- 50% discount la gama de produse Label.m</a>
+            </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Call to action Start  -->
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image mj-class="slider" href="https://www.glemis.ro/wella-professionals?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-70/wella-color.jpg" alt="Glemis"></mj-image>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Product button Green start -->
+        <mj-section background-color="#ffffff" vertical-align="top" padding-top="20px" border-bottom="0px">
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/vopsea-profesionala-0-45-koleston-perfect-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/0-45-koleston-perfect-wella-professionals-60-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+              <h2>Vopsea profesionala - 0/45</h2>
+            </mj-text>
+            <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-0-45-koleston-perfect-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/vopsea-profesionala-12-22-koleston-perfect-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/12-3-koleston-perfect-wella-professionals-60-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+              <h2>Vopsea profesionala 12/22</h2>
+            </mj-text>
+            <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-12-22-koleston-perfect-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+
+          <mj-column vertical-align="middle" width="33.33333333333333%">
+            <mj-image href="https://www.glemis.ro/gel-pentru-styling-pearl-styler-eimi-wella-professionals-100-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/eimi/pearl-styler-eimi-wella-professionals-100-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+            <mj-text align="center" padding-bottom="0px">
+              <h2>Gel pentru styling - Pearl Styler - EIMI</h2>
+            </mj-text>
+            <mj-button mj-class="green-button" href="https://www.glemis.ro/gel-pentru-styling-pearl-styler-eimi-wella-professionals-100-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+        </mj-section>
+        <!-- Product button Green End -->
+
+        <!-- Call to action Start  -->
+        <mj-section background-color="#00c853" padding-bottom="0" padding-top="0">
+          <mj-column>
+              <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+                  <a style="font-size:23px;" href="https://www.glemis.ro/wella-professionals" class="link-nostyle">- 50% discount la gama de produse Wella</a>
+              </mj-text>
+          </mj-column>
+        </mj-section>
+        <!-- Call to action Start  -->
+
+        <mj-section padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-image mj-class="slider" href="https://www.glemis.ro/mary-cohr?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-70/tratamente-mary-cohr.jpg" alt="Glemis"></mj-image>
+          </mj-column>
+        </mj-section>
+
+
+        <!-- Product button Green start -->
+          <mj-section background-color="#ffffff" vertical-align="top" padding-top="20px" border-bottom="0px">
+            <mj-column vertical-align="middle" width="33.33333333333333%">
+              <mj-image href="https://www.glemis.ro/crema-care-amelioreaza-iritatia-dupa-expunerea-la-soare-pur-confort-apres-soleil-mary-cohr-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/mary-cohr/specific-sun-protection/pur-confort-apres-soleil-mary-cohr-200-ml-228x228.jpg" alt="" width="200" padding="0px"></mj-image>
+              <mj-text align="center" padding-bottom="0px">
+                <h2>Pur Confort Après Soleil Mary Cohr</h2>
+              </mj-text>
+              <mj-button mj-class="green-button" href="https://www.glemis.ro/crema-care-amelioreaza-iritatia-dupa-expunerea-la-soare-pur-confort-apres-soleil-mary-cohr-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+            </mj-column>
+
+            <mj-column vertical-align="middle" width="33.33333333333333%">
+              <mj-image href="https://www.glemis.ro/lotiune-tonica-matifianta-lotion-regulatrice-matifiante-mary-cohr-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/mary-cohr/purity-and-mattifier/lotion-regulatrice-matifiante-mary-cohr-200-ml-228x228.png" alt="" width="200" padding="0px"></mj-image>
+              <mj-text align="center" padding-bottom="0px">
+                <h2>Lotion Régulatrice Matifiante Mary Cohr</h2>
+              </mj-text>
+              <mj-button mj-class="green-button" href="https://www.glemis.ro/lotiune-tonica-matifianta-lotion-regulatrice-matifiante-mary-cohr-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+            </mj-column>
+
+            <mj-column vertical-align="middle" width="33.33333333333333%">
+              <mj-image href="https://www.glemis.ro/tratament-pentru-ten-uscat-essences-vitales-peaux-seches-mary-cohr-30-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/mary-cohr/specific-nourishment/essences-vitales-peaux-seches-mary-cohr-30-ml-228x228.png" alt="" width="200" padding="0px"></mj-image>
+              <mj-text align="center" padding-bottom="0px">
+                <h2>Essences Vitales Peaux Sèches Mary Cohr</h2>
+              </mj-text>
+              <mj-button mj-class="green-button" href="https://www.glemis.ro/tratament-pentru-ten-uscat-essences-vitales-peaux-seches-mary-cohr-30-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+            </mj-column>
+          </mj-section>
+          <!-- Product button Green End -->
+
+          <!-- Call to action Start  -->
+          <mj-section background-color="#00c853" padding-bottom="0" padding-top="0">
+            <mj-column>
+                <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+                    <a style="font-size:23px;" href="https://www.glemis.ro/mary-cohr" class="link-nostyle">- 45% discount la gama de produse Wella</a>
+                </mj-text>
+            </mj-column>
+          </mj-section>
+          <!-- Call to action Start  -->
+
+    <!-- Email content End -->
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+
+  </mj-body>
+</mjml>

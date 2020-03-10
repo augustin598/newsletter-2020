@@ -1,0 +1,9 @@
+<!-- Image Product Start  -->
+<mj-class name="sec-padd-product" vertical-align="top" padding="10px 0px" background-color="#fff" />
+<!-- Image Product End  -->
+
+<!-- Group 2 image  -->
+<mj-class name="sec-padd-two-img" padding="10px 5px" background-color="#8CCC451" />
+<mj-class name="sec-padd-two-img-text" padding="10px 5px" background-color="#fff" />
+<mj-class name="sec-padd-header-product-title" padding="10px 5px" background-color="#fff" />
+<!-- Group 2 image  -->

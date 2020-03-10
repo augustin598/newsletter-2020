@@ -1,0 +1,457 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#FABA00" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+    <mj-style>
+      .link-nostyle {
+        color: inherit;
+        text-decoration: none
+      }
+
+      .circle {
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+      }
+
+      h2 {
+        display: block;
+        font-size: 1.5em;
+        margin: 10px 0px;
+        font-weight: 400;
+        height: 30px;
+        padding: 10px 0px;
+        overflow: hidden;
+      }
+
+      .product {
+        font-weight: normal;
+        color: #000000;
+        letter-spacing: 0pt;
+        word-spacing: 2pt;
+        font-size: 12px;
+        text-align: center;
+        font-family: lucida sans unicode, lucida grande, sans-serif;
+        line-height: 1;
+        margin: 5px;
+        padding: 5px;
+        height: 50px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .discount {
+        display: inline-block;
+        background-color: red;
+        width: 100%;
+        font-size: 13px;
+        padding: 5px 0px;
+        margin: 0px auto;
+        box-sizing: border-box;
+        color: #fff;
+        text-transform: uppercase;
+      }
+
+      /* === PRODUCT HEADING === */
+      h3 {
+        font-family: Ubuntu, Helvetica, Arial, sans-serif;
+        line-height: 1;
+        font-size: 16px;
+        text-align: center;
+        padding: 10px 0px;
+        margin: 0px;
+        color: #000;
+        font-weight: 500;
+        height: 40px;
+        overflow: hidden;
+      }
+
+      /* === PRODUCT HEADING === */
+
+
+
+      @media only screen and (max-width: 480px) {
+
+        .b-bootom {
+          border: 2px solid #000;
+        }
+
+        .top30 {
+          padding-top: 30px !important;
+        }
+
+        .top20 {
+          padding-top: 20px !important;
+        }
+
+        .top15 {
+          padding-top: 15px !important;
+        }
+
+
+        .custom-p {
+          height: 10px !important;
+        }
+
+        .custom-p2 {
+          height: 25px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#33393f">
+
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Piele mai tânără cu Babor! Mixuri de concentrate pentru un ten care radiaza de sanatate!
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong>
+          </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0 0" background-color="#000">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/bruno-vassari" font-size="16px" color="#ffffff">Bruno Vassari</mj-navbar-link>
+          <mj-navbar-link href="/moroccanoil" font-size="16px" color="#ffffff">Moroccanoil</mj-navbar-link>
+          <mj-navbar-link href="/olaplex" font-size="16px" color="#ffffff">Olaplex</mj-navbar-link>
+          <mj-navbar-link href="/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=11" color="#F6DA01" font-weight="900" font-size="16px">-20% Reducere</mj-navbar-link>
+
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0px" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/babor-skinovage-sensational-eyes?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-22/babor1.jpg">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Header content -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image width="200px" padding="0px" href="https://www.glemis.ro/babor?utm_content=banner" src="https://www.glemis.ro/image/cache/catalog/manufacturer/babor-240x100.jpg">
+        </mj-image>
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Rezultate vizibile cu Babor</span>
+              <span style="font-size: 1.3em; display: block; padding:5px 10px; color:#000;">Dacă apar primele semne ale îmbătrânirii pielii, colecția Doctor Babor Skin conține produse care ajută pielea să se păstreze mult mai tânără, redând astfel încrederea de sine. </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider border-color="#FABA00" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- header content end  -->
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" vertical-align="top" padding="10px 0px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/lotiune-calmanta-si-reechilibranta-rebalancing-liquid-refine-cellular-doctor-babor-babor-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/doctor-babor-refine-cellular/rebalancing-liquid-refine-cellular-doctor-babor-babor-200-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Rebalancing Liquid Refine Cellular Babor </h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/lotiune-calmanta-si-reechilibranta-rebalancing-liquid-refine-cellular-doctor-babor-babor-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/solutie-speciala-pentru-inchiderea-porilor-pore-refiner-refine-cellular-doctor-babor-babor-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/doctor-babor-refine-cellular/pore-refiner-refine-cellular-doctor-babor-babor-50-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Pore Refiner Refine Cellular Doctor Babor</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/solutie-speciala-pentru-inchiderea-porilor-pore-refiner-refine-cellular-doctor-babor-babor-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/lotiune-cu-actiune-anti-celulita-si-fermitate-3d-cellulite-lotion-refine-cellular-doctor-babor-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/doctor-babor-refine-cellular/3d-cellulite-lotion-refine-cellular-doctor-babor-200-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>3D Cellulite Lotion Refine Cellular Babor</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/lotiune-cu-actiune-anti-celulita-si-fermitate-3d-cellulite-lotion-refine-cellular-doctor-babor-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/ser-anti-roseata-intens-protector-couperose-serum-cp-refine-cellular-doctor-babor-babor-30-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/doctor-babor-refine-cellular/couperose-serum-cp-refine-cellular-doctor-babor-babor-30-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Couperose Serum Refine Cellular Babor</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ser-anti-roseata-intens-protector-couperose-serum-cp-refine-cellular-doctor-babor-babor-30-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+    <!--  Trust badge 1 Start  -->
+    <mj-section background-color="#000" border="2px solid #fff" padding="20px 0px">
+      <mj-column vertical-align="middle" width="33.33333333333333%" padding="0px">
+        <mj-table>
+          <tr>
+            <td style="padding: 0px" align="center">
+              <img src="https://www.glemis.ro/image/catalog/newsletter-2018/new/logistics-delivery-truck-in-movement2.png" width="64" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <span style="font-size:16px; color:#fff; text-transform:uppercase;">LIVRARE GRATUITĂ</span>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0px" align="center">
+              <p style="margin:0px; color:#fff; text-align:center;"> La comenzi de peste 300 RON</p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-table>
+          <tr>
+            <td style="padding: 0px" align="center">
+              <img src="https://www.glemis.ro/image/catalog/newsletter-2018/new/verification-of-delivery-list-clipboard-symbol.png" width="64" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <span style="font-size:14px; color:#fff; text-transform:uppercase;">Produse autentice</span>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0px" align="center">
+              <p style="margin:0px; color:#fff; text-align:center;">Toate produsele listate SUNT ORIGINALE</p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-table>
+          <tr>
+            <td style="padding: 0px" align="center">
+              <img src="https://www.glemis.ro/image/catalog/newsletter-2018/new/call-center-worker-with-headset.png" width="64" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <span style="font-size:16px; color:#fff; text-transform:uppercase;">Suport telefonic</span>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0px" align="center">
+              <p style="margin:0px; color:#fff; text-align:center;">Program: Luni-Vineri: 09:-17</p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!--  Trust badge 1 Start  -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="15px" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/babor-seacreation?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-22/sea-creation.jpg">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" vertical-align="top" padding="10px 0px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/masca-echilibranta-cu-bio-celuloza-skinovage-balancing-cellulose-mask-5-buc?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/skinovage-age-preventing-balancing/skinovage-balancing-cellulose-mask-5-buc-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>ESkinovage Balancing Cellulose Mask</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-echilibranta-cu-bio-celuloza-skinovage-balancing-cellulose-mask-5-buc?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/pad-uri-revigorante-pentru-ochi-skinovage-refreshing-eye-pads-babor-5-buc?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/skinovage-age-preventing-balancing/skinovage-refreshing-eye-pads-babor-5-buc-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Skinovage Refreshing Eye Pads</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/pad-uri-revigorante-pentru-ochi-skinovage-refreshing-eye-pads-babor-5-buc?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/serum-echilibrant-pentru-ten-skinovage-balancing-serum-babor-30-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/skinovage-age-preventing-balancing/skinovage-balancing-serum-babor-30-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Skinovage Balancing Serum Babor</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/serum-echilibrant-pentru-ten-skinovage-balancing-serum-babor-30-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/crema-pentru-ten-mixt-skinovage-perfect-combination-daily-mattifying-cream-babor-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/skinovage-perfect-combination/skinovage-perfect-combination-daily-mattifying-cream-babor-50-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Skinovage Perfect Combination</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-pentru-ten-mixt-skinovage-perfect-combination-daily-mattifying-cream-babor-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="15px" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/babor-doctor-babor-repair-cellular?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-22/fotoheader_1460630996_fotoheader_1439201334_banner_BABOR_Body_Cellular.jpg">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" vertical-align="top" padding="10px 0px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/fiole-de-hidratare-si-revitalizare-algae-vitalizer-ampoule-concentrates-babor-7-x-2-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/special-edition-ampoule-concentrates/algae-vitalizer-ampoule-concentrates-babor-7-x-2-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3> Fiole detoxifiante - Oxy Detox - Festival Edition</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/fiole-de-hidratare-si-revitalizare-algae-vitalizer-ampoule-concentrates-babor-7-x-2-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/fiole-anti-imbatranire-cu-colagen-lift-firm-ampoules-babor-7-x-2-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/special-edition-ampoule-concentrates/lift-firm-ampoules-babor-7-x-2-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Fiole anti-imbatranire cu colagen</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/fiole-anti-imbatranire-cu-colagen-lift-firm-ampoules-babor-7-x-2-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/fiole-calmante-pentru-toate-tipurile-de-ten-stop-stress-babor-7-x-2-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/special-edition-ampoule-concentrates/stop-stress-babor-7-x-2-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Fiole pentru - hidratare - Festival Edition</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/fiole-calmante-pentru-toate-tipurile-de-ten-stop-stress-babor-7-x-2-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/fiole-hidratante-pentru-piele-uscata-oxygen-plus-ampoules-babor-7-x-2-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/babor/special-edition-ampoule-concentrates/oxygen-plus-ampoules-babor-7-x-2-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Fiole reconfortante Festival Edition</h3>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/fiole-hidratante-pentru-piele-uscata-oxygen-plus-ampoules-babor-7-x-2-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0px" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/babor-hsr-lifting?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-22/Categories409-972x294-41543.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="20px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:20;" href="https://www.glemis.ro/babor?utm_content=call_action" class="link-nostyle">CUMPĂRĂ BABOR</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+            Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+            <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+            </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+
+  </mj-body>
+</mjml>

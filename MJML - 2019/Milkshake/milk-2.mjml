@@ -1,0 +1,439 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+      
+      <!-- Image Product Start  -->
+      <mj-class name="sec-padd-product" vertical-align="top" padding="10px 0px" background-color="#fff" />
+      <!-- Image Product End  -->
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#FABA00" color="#fff" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+     <mj-style>
+    .link-nostyle { color: inherit; text-decoration: none; }
+
+    h2 {display: block;
+      font-size: 1.2em;
+      font-weight: 500;
+      height: 40px;
+      padding: 5px 0px;
+      overflow: hidden;
+    }
+
+    .product {
+      font-weight: normal;
+      color: #000000;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+       
+       @media only screen and (max-width: 480px){
+        	.bd-img30 {
+           padding-top:30px !important;
+          }
+          
+          .bd-img20 {
+           padding-top:20px !important;
+          }
+          
+          .bd-img15 {
+           padding-top:15px !important;
+          }
+       
+       
+       		.custom-p{
+       			 height: 10px !important;
+       		}
+       
+       	.custom-p2{
+       			 height: 25px !important;
+       		}
+
+        }
+  
+       </mj-style>
+  </mj-head>
+  <mj-body background-color="#3F4C6B">
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Sunt concepute după o filosofie simplă: folosesc puterea și frumusețea naturii pentru a obține un rezultat uluitor, indiferent de ocazie. Î
+        </mj-text>
+        
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="title-info">
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>Vezi varianta web</strong>
+       </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0px" background-color="#FABA00">
+      <mj-column>
+        <mj-text align="center">
+            <span style="font-size: 1.8em; display: block; padding:5px 0px; color:#fff;">I ❤️ milk_shake</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+<!-- Slide Start  -->
+    <mj-section padding="0px 0px">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/milk-shake?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-18/glemis.-milk.jpg" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- Slide End  -->
+  
+  <!-- Call to action Start  -->
+  <mj-section background-color="#FABA00" padding-bottom="0" padding-top="0">
+    <mj-column>
+        <mj-text align="center" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <a style="font-size:22px; color:#fff;" href="https://www.glemis.ro/milk-shake?utm_content=call_action" class="link-nostyle">Descoperă  #milk_shake</a>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Call to action Start  -->  
+  
+<mj-section background-color="#ffffff" vertical-align="top" padding-top="15px" padding-bottom="10px">
+  <mj-column width="100%">
+    <mj-table padding="0px 0px">
+      <tr>
+      <td style="text-align:center;">
+        <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;"> Integrity</span>
+        <span style="font-size: 1.3em; display: block; padding:5px 10px; color:#000;">Tratamente restructurante fara parabeni si sulfati</span>
+        </td>
+      </tr>
+    </mj-table>
+  <mj-divider border-color="#FABA00" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5px"></mj-divider>
+</mj-column>
+</mj-section>
+
+<!-- Product button Orange start -->
+<mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image href="https://www.glemis.ro/tratament-concentrat-hranitor-si-reparator-cu-pentru-parul-degradat-integrity-booster-integrity-milk-shake-150-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/integrity-booster-integrity-milk-shake-150-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Integrity Booster Integrity Milk Shake</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-concentrat-hranitor-si-reparator-cu-pentru-parul-degradat-integrity-booster-integrity-milk-shake-150-ml">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/tratament-intensiv-nutritiv-si-reparator-pentru-toate-tipurile-de-par-intensive-treatment-integrity-milk-shake-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/intensive-treatment-integrity-milk-shake-200-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Intensive Treatment - Integrity - Milk Shake</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-intensiv-nutritiv-si-reparator-pentru-toate-tipurile-de-par-intensive-treatment-integrity-milk-shake-200-ml">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image href="https://www.glemis.ro/ulei-protectiv-si-reparator-pentru-par-degradat-si-varfuri-despicate-incredible-oil-integrity-milk-shake-50-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/incredible-oil-integrity-milk-shake-100-ml-228x228.png" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Incredible Oil - Integrity - Milk Shake</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/ulei-protectiv-si-reparator-pentru-par-degradat-si-varfuri-despicate-incredible-oil-integrity-milk-shake-50-ml">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/sampon-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-shampoo-integrity-milk-shake-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/nourishing-shampoo-integrity-milk-shake-100-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Sampon intens hidratant pentru toate tipurile de par</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-shampoo-integrity-milk-shake-100-ml">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  </mj-section>
+  <!-- Product button Orange End -->
+  
+  <!-- Slide Start  -->
+      <mj-section padding="0px 0px">
+        <mj-column>
+          <mj-image mj-class="slider" href="https://www.glemis.ro/milk-shake-silver-shine?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-18/image_10.jpg" alt="Glemis"></mj-image>
+        </mj-column>
+      </mj-section>
+    <!-- Slide End  -->
+  
+  <mj-section background-color="#ffffff" vertical-align="top" padding-top="15px" padding-bottom="10px">
+    <mj-column width="100%">
+      <mj-table padding="0px 0px">
+        <tr>
+          <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Organic Argan Oil</span>
+              <span style="font-size: 1.3em; display: block; padding:5px 10px; color:#000;">Obținut din ulei organic de argan</span>
+          </td>
+        </tr>
+      </mj-table>
+    <mj-divider border-color="#FABA00" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5px"></mj-divider>
+  </mj-column>
+  </mj-section> 
+  
+  
+  <!-- Product button Orange start -->
+  <mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+    <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/sampon-hidratant-cu-ulei-organic-de-argan-pentru-toate-tipurile-de-par-argan-shampoo-organic-argan-oil-milk-shake-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/organ-argan-oil/argan-shampoo-organic-argan-oil-milk-shake-1000-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Glistening Argan Oil - Organic Argan Oil - Milk Shake </h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-hidratant-cu-ulei-organic-de-argan-pentru-toate-tipurile-de-par-argan-shampoo-organic-argan-oil-milk-shake-1000-ml">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+      <mj-column vertical-align="middle">
+        <mj-image href="https://www.glemis.ro/tratament-hidratant-cu-ulei-de-argan-pentru-toate-tipurile-de-par-glistening-argan-oil-organic-argan-oil-milk-shake-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/organ-argan-oil/glistening-argan-oil-organic-argan-oil-milk-shake-250-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Glistening Argan Oil - Organic Argan Oil - Milk Shake</h2>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-hidratant-cu-ulei-de-argan-pentru-toate-tipurile-de-par-glistening-argan-oil-organic-argan-oil-milk-shake-250-ml">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    
+    <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/tratament-hidratant-cu-ulei-de-argan-pentru-toate-tipurile-de-par-glistening-argan-oil-organic-argan-oil-milk-shake-50-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/organ-argan-oil/glistening-argan-oil-organic-argan-oil-milk-shake-50-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Glistening Argan Oil - Organic Argan Oil - Milk Shake</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-hidratant-cu-ulei-de-argan-pentru-toate-tipurile-de-par-glistening-argan-oil-organic-argan-oil-milk-shake-50-ml">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+      <mj-column vertical-align="middle">
+        <mj-image href="https://www.glemis.ro/tratament-intensiv-de-reconstructie-pentru-toate-tipurile-de-par-argan-deep-treatment-organic-argan-oil-milk-shake-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/organ-argan-oil/argan-deep-treatment-organic-argan-oil-milk-shake-200-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Argan Deep Treatment - Organic Argan Oil - Milk Shake</h2>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-intensiv-de-reconstructie-pentru-toate-tipurile-de-par-argan-deep-treatment-organic-argan-oil-milk-shake-200-ml">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    </mj-section>
+    <!-- Product button Orange End -->
+    
+    <!-- Slide Start  -->
+        <mj-section padding="0px 0px">
+          <mj-column>
+            <mj-image mj-class="slider" href="https://www.glemis.ro/milk-shake?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-18/Shampoo-Large.jpg" alt="Glemis"></mj-image>
+          </mj-column>
+        </mj-section>
+      <!-- Slide End  -->
+  
+    
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="15px" padding-bottom="10px">
+      <mj-column width="100%">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Color Care</span>
+              <span style="font-size: 1.3em; display: block; padding:5px 10px; color:#000;">Protejează firul de păr în timpul serviciului de colorare sau decolorare.</span>
+            </td>
+          </tr>
+        </mj-table>
+      <mj-divider border-color="#FABA00" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5px"></mj-divider>
+    </mj-column>
+    </mj-section>    
+    
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+      <mj-group>
+          <mj-column vertical-align="middle">
+            <mj-image href="https://www.glemis.ro/tratament-intensiv-nutritiv-si-reparator-pentru-toate-tipurile-de-par-intensive-treatment-integrity-milk-shake-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/intensive-treatment-integrity-milk-shake-200-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+              <h2>Itensive Treatment Integrity <br>Milk Shake</h2>
+            </mj-text>
+            <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-intensiv-nutritiv-si-reparator-pentru-toate-tipurile-de-par-intensive-treatment-integrity-milk-shake-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+          
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/sampon-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-shampoo-integrity-milk-shake-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/nourishing-shampoo-integrity-milk-shake-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+              <h2>Nourishing Shampoo Integrity <br> Milk Shake</h2>
+            </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-shampoo-integrity-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>  
+      
+      <mj-group>
+          <mj-column vertical-align="middle">
+            <mj-image href="https://www.glemis.ro/balsam-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-conditioner-integrity-milk-shake-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/nourishing-conditioner-integrity-milk-shake-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+              <h2>Nourishing Conditioner Integrity</h2>
+            </mj-text>
+            <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-conditioner-integrity-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+          
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/kit-pentru-hidratare-si-reparare-integrity-system-milk-shake?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/kit-for-hydration-and-repair-integrity-system-milk-shake-228x228.png" width="150px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+              <h2>Integrity System Milk Shake <br> 4 produse</h2>
+            </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-hidratare-si-reparare-integrity-system-milk-shake?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>  
+      </mj-section>
+      <!-- Product button Orange End -->
+      
+      <!-- Slide Start  -->
+          <mj-section padding="0px 0px">
+            <mj-column>
+              <mj-image mj-class="slider" href="https://www.glemis.ro/milk-shake-integrity-system?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-18/Treatments-Large.jpg" alt="Glemis"></mj-image>
+            </mj-column>
+          </mj-section>
+        <!-- Slide End  -->
+  
+  <!-- Call to action Start  -->
+  <mj-section background-color="#FABA00" padding-bottom="0" padding-top="0">
+    <mj-column>
+        <mj-text align="center" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <a style="font-size:22px; color:#fff;" href="https://www.glemis.ro/milk-shake?utm_content=call_action" class="link-nostyle">Descoperă  #milk_shake</a>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Call to action Start  -->  
+  
+  <!-- Product 4 Start -->
+   <mj-section mj-class="sec-padd-product">
+     <mj-group>
+       <mj-column vertical-align="middle">
+       <mj-image css-class="top30" href="https://www.glemis.ro/balsam-intens-hidratant-anti-imbatranire-pentru-parul-uscat-conditioner-moisture-plus-milk-shake-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/moisture-plus/conditioner-moisture-plus-milk-shake-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+         <mj-text align="center" padding="0px 0px">
+            <span class="product_title"> Balsam intens hidratant anti-imbatranire pentru parul uscat
+</span>
+         </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-intens-hidratant-anti-imbatranire-pentru-parul-uscat-conditioner-moisture-plus-milk-shake-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+       </mj-column>
+         
+       <mj-column vertical-align="middle">
+       <mj-image css-class="top30" href="https://www.glemis.ro/sampon-intens-hidratant-anti-imbatranire-pentru-parul-uscat-shampoo-moisture-plus-milk-shake-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/moisture-plus/shampoo-moisture-plus-milk-shake-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+         <mj-text align="center" padding="0px 0px">
+          <span class="product_title">Sampon intens hidratant anti-imbatranire pentru parul uscat</span>
+         </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-intens-hidratant-anti-imbatranire-pentru-parul-uscat-shampoo-moisture-plus-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+       </mj-column>
+     </mj-group>  
+     
+     <mj-group>
+      <mj-column vertical-align="middle">
+      <mj-image css-class="top30" href="https://www.glemis.ro/spuma-leave-in-intens-hidratanta-pentru-parul-uscat-whipped-cream-moisture-plus-milk-shake-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/moisture-plus/whipped-cream-moisture-plus-milk-shake-200-ml-228x228.jpeg" width="200px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <span class="product_title">Spuma leave-in intens hidratanta pentru parul uscat</span>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/spuma-leave-in-intens-hidratanta-pentru-parul-uscat-whipped-cream-moisture-plus-milk-shake-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+         
+      <mj-column vertical-align="middle">
+      <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-hidratare-intensiva-moisture-plus-milk-shake?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/moisture-plus/kit-pentru-hidratare-intensiva-moisture-plus-milk-shake-228x228.png" width="200px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+           <span class="product_title">Kit pentru hidratare intensiva</span>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-hidratare-intensiva-moisture-plus-milk-shake?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+     </mj-group>  
+     </mj-section>
+   <!-- Product 4 End --> 
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a style="text-decoration: none; color:#fff;" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding="0px 0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none; color:#fff;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none; color:#fff;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+
+  </mj-body>
+</mjml>

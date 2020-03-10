@@ -1,0 +1,198 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="head-image" padding="0" width="600" />
+      <mj-class name="logo-text" align="center" color="#000" font-size="25px" line-height="25px" font-weight="600" />
+      <mj-class name="background" background-color="#0ff" />
+    </mj-attributes>
+
+    <mj-style inline="inline">
+      .link-nostyle { color: inherit; text-decoration: none } .circle {border-radius: 50%; width: 200px; height: 200px;} .p-footer { font-weight: normal; color: #fff; letter-spacing: 0pt; word-spacing: 3pt; font-size: 12px; text-align: center; font-family:
+      lucida sans unicode, lucida grande, sans-serif; line-height: 20px; margin: 5px; padding: 5px; } .discount { font-family: Ubuntu; font-size: 14px; text-align:center; font-weight: bolder; line-height: 14px; letter-spacing: 2px; color: #f00; } .background{
+      background: #1FA2FF; background: -webkit-linear-gradient(to top, #A6FFCB, #12D8FA, #1FA2FF); background: linear-gradient(to top, #A6FFCB, #12D8FA, #1FA2FF); }
+
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-text align="center" color="#000" font-size="13px" line-height="20px"  padding-bottom="10px" padding-top="20">
+         Toate produsele listate SUNT ORIGINALE, au termen de valabilitate mare și se livrează însoțite de factură cu declarație de conformitate. 
+        </mj-text>
+        <mj-text align="center" color="#000" font-size="13px" line-height="16px" padding-bottom="10px" padding-top="10">
+          Daca intampinati probleme in vizualizarea acestui mail, <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong></a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Menu -->
+    </mj-raw>
+
+    <mj-section padding-bottom="5">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text mj-class="logo-text"><a href="https://www.glemis.ro" style="text-decoration: none; color: inherit; padding: 5px 5px;">GLEMIS</mj-text>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="center" padding-bottom="0px" padding-top="10">
+          <a href="https://www.glemis.ro" style="text-decoration: none; color: inherit; border: 1px solid #000; padding: 5px 5px;">Acasa</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+          <a href="https://www.glemis.ro/moroccanoil" style="text-decoration: none; color: inherit; border: 1px solid #000; padding: 5px 5px;">Moroccanoil</a>&#xA0;&#xA0;&#xA0;&#xA0;
+          <a href="https://www.glemis.ro/index.php?route=product/special" style="text-decoration: none; color: inherit; border: 1px solid #000; padding: 5px 5px;">Reduceri</a> &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+        </mj-text>
+        <mj-text>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Head Image -->
+    </mj-raw>
+
+    <mj-section padding-top="0" padding-bottom="5">
+      <mj-column>
+        <mj-image mj-class="head-image" href="https://www.glemis.ro/moroccanoil?utm_content=video" src="https://media.giphy.com/media/xire9dv5W0RSbIXnHE/giphy.gif" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Read more-->
+    </mj-raw>
+
+
+
+    <mj-section background-url="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-002A-getminiBG.jpg"vertical-align="middle" padding-top="5" padding-bottom="5">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px" padding-top="25">Produsele noastre sunt 100% originale!</mj-text>
+        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5"></mj-divider>
+        <mj-text align="center" color="#f8d5d1" font-size="15px" line-height="20px" padding-bottom="25px" padding-top="20">Glemis.ro te răsfață cu cele mai apreciate parfumuri, cu produse de make-up selecte, cosmetice inovatoare, dar și produse care sunt menite să reflecte frumusețea fiecărei femei. Îți dorești ca la fiecare comandă să ai parte de parfumuri originale și de siguranță în momentul în care îți achiziţionezi online parfumuri și cosmetice?</mj-text>
+        <mj-text align="center" color="#f8d5d1" font-size="15px" line-height="20px" padding-bottom="25px" padding-top="0">
+       Glemis îți pune la dispoziție parfumuri atât pentru femei, cât și pentru bărbați și o gamă largă de produse cosmetice profesionale de cea mai bună calitate, toate la prețuri imbatabile.</mj-text>
+        <mj-button align="center" border="2px solid #fff" background-color="#fff" color="#EE3C96" border-radius="24px" font-size="14px" href="https://glemis.ro" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px"
+          padding-top="10">Citeste mai mult ...</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!--  no3 product-->
+    </mj-raw>
+
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="10" border-bottom="0">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/serum-anti-age-instant-anti-rid-anti-cearcan-si-lifting-instantly-revive-eye-serum-remary-10-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/remary/instantly-revive-eye-serum-remary-10-ml-228x228.png" alt="" width="200" padding="0"></mj-image>
+        <mj-text align="center" padding-bottom="0">
+          <h3>Serum anti-age instant</h3>
+          <p>Este un produs antirid de excepție destinat tratării zonei oculare, cea mai expusă apariției ridurilor.</p>
+        </mj-text>
+        <mj-button align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" href="https://www.glemis.ro/serum-anti-age-instant-anti-rid-anti-cearcan-si-lifting-instantly-revive-eye-serum-remary-10-ml?utm_content=product_buy" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="25px"
+          padding-top="10">DESCOPERĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-500-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/remary/professional-thermoactive-anti-cellulite-cream-remary-500-ml-228x228.png" alt="" width="200" padding="0"></mj-image>
+        <mj-text align="center" padding-bottom="0">
+          <h3>Cremă termoactivă anti celulitică</h3>
+          <p>Descoperă crema anticelulită revoluționară care va reduce
+urmele inestetice rapid și sigur!</p>
+        </mj-text>
+        <mj-button align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-500-ml?utm_content=product_buy" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="25px"
+          padding-top="10">DESCOPERĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/tratament-pentru-toate-tipurile-de-par-treatment-moroccanoil-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/scalp-balance/treatment-moroccanoil-200-ml-228x228.jpg" alt="" width="200" padding="0"></mj-image>
+        <mj-text align="center" padding-bottom="0">
+          <h3>Tratament pentru toate tipurile de par</h3>
+          <p>Special conceput pentru toate tipurile de par, este produsul care a pionerat parul infuzat cu ulei.</p>
+        </mj-text>
+        <mj-button align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" href="https://www.glemis.ro/tratament-pentru-toate-tipurile-de-par-treatment-moroccanoil-200-ml?utm_content=product_buy" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="25px"
+          padding-top="10">DESCOPERĂ</mj-button>
+      </mj-column>
+    </mj-section>
+    
+        <mj-raw>
+      <!--  Carousel -->
+    </mj-raw>
+
+
+    <mj-section padding-top="0" padding-bottom="10">
+      <mj-column>
+        <mj-carousel>
+          <mj-carousel-image href="https://www.glemis.ro/parfumuri-pentru-femei" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-53/3.png" />
+          <mj-carousel-image href="https://www.glemis.ro/index.php?route=product/special" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-53/2.png" />
+          <mj-carousel-image href="https://www.glemis.ro/index.php?route=product/special" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-53/1.png" />
+        </mj-carousel>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!--  no3 product-->
+    </mj-raw>
+
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="5" border-bottom="0">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/tratament-perfector-hair-perfector-no-3-olaplex-100-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/olaplex/products/hair-perfector-no-3-olaplex-100-ml-228x228.jpg" alt="" width="200" padding="0"></mj-image>
+        <mj-text align="center" padding-bottom="0">
+          <h3>Tratament Perfector - Hair Perfector No.3</h3>
+          <p>Folositi o data pe saptamana, intre serviciile de colorare, pentru a intari firul de par.</p>
+        </mj-text>
+        <mj-button align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" href="https://www.glemis.ro/tratament-perfector-hair-perfector-no-3-olaplex-100-ml?utm_content=product_buy" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="35px"
+          padding-top="10">DESCOPERĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/balsam-cu-cheratina-maintenance-conditioner-lisse-design-kt-alfaparf-milano-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/lisse-design-keratin-therapy/maintenance-conditioner-lisse-design-kt-alfaparf-milano-250-ml-228x228.jpg" alt="" width="200" padding="0"></mj-image>
+        <mj-text align="center" padding-bottom="0">
+          <h3>Balsam cu cheratina - Maintenance Conditioner</h3>
+          <p>WBalsam cu cheratină pentru întreținerea tratamentului Lisse Design. Balsam fără parabeni</p>
+        </mj-text>
+        <mj-button align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" href="https://www.glemis.ro/balsam-cu-cheratina-maintenance-conditioner-lisse-design-kt-alfaparf-milano-250-ml?utm_content=product_buy" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="35px"
+          padding-top="10">DESCOPERĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="https://www.glemis.ro/crema-anti-rid-cu-ceramide-kianty-viniferin-eyes-and-lips-cream-bruno-vassari-15-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/bruno-vassari/kianty/kianty-viniferin-eyes-and-lips-cream-bruno-vassari-15-ml-228x228.jpg" alt="" width="200" padding="0"></mj-image>
+        <mj-text align="center" padding-bottom="0">
+          <h3>Crema anti-rid cu ceramide - Kianty Viniferin</h3>
+          <p>Crema Bruno Vassari cu textură bogata în ceramide care ajută la reducerea ridurilor și liniilor de expresie ...</p>
+        </mj-text>
+        <mj-button align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" href="https://www.glemis.ro/crema-anti-rid-cu-ceramide-kianty-viniferin-eyes-and-lips-cream-bruno-vassari-15-ml?utm_content=product_buy" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="35px"
+          padding-top="10">DESCOPERĂ</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-raw>
+      <!-- Content footer -->
+    </mj-raw>
+
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-text font-weight="bold" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0">
+          <p class="p-footer">
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.<br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+            <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+              style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0">
+      <mj-column width="15%"></mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="bold" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|&nbsp;
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+        <mj-social font-size="13px" mode="horizontal" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="5">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania"></mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania"></mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava"></mj-social-element>
+        </mj-social>
+      </mj-column>
+      <mj-column width="15%"></mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>

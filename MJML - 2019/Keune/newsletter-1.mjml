@@ -1,0 +1,353 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+     <mj-style>
+    .link-nostyle { color: inherit; text-decoration: none; }
+
+    h2 {display: block;
+      font-size: 1.2em;
+      font-weight: 500;
+      height: 40px;
+      padding: 5px 0px;
+      overflow: hidden;
+    }
+
+    .product {
+      font-weight: normal;
+      color: #000000;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+       
+       @media only screen and (max-width: 480px){
+        	.bd-img {
+           padding-top:30px !important;
+          }
+       
+       		.custom-p{
+       			 height: 10px !important;
+       		}
+       
+       	.custom-p2{
+       			 height: 25px !important;
+       		}
+
+        }
+  
+       </mj-style>
+  </mj-head>
+  <mj-body background-color="#43464B">
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Conceput pentru stiliștii de pe întreg globul pentru a putea crea stiluri stylish pentru bărbații de pretutindeni. 
+        </mj-text>
+        
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="title-info">
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>Vezi varianta web</strong>
+       </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0px" background-color="#4063E3">
+      <mj-column>
+        <mj-text align="center">
+            <span style="font-size: 1.5em; display: block; padding:5px 0px; color:#fff;">1922 BY J.M.KEUNE Distilled for Men</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+<!-- Slide Start  -->
+    <mj-section padding="0px 0px">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/keune-1922-by-j-m-keune-distilled-for-men?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/35261372_641710552836910_2157684268342444032_n.jpg" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- Slide End  -->
+  
+<mj-section background-color="#ffffff" vertical-align="top" padding-top="15px" padding-bottom="10px">
+  <mj-column width="100%">
+    <mj-table padding="0px 0px">
+      <tr>
+      <td style="text-align:center;">
+          <p style="font-size: 1.3em; display: block; padding:5px 15px; color:#000; margin:0px;">
+            Conceput pentru stiliștii de pe întreg globul pentru a putea crea stiluri stylish pentru bărbații de pretutindeni. 
+          </p>
+        </td>
+      </tr>
+    </mj-table>
+  <mj-divider border-color="#4063E3" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5px"></mj-divider>
+</mj-column>
+</mj-section>
+
+<!-- Product button Orange start -->
+<mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image href="https://www.glemis.ro/balsam-esential-essential-conditioner-distilled-for-men-keune-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/essential-conditioner-distilled-for-men-keune-250-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Essential Conditioner Keune</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-esential-essential-conditioner-distilled-for-men-keune-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image href="?https://www.glemis.ro/balsam-revigorant-refreshing-conditioner-distilled-for-men-keune-250-mlutm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/refreshing-conditioner-distilled-for-men-keune-250-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Refreshing Conditioner Keune</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-revigorant-refreshing-conditioner-distilled-for-men-keune-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img" href="https://www.glemis.ro/balsam-esential-essential-conditioner-distilled-for-men-keune-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/essential-conditioner-distilled-for-men-keune-50-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Essential Conditioner Travel</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-esential-essential-conditioner-distilled-for-men-keune-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image css-class="bd-img" href="https://www.glemis.ro/balsam-revigorant-refreshing-conditioner-distilled-for-men-keune-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/refreshing-conditioner-distilled-for-men-keune-50-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Refreshing Conditioner Travel</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-revigorant-refreshing-conditioner-distilled-for-men-keune-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  </mj-section>
+  <!-- Product button Orange End -->
+  
+  <!-- Slide Start  -->
+      <mj-section padding="0px 0px">
+        <mj-column>
+          <mj-image mj-class="slider" href="https://www.glemis.ro/keune-1922-by-j-m-keune-distilled-for-men?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/1922_Header.jpg" alt="Glemis"></mj-image>
+        </mj-column>
+      </mj-section>
+    <!-- Slide End  -->
+  
+  <mj-section background-color="#ffffff" vertical-align="top" padding-top="15px" padding-bottom="10px">
+    <mj-column width="100%">
+      <mj-table padding="0px 0px">
+        <tr>
+          <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Essential Shampoo - Distilled for Men - Keune</span>
+          </td>
+        </tr>
+      </mj-table>
+    <mj-divider border-color="#4063E3" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5px"></mj-divider>
+  </mj-column>
+  </mj-section>  
+  
+  <!-- Product button Orange start -->
+  <mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+    <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/sampon-esential-essential-shampoo-distilled-for-men-keune-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/essential-shampoo-distilled-for-men-keune-50-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Essential Shampoo Keune Travel</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-esential-essential-shampoo-distilled-for-men-keune-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+      <mj-column vertical-align="middle">
+        <mj-image href="https://www.glemis.ro/sampon-fortifiant-fortifying-shampoo-distilled-for-men-keune-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/fortifying-shampoo-distilled-for-men-keune-50-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Fortifying Shampoo Keune Travel</h2>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-fortifiant-fortifying-shampoo-distilled-for-men-keune-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    
+    <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img" href="https://www.glemis.ro/sampon-esential-essential-shampoo-distilled-for-men-keune-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/essential-shampoo-distilled-for-men-keune-250-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Essential Shampoo Keune &nbsp;</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-esential-essential-shampoo-distilled-for-men-keune-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img" href="https://www.glemis.ro/sampon-fortifiant-fortifying-shampoo-distilled-for-men-keune-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/fortifying-shampoo-distilled-for-men-keune-250-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Fortifying Shampoo Keune &nbsp;</h2>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-fortifiant-fortifying-shampoo-distilled-for-men-keune-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    </mj-section>
+    <!-- Product button Orange End -->  
+    
+    <!-- Slide Start  -->
+        <mj-section padding="0px 0px">
+          <mj-column>
+            <mj-image mj-class="slider" href="https://www.glemis.ro/keune-1922-by-j-m-keune-distilled-for-men?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/1922_HeaderCarousel_1166x503.jpg" alt="Glemis"></mj-image>
+          </mj-column>
+        </mj-section>
+      <!-- Slide End  -->
+    
+    <mj-section background-color="#ffffff" vertical-align="top" padding-top="15px" padding-bottom="10px">
+      <mj-column width="100%">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+                <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">World Class Wax - Distilled for Men - Keune</span>
+            </td>
+          </tr>
+        </mj-table>
+      <mj-divider border-color="#4063E3" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5px"></mj-divider>
+    </mj-column>
+    </mj-section>    
+    
+    <!-- Product button Orange start -->
+      <mj-section background-color="#ffffff" vertical-align="top" padding-top="5px" border-bottom="0px">
+        <mj-column vertical-align="middle" width="33.33333333333333%">
+          <mj-image href="https://www.glemis.ro/ceara-de-par-world-class-wax-distilled-for-men-keune-75-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/world-class-wax-distilled-for-men-keune-75-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding-bottom="0px">
+            <h2 class="custom-p">Ceara de par - World Class Wax Keune</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/ceara-de-par-world-class-wax-distilled-for-men-keune-75-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+        <mj-column vertical-align="middle" width="33.33333333333333%">
+          <mj-image href="https://www.glemis.ro/crema-modelatoare-premium-clay-distilled-for-men-keune-75-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/premium-clay-distilled-for-men-keune-75-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding-bottom="0px">
+            <h2 class="custom-p2">Crema modelatoare - Premium Clay Keune</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/crema-modelatoare-premium-clay-distilled-for-men-keune-75-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+        <mj-column vertical-align="middle" width="33.33333333333333%">
+          <mj-image href="https://www.glemis.ro/pasta-cu-fixare-puternica-premier-paste-distilled-for-men-keune-75-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/distilled-for-men/premier-paste-distilled-for-men-keune-75-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding-bottom="0px">
+            <h2 class="custom-p2">Pastă cu fixare puternica - Premier Paste</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/pasta-cu-fixare-puternica-premier-paste-distilled-for-men-keune-75-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-section>
+    <!-- Product button Orange End -->    
+  <!-- Email content End -->
+  
+  <!-- Call to action Start  -->
+  <mj-section background-color="#4063E3" padding-bottom="0" padding-top="0">
+    <mj-column>
+        <mj-text align="center" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <a style="font-size:22px; color:#fff;" href="https://www.glemis.ro/keune-1922-by-j-m-keune-distilled-for-men?utm_content=call_action" class="link-nostyle">Descopera  1922 BY J.M.KEUNE</a>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Call to action Start  -->  
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a style="text-decoration: none; color:#fff;" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding="0px 0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none; color:#fff;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none; color:#fff;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,15 @@
+<!-- Header title Product -->
+<mj-section mj-class="brand-title" background-color="#fff">
+<mj-column mj-class="col-100">
+  <mj-table padding="0px 0px">
+    <tr>
+    <td style="text-align:center;">
+      <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Head</span>
+      <span class="subtitle">Text</span>
+      </td>
+    </tr>
+  </mj-table>
+   <mj-divider mj-class="header-boder-product"></mj-divider>
+</mj-column>
+</mj-section>
+<!-- Header title Product -->

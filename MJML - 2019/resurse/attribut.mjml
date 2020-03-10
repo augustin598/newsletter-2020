@@ -1,0 +1,16 @@
+<mj-all font-family="Ubuntu" />
+
+<!-- Title & web_version & Logo Start -->
+<mj-class name="title" align="center" color="#2f323b" font-size="13px" padding="10px 25px 10px 25px" line-height="20px;" />
+<mj-class name="logo-v1" width="150" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" />
+<mj-class name="web-version" align="center" color="#000" font-size="13px" padding="0px 25px 10px 25px" line-height="18px;" />
+<mj-class name="sec-padd-0" padding="0px" background-color="#ffffff" />
+<!-- Mj Title & web_version & Logo Start -->
+<mj-class name="logo-v2" width="250" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2019/remary/Remary-logo-white-transparent.png" />
+<!-- Image Start -->
+<mj-class name="sec-padd-slider" padding="0px"/>
+<mj-class name="slider" align="center" border="none" width="600px" padding="0px" />
+<!-- Image End  -->
+
+
+

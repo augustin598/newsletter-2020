@@ -1,0 +1,247 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/template-5/style.mjml" />
+    </mj-attributes>
+    <mj-include path="../#0-Theme/template-4/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      // display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+  Moroccanoil este un adevărat ritual pentru păr deoarece nu numai că hrănește și revigorează părul uscat, dar îi conferă și un miros încântător, făcându-l plăcut la atingere. 
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="clear-link" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/moroccanoil?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-2/580x384-lf-aboutthebrand-morocconiol-014716.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/moroccanoil-repair-line" style="color:#fff; text-decoration:none;">
+        <h1 h style="background-color: #7ECEE5;padding:10px 5px; display:block; margin:5px 0;">- Repair Line - </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-reparator-hidratant-pentru-par-degradat-moisture-repair-shampoo-repair-moroccanoil-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/repair-line/moisture-repair-shampoo-repair-moroccanoil-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Moisture Repair Shampoo - Repair - Moroccanoil</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-reparator-hidratant-pentru-par-degradat-moisture-repair-shampoo-repair-moroccanoil-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-reparator-hidratant-pentru-par-degradat-moisture-repair-conditioner-repair-moroccanoil-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/repair-line/moisture-repair-conditioner-repair-moroccanoil-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam reparator hidratant pentru par degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-reparator-hidratant-pentru-par-degradat-moisture-repair-conditioner-repair-moroccanoil-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-reparator-hidratant-pentru-par-degradat-moisture-repair-shampoo-moroccanoil-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/repair-line/moisture-repair-shampoo-moroccanoil-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon reparator hidratant pentru par degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-reparator-hidratant-pentru-par-degradat-moisture-repair-shampoo-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-reparator-hidratant-pentru-par-degradat-moisture-repair-conditioner-repair-moroccanoil-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/repair-line/moisture-repair-conditioner-repair-moroccanoil-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam reparator hidratant pentru păr degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-reparator-hidratant-pentru-par-degradat-moisture-repair-conditioner-repair-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/moroccanoil?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-2/moroccan-footer.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+  
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/moroccanoil-volume-line" style="color:#fff; text-decoration:none;">
+        <h1 style="background-color: #7ECEE5;padding:10px 5px; display:block; margin:5px 0;">- Volume Line - </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-de-volum-pentru-parul-subtire-si-slabit-extra-volume-shampoo-volume-moroccanoil-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/volume-line/extra-volume-shampoo-volume-moroccanoil-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon de volum pentru parul subtire si slabit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-de-volum-pentru-parul-subtire-si-slabit-extra-volume-shampoo-volume-moroccanoil-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-subtire-si-slabit-extra-volume-conditioner-volume-moroccanoil-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/volume-line/extra-volume-conditioner-volume-moroccanoil-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam de volum pentru parul subtire si slabit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-subtire-si-slabit-extra-volume-conditioner-volume-moroccanoil-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-subtire-si-slabit-extra-volume-conditioner-volume-moroccanoil-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/volume-line/extra-volume-conditioner-volume-moroccanoil-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam de volum pentru parul subtire si slabit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-subtire-si-slabit-extra-volume-conditioner-volume-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-subtire-si-slabit-extra-volume-conditioner-volume-moroccanoil-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/volume-line/extra-volume-shampoo-volume-moroccanoil-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam de volum pentru parul subtire si slabit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-subtire-si-slabit-extra-volume-conditioner-volume-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/moroccanoil?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-2/car2.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+    
+    <!-- Categori product Title -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+      <mj-text align="center" padding="0px 10px">
+        <a href="https://www.glemis.ro/moroccanoil-hydration" style="color:#fff; text-decoration:none;">
+        <h1 h style="background-color: #7ECEE5;padding:10px 5px; display:block; margin:5px 0;">- Hydration Line - </h1>
+        </a>
+      </mj-text>
+        <mj-divider border-color="#F45E43" width="100%" padding-top="0px" padding-bottom="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Categori product Title -->
+    
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-shampoo-moroccanoil-hydration-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon intens hidratant pentru par uscat sau degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-hidratant-pentru-toate-tipurile-de-par-hydrating-conditioner-hydration-moroccanoil-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-conditioner-hydration-moroccanoil-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam hidratant pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-hidratant-pentru-toate-tipurile-de-par-hydrating-conditioner-hydration-moroccanoil-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-shampoo-moroccanoil-hydration-250-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon intens hidratant pentru par uscat sau degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-hidratant-pentru-toate-tipurile-de-par-hydrating-conditioner-hydration-moroccanoil-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-conditioner-hydration-moroccanoil-250-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam hidratant pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-hidratant-pentru-toate-tipurile-de-par-hydrating-conditioner-hydration-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- footer Start -->
+        <mj-include path="../#0-Theme/template-4/footer.mjml" />
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

@@ -1,0 +1,363 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#f8992f" color="#fff"  font-size="13px" padding="0px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+    <mj-style>
+      .link-nostyle {text-decoration: none !important;  color: inherit !important; }
+      circle {border-radius: 50%; width: 200px; height: 200px;} 
+      
+      /* === BACKGROUND BODY START ===*/  
+      .bg{ 
+        background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/Simple-Christmas-Wrapping-Paper-Pattern-Background-2-300x300.png");
+      } 
+      /* === BACKGROUND BODY End === */ 
+      
+      h2 {
+        display: block;
+        font-size: 1.5em;
+    		margin: 10px 0px;
+        font-weight: 300;
+        height: 25px;
+        padding: 10px 0px;
+        overflow: hidden;
+      }
+
+      
+      @media only screen and (max-width: 480px){
+       .bd-img {
+       border-top: 1px solid #000 !important;
+       padding: 5px !important;
+       }
+
+      
+    </mj-style>
+  </mj-head>
+  <mj-body css-class="bg">
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Reimprospateaza-ti culoarea culoarea parului cu porduse profesionale de la Joico, Alfaparf şi Keune
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="title-info">
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>Vezi varianta web</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0px 0px" background-color="#e21637">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/alfaparf-milano-pigments" color="#ffffff" font-size="15px">Alfaparf Pigments</mj-navbar-link>
+          <mj-navbar-link href="/joico-color-butter" color="#ffffff" font-size="15px">Joico Color Butter</mj-navbar-link>
+          <mj-navbar-link href="/keune-vopsea-non-permanenta-color-craving" color="#ffffff" font-size="15px">Keune Color Craving</mj-navbar-link>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">
+      <mj-column width="60%">
+        <mj-image href="https://www.glemis.ro/joico-color-butter?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/butter4.jpg" title="" align="center" padding-left="0px" padding-right="0px" padding-bottom="0px"
+          padding-top="5px" width="500px">
+        </mj-image>
+      </mj-column>
+
+      <mj-column width="40%">
+        <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/butter1.jpg" title="" align="center" padding-left="0" padding-right="0px" padding-bottom="0px"
+          padding-top="5px" width="235px">
+        </mj-image>
+        <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par-color-depositing-treatment-color-butter-green-joico-177-ml?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/butter2.jpg" title="" align="center"
+          padding-left="0" padding-right="0px" padding-bottom="5px" padding-top="5px" width="235px">
+        </mj-image>
+        <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par-color-depositing-treatment-color-butter-pink-joico-177-ml?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/butter3.jpg" title="" align="center"
+          padding-left="0" padding-right="0px" padding-bottom="0px" padding-top="0px" width="235px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#fff" padding-top="0px" padding-bottom="10px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par-color-depositing-treatment-color-butter-purple-joico-177-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/joico/color-butter/color-depositing-treatment-color-butter-purple-joico-177-ml-228x228.jpg"
+          title="" align="center" padding-left="0" padding-right="0px" padding-bottom="0px" padding-top="5px" width="235px">
+        </mj-image>
+
+      </mj-column>
+
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par-color-depositing-treatment-color-butter-red-joico-177-ml?utm_content=product_defined" src="https://img.glemis.com/cache/catalog/product/joico/color-butter/color-depositing-treatment-color-butter-red-joico-177-ml-228x228.jpg"
+          title="" align="center" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="5px" width="235px">
+        </mj-image>
+
+      </mj-column>
+
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/tratament-nuantator-pentru-par?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-13/joico4.jpg" title="" align="center" padding-left="0px" padding-right="0px" padding-bottom="0px"
+          padding-top="5px" width="235px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#e21637" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:20px; color:#fff; text-decoration: none;" href="https://www.glemis.ro/joico-color-butter?utm_content=call_action">CUMPĂRĂ COLOR BUTTER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/keune-vopsea-non-permanenta-color-craving?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/main-qimg-c56c18c37ec25ba842c364ab8e5d8aea.jpg" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff"vertical-align="top" padding="20px 5px">
+    <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-passionate-pink-keune-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/paint-non-permanent-color-craving/color-craving-passionate-pink-keune-150-ml-228x228.jpg" width="200px" padding="0px"></mj-image>
+          <mj-text align="center" padding-bottom="0px">
+            <h2>Passionate Pink</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-passionate-pink-keune-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-peach-mist-keune-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/paint-non-permanent-color-craving/color-craving-peach-mist-keune-150-ml-228x228.jpg" width="200px" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Peach Mist Keune</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-peach-mist-keune-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    
+    <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-velvet-violet-keune-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/paint-non-permanent-color-craving/color-craving-velvet-violet-keune-150-ml-228x228.jpg" width="200px" padding="0px"></mj-image>
+          <mj-text align="center" padding-bottom="0px">
+            <h2>Velvet Violet Keune</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-velvet-violet-keune-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-cardinal-red-keune-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/paint-non-permanent-color-craving/color-craving-cardinal-red-keune-150-ml-228x228.jpg" width="200px" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Cardinal Red Keune</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-cardinal-red-keune-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    </mj-section>
+    <!-- Product button Orange End -->
+
+    
+    <mj-section padding="0px" background-color="#e21637">
+    <mj-column vertical-align="middle">
+      <mj-image alt="GET YOUR ROBOT" href="https://www.glemis.ro/keune-vopsea-non-permanenta-color-craving" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/rainbow-hair-trend-fb.jpg" width="300px" padding="0px"></mj-image>
+    </mj-column>
+    <mj-column vertical-align="middle">
+      <mj-spacer height="50px"></mj-spacer>
+      <mj-text font-size="18px" align="center" color="#ffffff" font-weight="100" font-style="italic" letter-spacing="1px" padding-bottom="2px" font-family="Arial" line-height="1.3"><b>Vopsea non-permanenta Color Craving</b></mj-text>
+      <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="30px" padding-right="30px" padding-bottom="5px" padding-top="5px"></mj-divider>
+      <mj-text font-size="14px" align="center" color="#ffffff" font-weight="100" padding="0px 5px" font-family="Arial" line-height="1.5">O gamă distractivă de opt culori - patru culori pastelate și patru culori vibrante, vii care se estompează treptat și frumos. Acestea pot fi folosite atât la salon, cât și acasă </mj-text>
+      <mj-spacer height="15px"></mj-spacer>
+      <mj-button font-size="16px" href="https://www.glemis.ro/keune-vopsea-non-permanenta-color-craving" font-family="arial" background-color="#fff" color="#e21637" inner-padding="10px 30px" border-radius="15px"><i>DESCOPERA</i></mj-button>
+      <mj-spacer height="50px"></mj-spacer>
+    </mj-column>
+  </mj-section>
+
+  <!-- Product button Orange start -->
+  <mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-pink-flush-keune-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/paint-non-permanent-color-craving/color-craving-pink-flush-keune-150-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Pink Flush Keune</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-pink-flush-keune-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image css-class="bd-img" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-powder-blue-keune-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/paint-non-permanent-color-craving/color-craving-powder-blue-keune-150-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Powder Blue Keune</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-powder-blue-keune-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-sunset-copper-keune-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/paint-non-permanent-color-craving/color-craving-sunset-copper-keune-150-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Sunset Copper</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-sunset-copper-keune-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image css-class="bd-img" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-lovely-lavander-keune-150-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/paint-non-permanent-color-craving/color-craving-lovely-lavander-keune-150-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Lovely Lavander</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/vopsea-non-permanenta-pentru-parul-decolorat-color-craving-lovely-lavander-keune-150-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  </mj-section>
+  <!-- Product button Orange End -->
+  
+  <mj-section background-color="#e21637" padding-bottom="0px" padding-top="0px">
+    <mj-column>
+      <mj-text align="center" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+        <a style="font-size:20px; color:#fff; text-decoration: none;" href="https://www.glemis.ro/keune-vopsea-non-permanenta-color-craving?utm_content=call_action">Vezi Keune Color Craving <a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <!-- Slide Start  -->
+  <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+      <mj-image mj-class="slider" href="https://www.glemis.ro/alfaparf-milano-pigments?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-17/bright-hair-color-ideas-for-bangs-21.jpg" alt="Glemis"></mj-image>
+    </mj-column>
+  </mj-section>
+  
+  <!-- Product button Orange start -->
+  <mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img" href="https://www.glemis.ro/pigment-concentrat-bronz-metalic-bronze-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/pigments/bronze-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Bronze Pure Pigment</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/pigment-concentrat-bronz-metalic-bronze-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image css-class="bd-img" href="https://www.glemis.ro/pigment-concentrat-rosu-6-red-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/pigments/6-red-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Red Pure Pigment</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/pigment-concentrat-rosu-6-red-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img" href="https://www.glemis.ro/pigment-concentrat-violet-cenusiu-21-violet-ash-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/pigments/21-violet-ash-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Violet Ash Pigment</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/pigment-concentrat-violet-cenusiu-21-violet-ash-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image css-class="bd-img" href="https://www.glemis.ro/pigment-concentrat-cenusiu-1-ash-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/pigments/1-ash-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Ash Pure Pigment</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/pigment-concentrat-cenusiu-1-ash-ultra-concentrated-pure-pigment-alfaparf-milano-90-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  </mj-section>
+  <!-- Product button Orange End -->
+  
+  <mj-section background-color="#e21637" padding-bottom="0px" padding-top="0px">
+    <mj-column>
+      <mj-text align="center" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+        <a style="font-size:20px; color:#fff; text-decoration: none;" href="https://www.glemis.ro/alfaparf-milano-pigments?utm_content=call_action">Vezi pigmenti Alfaparf Milano</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+
+  <!-- footer Start -->
+  <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+    <mj-column>
+      <mj-text mj-class="footer">
+        <br>
+        <b>
+        CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+        <a style="color:#fff; text-decoration: none;" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+          style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+        </p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+    <mj-column width="15%">
+    </mj-column>
+    <mj-column width="70%">
+      <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+        <p class="p-footer">
+          <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="color:#fff; text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="color:#fff; text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </p>
+      </mj-text>
+    </mj-column>
+    <mj-column width="15%">
+    </mj-column>
+  </mj-section>
+
+  <!-- Footer Start -->
+  <mj-section background-color="#000" padding="0px 0px">
+    <mj-column>
+      <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+        <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+        </mj-social-element>
+        <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+        </mj-social-element>
+        <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+        </mj-social-element>
+      </mj-social>
+    </mj-column>
+  </mj-section>
+  <!-- footer End -->
+
+
+    </mj-container>
+  </mj-body>
+</mjml>

@@ -1,0 +1,221 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#BB9D55" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#9B1D1E" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-botton-ar" padding="5px 0px" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px"  />
+
+      <mj-class name="green-botton-ar-b" padding="5px 0px" align="center" border="2px solid #00c853" background-color="#fff" color="#000" border-radius="24px" font-size="13px"  />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+     <mj-style inline="inline">
+    .link-nostyle { color: inherit; text-decoration: none }
+    .circle {border-radius: 50%; width: 200px; height: 200px;}
+       .p-head{font-weight:normal; color:#000; letter-spacing:0pt;word-spacing:2pt;font-size:15px;text-align:justify;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:19px;margin:5px;padding:5px;}
+
+    h2 {display: block;
+      font-size: 1.5em;
+  		margin: 10px 0px;
+      font-weight: bold;
+      height: 55px;
+      padding: 10px 0px;
+      overflow: hidden;
+    }
+
+    .product {
+      font-weight: normal;
+      color: #000000;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+
+       body {
+        background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-75/quatrefoil-pattern-background-blue-1375733483DNq.jpg");
+     }
+       </mj-style>
+  </mj-head>
+  <mj-body>
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#4860C4">
+      <mj-column>
+        <mj-text mj-class="title">
+        5 sfaturi de bază pentru îngrijirea părului
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #fff;"><strong>vedeti varianta web dand click aici</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section background-color="#ffff" padding="5px 0px">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+<!-- Slide Start  -->
+    <mj-section padding-top="0px" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-text align="center" padding="0px 0px">
+        <h1 style="color:#000; font-size:20px; font-weight:500; padding:0px 5px; margin-top:0px;"> 5 sfaturi de bază pentru îngrijirea părului</h1>
+        </mj-text>
+            <mj-divider border-color="#4860C4" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="0px"></mj-divider>
+        <mj-image mj-class="slider" href="?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-75/ingrijirea-parului.jpg" alt="Glemis"></mj-image>
+        <mj-text>
+          <p style="color:#000;" class="p-head">
+Igiena părului determină aspectul coafurii şi, în aceeaşi măsură, apariţiile zilnice la job, întâlniri sau alte evenimente la care participi.</p>
+<p style="color:#000;" class="p-head">
+Dar ce se întâmplă atunci când îţi speli părul des, foloseşti 10 produse pentru toate nevoile podoabei capilare şi stai în faţa oglinzii cu orele pentru a avea un look cât mai frumos, însă rezultatul nu este cel dorit?</p>
+        </mj-text>
+          <mj-button align="center" border="2px solid #fff" background-color="#00c853" color="#fff" font-size="20px" href="https://www.glemis.ro/ingrijire-par" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="15px"
+  padding-top="0px">Produse profesionale pentru îngrijirea părului</mj-button>
+</mj-column>
+      </mj-column>
+    </mj-section>
+
+  <!-- Slide End  -->
+    <mj-section padding-top="0px" padding-bottom="0" background-color="#4860C4">
+      <mj-column>
+        <mj-text align="center" color="#fff" padding="0px 0px" line-height="23px">
+        <h1 style="font-size:25px; font-weight:500; padding:5px 5px;">Iată recomandările specialistului:</h1>
+        </mj-text>
+        <mj-image mj-class="slider" href="?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-75/doctor.jpg" alt="Glemis"></mj-image>
+        <mj-text>
+           <h3 style="color:#fff; line-height:20px; padding:0px 10px; font-size:20px;">1. Spălarea părului</h3>
+          <p style="color:#000; line-height:20px; background-color:#fff; padding:10px 10px;" class="p-head">
+Temperatura apei este foarte importantă atunci când îţi speli părul. Apa fierbinte, de exemplu, usucă scalpul, afectează celulele capilare şi accelerează secreţia de uleiuri specifice pentru a compensa efectul deshidratant. <b>Nu trebuie să îţi speli părul zilnic din dorinţa de a avea un păr curat mereu, deoarece efectul va fi invers. Acest obicei va duce la îngrăşarea părului într-un ritm mult mai rapid.</b><br><br>
+O altă recomandare este ca înainte de a-ţi spăla părul să îl piepteni, pentru a-l descurca şi a înlătura celulele moarte de pe scalp.
+ </p>
+ <h3 style="color:#fff; line-height:20px; padding:0px 10px; font-size:20px;">2. Folosirea produselor pentru îngrijirea părului</h3>
+ <p style="color:#000; line-height:20px; background-color:#fff; padding:10px 10px;" class="p-head">
+<b>
+ Alege produse de îngrijire a părului specifice pentru tipul tău de păr: creţ, deteriorat, vopsit, cu mătreaţă etc. Folosind produsele potrivite, podoaba capilară va fi protejată şi hidratată optim.</b><br><br>
+ De asemenea, nu folosi produsele în cantităţi mari, în ideea că rezultatele vor fi mai bune. Un pumn de şampon nu îţi va face părul mai curat. Clateste-ţi părul cu apă rece după ce ai aplicat şamponul şi balsamul, pentru un plus de strălucire şi luciu.
+</p>
+<h3 style="color:#fff; line-height:20px; padding:0px 10px; font-size:20px;">3. Uscarea păruluii</h3>
+<p style="color:#000; line-height:20px; background-color:#fff; padding:10px 10px;" class="p-head">
+<b style="font-size: 18px;"></b>
+<b>Nu dormi cu părul ud, deoarece părul va deveni mai fragil.</b> Masează-l uşor cu un prosop şi nu apela la clasica tehnică de a strânge sau de a freca firele de păr cu prospul.<b> Masarea scalpului ajută şi la circulaţia sângelui şi la creşterea mai rapidă a părului.</b>
+Recomandat este ca părul să se usuce singur, natural, însă dacă timpul nu îţi permite, atunci foloseşte uscătorul de păr la o distanţă de aproximativ 30 de centimetri şi pe o treaptă medie de încălzire.
+</p>
+<h3 style="color:#fff; line-height:20px; padding:0px 10px; font-size:20px;">4. Folosirea produselor de styling</h3>
+<p style="color:#000; line-height:20px; background-color:#fff; padding:10px 10px;" class="p-head"><b>Cere părerea specialiştilor înainte de a cumpăra un produs de styling,</b> cu atât mai mult dacă nu ai informaţii despre acest domeniu. Dacă foloseşti uscătorul de păr, placa sau ondulatorul, este foarte important să foloseşti produse care să asigure părului tău protecţie termică. De asemenea, <b>aşteaptă ca părul să se usuce puţin şi abia apoi foloseşte produsele de styling</b>, altfel acestea îşi pierd din calitate şi nu vor mai fi la fel de eficiente.</p>
+<h3 style="color:#fff; line-height:20px; padding:0px 10px; font-size:20px;">5. Pieptănarea părului</h3>
+<p style="color:#000; line-height:20px; background-color:#fff; padding:10px 10px;" class="p-head">
+  Pieptănarea părului ajută la distribuirea uleiurilor naturale dinspre scalp către vârfuri. 10-15 mişcări sunt suficiente pentru a-ţi araja părul, un număr mai mare ducând la activarea glandelor sebacee, respectiv îngrăşarea părului. <br>Dacă ai părul încâlcit, pune puţin balsam care nu necesită clătire sau ulei de argan pe perie sau pieptene şi astfel eviţi ruperea inutilă a firelor de păr.<br>
+  Nu îţi peria părul cât timp este ud, deoarece riscul de a-l rupe este mult mai mare.
+  <br><br>
+  <b>Textura părului este până la urmă cel mai important aspect atunci când vorbim de îngrijirea podoabei capilare. Un păr sănătos şi strălucitor va arăta bine oricând, indiferent dacă este coafat sau nu.</b>
+</p>
+
+
+        </mj-text>
+        <mj-button align="center" border="2px solid #fff" background-color="#00c853" color="#fff" font-size="20px" href="https://www.glemis.ro/ingrijire-par" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="15px"
+  padding-top="0px">Produse profesionale pentru îngrijirea părului</mj-button>
+      <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+  <!-- Email content End -->
+
+  <!-- footer Start -->
+    <mj-section background-color="#00c853" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#00c853" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+            <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5"></mj-divider>
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none; color:#fff;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none; color:#fff;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+    <!-- Footer Start -->
+    <mj-section background-color="#00c853" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/glemisromania/" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="pinterest" href="https://www.pinterest.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+  </mj-body>
+</mjml>

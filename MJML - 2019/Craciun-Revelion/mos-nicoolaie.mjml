@@ -1,0 +1,338 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+      E:\#0 Theme\resurse
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+        Mos Nicolaie a venit si la tine! vezi ce ai primit in ghetute!
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/fixativ-cu-fixare-puternica-original-hairspray-style-stories-alfaparf-100-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/sf-nicolae/la-multi-ani.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Call to action Full Start-->
+    <mj-section mj-class="cta-full">
+      <mj-column mj-class="col-100" background-color="#feb155" padding="5px">
+        <mj-text mj-class="tx-center" font-size="20px" color="#fff">
+          <a class="clear-link" href="https://www.glemis.ro/fixativ-cu-fixare-puternica-original-hairspray-style-stories-alfaparf-100-ml?utm_content=call_action"><b>Produs cadou la orice comanda!</b></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Full End-->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Alfaparf Milano</span>
+              <span class="subtitle">Reducere -20%</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mare-pentru-reconstructie-semi-di-lino-reconstruction-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-reconstruction/kit-mare-pentru-reconstructie-semi-di-lino-reconstruction-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title"> Kit mare pentru reconstrucție <br>Alfarf Milano</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mare-pentru-reconstructie-semi-di-lino-reconstruction-alfaparf-milano?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mare-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano-633278706" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-moisture/kit-mare-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title"> Kit mare pentru hidratare <br> Alfaparf Milano</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mare-pentru-hidratare-semi-di-lino-moisture-alfaparf-milano-633278706?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mare-pentru-stralucire-semi-di-lino-diamond-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-diamond/kit-great-for-shine-semi-di-lino-diamond-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title"> Kit mare pentru stralucire <br> Alfaparf Milano</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mare-pentru-stralucire-semi-di-lino-diamond-alfaparf-milano?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-pentru-protectia-culorii-parului-vopsit-precious-nature-colored-hair-alfaparf-milano" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/precious-nature-colored-hair/kit-little-to-protect-the-colour-of-dyed-hair-precious-nature-colored-hair-alfaparf-milano-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mic pentru protectia culorii parului vopsit</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-pentru-protectia-culorii-parului-vopsit-precious-nature-colored-hair-alfaparf-milano?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- cupon Content -->
+    <mj-section background-color="#43a047" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="18px">
+          <h2 style="margin-bottom: 10px;">REDUCERE -25%<br><span style="font-weight: bold;color: fff;">  La Brandul KEUNE</span></h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- cupon Content -->
+  
+    <mj-section background-color="#feb155" padding-bottom="0px" padding-top="0">
+      <mj-column width="15%">
+  
+      </mj-column>
+      <mj-column width="70%" background-color="#feb155" padding="0px 0px">
+        <mj-text align="center" color="#fff" font-size="18px">
+        <h3 style="font-size:24px;margin-top: 0px;">FOLOSESTE CUPON CADOU</h3>
+        <p><span style="color: #000; font-weight:900; border:2px solid #fff; padding:8px;">Cod: keune25</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+    
+    <!-- Slide End  -->
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Keune</span>
+              <span class="subtitle">Reducere intre -15% si -20%</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-hidratant-pentru-par-fara-sulfati-si-parabeni-so-pure-moisturizing-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/so-pure-moisturizing/moisturizing-kit-for-hair-without-sulfates-and-parabens-so-pure-moisturizing-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit hidratant pentru par fara sulfati si parabeni</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-hidratant-pentru-par-fara-sulfati-si-parabeni-so-pure-moisturizing-keune?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-calmarea-scalpului-iritat-volum-si-stralucire-so-pure-calming-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/so-pure-calming/soothing-irritated-scalp-volume-and-shine-kit-so-pure-calming-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit pentru calmarea scalpului iritat + volum și strălucire</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-calmarea-scalpului-iritat-volum-si-stralucire-so-pure-calming-keune?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-disciplinare-si-stralucire-keratin-smoothing-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/keratin-smoothing/kit-pentru-disciplinare-si-stralucire-keratin-smoothing-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title"> Kit pentru disciplinare si stralucire <br> Keune</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-disciplinare-si-stralucire-keratin-smoothing-keune?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-impotriva-caderii-parului-derma-care-keune" src="https://www.glemis.ro/image/cache/catalog/product/keune/derma-care/kit-against-hair-loss-derma-care-keune-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit impotriva caderii parului<br> Keune</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-impotriva-caderii-parului-derma-care-keune?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Remary</span>
+          
+                  <span class="subtitle">OFERTA 1 + 1 GRATIS</span>
+                      <span class="subtitle">O doză de răsfăț, îngrijire și relaxare</span>
+              
+              
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/1-1-set-mic-slabire-si-anti-celulita-remary?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/sf-nicolae/79242271_23844141775320458_3519919432161820672_n.png.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Moroccanoil</span>
+              <span class="subtitle">Reducere intre -15% si -30%</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-duo-sampon-si-balsam-hidratant-pentru-par-uscat-gift-sets-moroccanoil" src="https://www.glemis.ro/image/cache/catalog/hydrajhgfafsg-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set duo sampon si balsam hidratant pentru par uscat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-duo-sampon-si-balsam-hidratant-pentru-par-uscat-gift-sets-moroccanoil?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-duo-sampon-si-balsam-pentru-volum-gift-sets-moroccanoil" src="https://www.glemis.ro/image/cache/catalog/duvolumfasf-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set duo sampon si balsam pentru volum</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-duo-sampon-si-balsam-pentru-volum-gift-sets-moroccanoil?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-duo-sampon-si-balsam-reparator-pentru-par-degradat-gift-sets-moroccanoil" src="https://www.glemis.ro/image/cache/catalog/repairkjahfa-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set duo sampon si balsam reparator pentru par degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/set-duo-sampon-si-balsam-reparator-pentru-par-degradat-gift-sets-moroccanoil?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-pentru-toate-tipurile-de-par-treatment-moroccanoil-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/scalp-balance/treatment-moroccanoil-100-ml-500x500.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">ratament pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-pentru-toate-tipurile-de-par-treatment-moroccanoil-100-ml?utm_content=product_buy">Obține oferta!</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- footer Start -->
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer-text">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

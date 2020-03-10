@@ -1,0 +1,371 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="800px" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+     <mj-style>
+    .link-nostyle { color: inherit; text-decoration: none; }
+
+    h2 {display: block;
+      font-size: 1.2em;
+      font-weight: 500;
+      height: 40px;
+      padding: 5px 0px;
+      overflow: hidden;
+    }
+
+    .product {
+      font-weight: normal;
+      color: #000000;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+       
+       @media only screen and (max-width: 480px){
+        	.bd-img30 {
+           padding-top:30px !important;
+          }
+          
+          .bd-img20 {
+           padding-top:20px !important;
+          }
+          
+          .bd-img15 {
+           padding-top:15px !important;
+          }
+       
+       
+       		.custom-p{
+       			 height: 10px !important;
+       		}
+       
+       	.custom-p2{
+       			 height: 25px !important;
+       		}
+
+        }
+  
+       </mj-style>
+  </mj-head>
+  <mj-body width="800px" background-color="#43464B">
+  <mj-section padding="10px 0">
+    <mj-column>
+      
+    </mj-column>
+  </mj-section>
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+         Descopera cele mai bune produse profesionale pentru ingrijirea parului
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="title-info">
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>Vezi varianta web</strong>
+       </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+
+    <!-- Email content Start -->
+
+<!-- Slide Start  -->
+
+<mj-section padding="0px 0px">
+  <mj-column>
+    <mj-image mj-class="slider" href="https://www.glemis.ro/ingrijire-par?utm_content=banner" src="https://media.giphy.com/media/dJ4gcD0ZtFjGNmEZJK/giphy.gif" alt="Glemis"></mj-image>
+  </mj-column>
+</mj-section> 
+<!-- Slide End  -->
+    <mj-section padding="0px 0px">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/balsamuri-de-par-profesionale?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-18/balsamuri-de-par-profesionale.jpg" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- Slide End  -->
+  
+<mj-section background-color="#ffffff" vertical-align="top" padding-top="15px" padding-bottom="10px">
+  <mj-column width="100%">
+    <mj-table padding="0px 0px">
+      <tr>
+      <td style="text-align:center;">
+        <span style="font-size: 1.3em; display: block; padding:5px 10px; color:#000;">Părul uscat are nevoie de o hidratare intensă, dar și de o îmblânzire a firelor rebele pentru că de regulă acesta este deshidratat, aspru și destul de greu de controlat.</span>
+        </td>
+      </tr>
+    </mj-table>
+  <mj-divider border-color="#fa8739" border-style="solid" border-width="2px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="5px"></mj-divider>
+</mj-column>
+</mj-section>
+
+<!-- Product button Orange start -->
+<mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image href="https://www.glemis.ro/balsam-de-volum-pentru-parul-subtire-si-slabit-extra-volume-conditioner-volume-moroccanoil-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/volume-line/extra-volume-conditioner-volume-moroccanoil-250-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Extra Volume Conditioner Moroccanoil</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-subtire-si-slabit-extra-volume-conditioner-volume-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image href="https://www.glemis.ro/balsam-reparator-sigliator-de-culoare-color-continue-conditioner-color-complete-moroccanoil-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/color-complete/color-continue-conditioner-color-complete-moroccanoil-250-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Color Continue Conditioner Moroccanoil</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-reparator-sigliator-de-culoare-color-continue-conditioner-color-complete-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  
+  <mj-group>
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img15" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-normal-sau-fin-conditioner-volume-solution-milk-shake-300-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/volume-solution/conditioner-volume-solution-milk-shake-300-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Conditioner Volume Solution  Milk Shake</h2>
+        </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-de-volum-pentru-parul-normal-sau-fin-conditioner-volume-solution-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      
+    <mj-column vertical-align="middle">
+      <mj-image css-class="bd-img15" href="https://www.glemis.ro/balsam-energizant-pentru-par-subtire-si-fragil-conditioner-energizing-blend-milk-shake-1000-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/energizing-blend/conditioner-energizing-blend-milk-shake-1000-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <h2>Conditioner Energizing Blend Milk Shake</h2>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-energizant-pentru-par-subtire-si-fragil-conditioner-energizing-blend-milk-shake-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+  </mj-group>  
+  </mj-section>
+  <!-- Product button Orange End -->
+  
+  <!-- Call to action Start  -->
+  <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+    <mj-column>
+        <mj-text align="center" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <a style="font-size:22px; color:#fff;" href="https://www.glemis.ro/balsamuri-de-par-profesionale?utm_content=call_action" class="link-nostyle">Vezi mai mult (130)</a>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Call to action Start  -->  
+  
+  <!-- Slide Start  -->
+      <mj-section padding="0px 0px">
+        <mj-column>
+          <mj-image mj-class="slider" href="https://www.glemis.ro/masti-de-par?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-18/masti-de-par-profesionale.jpg" alt="Glemis"></mj-image>
+        </mj-column>
+      </mj-section>
+    <!-- Slide End  -->
+
+  
+  <!-- Product button Orange start -->
+  <mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+    <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/balsam-intensiv-pentru-mentinerea-culorii-parului-vopsit-deep-color-maintainer-balm-color-care-milk-shake-175-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/color-care/deep-color-maintainer-balm-color-care-milk-shake-175-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Balsam intensiv pentru mentinerea culorii parului vopsit</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-intensiv-pentru-mentinerea-culorii-parului-vopsit-deep-color-maintainer-balm-color-care-milk-shake-175-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+      <mj-column vertical-align="middle">
+        <mj-image href="https://www.glemis.ro/masca-intens-hidratanta-pentru-par-uscat-nutritive-mask-semi-di-lino-moisture-alfaparf-milano-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-moisture/nutritive-mask-semi-di-lino-moisture-alfaparf-milano-200-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Masca intens hidratanta pentru par uscat Alfaparf Milano</h2>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-intens-hidratanta-pentru-par-uscat-nutritive-mask-semi-di-lino-moisture-alfaparf-milano-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    
+    <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img15" href="https://www.glemis.ro/masca-intens-hidratanta-intense-hydrating-mask-hydration-moroccanoil-75-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/intense-hydrating-mask-hydration-moroccanoil-75-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Masca intens hidratantă pentru păr normal, aspru, gros sau uscat.</h2>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-intens-hidratanta-intense-hydrating-mask-hydration-moroccanoil-75-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        
+      <mj-column vertical-align="middle">
+        <mj-image css-class="bd-img15" href="https://www.glemis.ro/masca-pentru-par-vopsit-cu-caviar-color-protection-mask-with-caviar-caviar-supreme-kaypro-1000-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/kay-pro/caviar-supreme/color-protection-mask-with-caviar-caviar-supreme-kaypro-1000-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h2>Masca pentru par vopsit cu caviar Supreme KAYPRO</h2>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-pentru-par-vopsit-cu-caviar-color-protection-mask-with-caviar-caviar-supreme-kaypro-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-group>  
+    </mj-section>
+    <!-- Product button Orange End -->
+    
+    <!-- Call to action Start  -->
+    <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+      <mj-column>
+          <mj-text align="center" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+              <a style="font-size:22px; color:#fff;" href="https://www.glemis.ro/masti-de-par?utm_content=call_action" class="link-nostyle">Vezi mai mult (71)</a>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Start  -->  
+    
+    <!-- Slide Start  -->
+        <mj-section padding="0px 0px">
+          <mj-column>
+            <mj-image mj-class="slider" href="https://www.glemis.ro/par-sampoane-profesionale?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-18/sampoane-profesionale.jpg" alt="Glemis"></mj-image>
+          </mj-column>
+        </mj-section>
+      <!-- Slide End  -->
+    
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff"vertical-align="top" padding="10px 0px">
+      <mj-group>
+          <mj-column vertical-align="middle">
+            <mj-image href="https://www.glemis.ro/sampon-balsam-revitalizant-pentru-bucle-curl-cleansing-conditioner-curl-moroccanoil-250-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/curl-line/curl-cleansing-conditioner-curl-moroccanoil-250-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+              <h2>Sampon balsam revitalizant pentru bucle Moroccanoil</h2>
+            </mj-text>
+            <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-balsam-revitalizant-pentru-bucle-curl-cleansing-conditioner-curl-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+          
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/sampon-delicat-si-hidratant-pentru-utilizare-zilnica-frequent-shampoo-daily-care-milk-shake-1000-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/daily-care/frequent-shampoo-daily-care-milk-shake-1000-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+              <h2>Sampon delicat si hidratant pentru utilizare zilnica</h2>
+            </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-delicat-si-hidratant-pentru-utilizare-zilnica-frequent-shampoo-daily-care-milk-shake-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>  
+      
+      <mj-group>
+          <mj-column vertical-align="middle">
+            <mj-image href="https://www.glemis.ro/sampon-pentru-curatare-in-profunzime-deep-cleansing-shampoo-lisse-design-alfaparf-milano-500-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/lisse-design-keratin-therapy/deep-cleansing-shampoo-lisse-design-alfaparf-milano-500-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+              <h2>Sampon pentru curatare in profunzime Alfaparf Milano</h2>
+            </mj-text>
+            <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-curatare-in-profunzime-deep-cleansing-shampoo-lisse-design-alfaparf-milano-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+          
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/sampon-pentru-par-vopsit-color-preserve-shampoo-k-pak-color-therapy-joico-1000-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/joico/k-pak-color-therapy/color-preserve-shampoo-k-pak-color-therapy-joico-1000-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+              <h2>Şampon pentru păr vopsit K-Pak Joico</h2>
+            </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-pentru-par-vopsit-color-preserve-shampoo-k-pak-color-therapy-joico-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>  
+      </mj-section>
+      <!-- Product button Orange End -->
+  
+  <!-- Call to action Start  -->
+  <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+    <mj-column>
+        <mj-text align="center" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <a style="font-size:22px; color:#fff;" href="https://www.glemis.ro/par-sampoane-profesionale?utm_content=call_action" class="link-nostyle">Vezi mai mult (231)</a>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Call to action Start  -->  
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a style="text-decoration: none; color:#fff;" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding="0px 0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none; color:#fff;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none; color:#fff;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+    <mj-section padding="10px 0">
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

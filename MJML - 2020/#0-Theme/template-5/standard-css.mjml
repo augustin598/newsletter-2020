@@ -1,0 +1,44 @@
+<!-- Custom Css Start -->
+
+.discount {
+display: inline-block;
+background-color: red;
+width: 100%;
+font-size: 13px;
+padding: 5px 0px;
+margin: 0px auto;
+box-sizing: border-box;
+color: #fff;
+text-transform: uppercase;
+}
+
+
+
+.product_title{
+padding: 5px 5px 0px 5px;
+font-size: 14px;
+display: inline-block;
+line-height: 16px;
+font-weight: 400;
+overflow: hidden;
+height:62px;
+text-align:center !important;
+}
+
+
+.subtitle {
+font-size: 1.3em;
+display: block;
+padding: 5px 10px;
+color: #000;
+}
+
+.custom_text_1 {
+font-size: 1.2em;
+display: block;
+text-align: center;
+line-height: 1.2em;
+padding: 5px ;
+
+color: #000;
+}

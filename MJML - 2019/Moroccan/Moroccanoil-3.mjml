@@ -1,0 +1,190 @@
+<mjml>
+    <mj-head>
+        <mj-style inline="inline">
+            .link-nostyle { color: inherit; text-decoration: none } .circle {border-radius: 50%; width: 200px; height: 200px;} 
+            p{font-weight:normal;color:#000000;letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:center;font-family:lucida sans unicode,lucida
+            grande, sans-serif;line-height:1;margin:5px;padding:5px;}
+            .p-head{font-weight:normal; color:#000; letter-spacing:0pt;word-spacing:2pt;font-size:12px;text-align:justify;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:16px;margin:5px;padding:5px;}
+            .p-footer{font-weight:normal; color:#fff; letter-spacing:0pt;word-spacing:2pt;font-size:15px;text-align:center;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:16px;margin:5px;padding:5px;}
+            h3{font-weight:normal;color:#000000;letter-spacing:1pt;word-spacing:2pt;font-size:17px;text-align:center;font-family:arial black, sans-serif;line-height:1; padding:10px 15px; margin:5px}
+            h1{font-family: Ubuntu, Helvetica, Arial, sans-serif; line-height:1; font-size:21px;text-align:center; padding:10px 10px; margin:0px;}
+            .h1-left{font-family: Ubuntu, Helvetica, Arial, sans-serif; line-height:1; font-size:21px; text-align:left; padding:10px 10px; margin:0px;}
+          
+          /* === PRODUCT DESCRIPTION === */
+          .product{ font-weight: normal; color: #000000; letter-spacing: 0pt; word-spacing: 2pt; font-size: 12px; text-align: center; font-family: lucida sans unicode,lucida grande, sans-serif; line-height:
+             1; margin: 5px; padding: 5px; height: 67px; overflow: hidden;text-overflow: ellipsis;}
+          /* === PRODUCT DESCRIPTION === */
+         
+          /* === PRODUCT HEADING === */
+          h3{font-family: Ubuntu, Helvetica, Arial, sans-serif; line-height: 1; font-size: 16px; text-align: center; padding: 10px 0px; margin: 0px; color: #000; font-weight:500; height: 40px; overflow: hidden;} 
+          /* === PRODUCT HEADING === */
+          
+          /* === BACKGROUND BODY START === */
+           body  {   
+          background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-1/f630ed82629b24f882a7b7d9a2456cfd--shaving-brush-haircut-styles.jpg");
+}
+          /* === BACKGROUND BODY End === */
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-container background-color="#d6dde5">
+            <mj-section background-color="#fff" padding-bottom="0px" padding-top="0px">
+                <mj-column>
+                    <mj-text align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px">
+                        Moroccanoil este cea mai bună soluție pentru scalpul iritat sau părul deteriorat
+                    </mj-text>
+                    <mj-text align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="5px">
+                        Daca intampinati probleme in vizualizarea acestui mail, <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong></a>.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            
+            
+            <mj-section background-color="#ffffff">
+                <mj-column width="100%">
+                    <mj-image href="https://www.glemis.ro/" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" alt="Glemis" width="200" align="center" padding="10">
+                    </mj-image>
+                  <
+                </mj-column>
+                <mj-column width="100%">
+                    <mj-inline-links  base-url="https://www.glemis.ro" hamburger="hamburger" ico-color="#fa8739">
+                        <mj-link href="https://www.glemis.ro/moroccanoil-texture-line?utm_content=header_menu" color="#000000" font-size="18" font-weight="900">Texture Line</mj-link>
+                        <mj-link href="https://www.glemis.ro/moroccanoil-moisture-and-shine?utm_content=header_menu" color="#000" font-size="18" font-weight="900">Moisture And Shine</mj-link>
+                        <mj-link href="https://www.glemis.ro/moroccanoil-scalp-balance?utm_content=header_menu" color="#000000" font-size="18" font-weight="900">Scalp Balance</mj-link>
+                    </mj-inline-links>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-top="0px" padding-bottom="0px">
+                <mj-column>
+                    <mj-image href="https://www.glemis.ro/moroccanoil?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-44/head-1.jpg" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+                </mj-column>
+            </mj-section>
+              
+              <!-- Containter Produse Start 1 -->
+      <mj-section background-color="#fff" padding-top="10px" padding-bottom="30px" padding-left="5px" padding-right="5px">
+        <!-- Produs 1 start -->
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/crema-tratament-intensiv-pentru-bucle-intense-curl-cream-curl-moroccanoil-300-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-44/hair_intensecurlcream2.jpg" alt="TRATAMENT INTENSIV PENTRU BUCLE" align="center" border="none" width="300" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+              <mj-text font-weight="bold" color="#000" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0" padding-top="0">
+      <h3>TRATAMENT INTENSIV PENTRU BUCLE</h3>
+    </mj-text>
+              <mj-button border="3px #42c4dc solid" width="100%" background-color="#00ace9" color="#fff" font-size="17px" font-weight="900" align="center" padding="10px 20px" border-radius="10px" href="https://www.glemis.ro/crema-tratament-intensiv-pentru-bucle-intense-curl-cream-curl-moroccanoil-300-ml?utm_content=banner?utm_content=product_buy" padding-bottom="5px" padding-top="0">
+      DESCOPERĂ
+    </mj-button>
+        </mj-column>
+
+          <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/luciu-sclipitor-pentru-par-glimmer-shine-finish-moroccanoil-100-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-44/luciu-sclipitor.jpg" alt="Glemis" align="center" border="none" width="300" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+           <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+      <h3>LUCIU SCLIPITOR PENTRU TOATE TIPURILE DE PĂR</h3>
+    </mj-text>
+          <mj-button border="3px #42c4dc solid" width="80%" background-color="#00ace9" color="#fff" font-size="17" font-weight="900" align="center" padding="10px 20px" border-radius="10px" href="https://www.glemis.ro/luciu-sclipitor-pentru-par-glimmer-shine-finish-moroccanoil-100-ml?utm_content=product_buy" padding-bottom="5" padding-top="0">
+      DESCOPERĂ
+    </mj-button>
+        </mj-column>
+      </mj-section>
+              
+              
+              
+                          <mj-section padding-top="0" padding-bottom="0">
+                <mj-column>
+                    <mj-image href="https://www.glemis.ro/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=7" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-44/Transport-Gratuit-Moroccan.jpg" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+                </mj-column>
+            </mj-section>
+
+              
+                            <!-- Containter Produse Start 1 -->
+      <mj-section background-color="#fff" padding-top="10px" padding-bottom="10px" padding-left="5px" padding-right="5px">
+        <!-- Produs 1 start -->
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/crema-hidratanta-pentru-coafare-si-definire-hydrating-styling-cream-hydration-moroccanoil-300-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-44/CREM-DE-COAFAT.jpg" alt="CREMĂ DE COAFAT HIDRATANTĂ" align="center" border="none" width="300" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+              <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+      <h3>CREMĂ DE COAFAT HIDRATANTĂ</h3>
+    </mj-text>
+              <mj-button border="3px #42c4dc solid" width="80%" background-color="#00ace9" color="#fff" font-size="17" font-weight="900" align="center" padding="10px 20px" border-radius="10px" href="https://www.glemis.ro/crema-hidratanta-pentru-coafare-si-definire-hydrating-styling-cream-hydration-moroccanoil-300-ml?utm_content=product_buy" padding-bottom="5" padding-top="0">
+      DESCOPERĂ
+    </mj-button>
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/tratament-pentru-scalp-uscat-si-deshidratat-dry-scalp-treatment-dry-moroccanoil-45-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-44/TRATAMENT-PENTRU-SCALP-USCAT.jpg" alt="TRATAMENT PENTRU SCALP USCAT" align="center" border="none" width="300" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+           <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+      <h3>TRATAMENT PENTRU SCALP USCAT</h3>
+    </mj-text>
+          <mj-button border="3px #42c4dc solid" width="80%" background-color="#00ace9" color="#fff" font-size="17" font-weight="900" align="center" padding="10px 20px" border-radius="10px" href="https://www.glemis.ro/tratament-pentru-scalp-uscat-si-deshidratat-dry-scalp-treatment-dry-moroccanoil-45-ml?utm_content=product_buy" padding-bottom="5" padding-top="0">
+      DESCOPERĂ
+    </mj-button>
+        </mj-column>
+      </mj-section>
+                          <mj-section padding-top="0" padding-bottom="0">
+                <mj-column>
+                    <mj-image href="https://www.glemis.ro/moroccanoil" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-44/trans3.jpg" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+                </mj-column>
+            </mj-section>
+                          <mj-section background-color="#000" padding-bottom="0" padding-top="0">
+                <mj-column>
+                    <mj-text align="center" color="#fff" font-size="25px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+                        <a style="font-size:25;" href="https://www.glemis.ro/moroccanoil?utm_content=call_action" class="link-nostyle">VEZI TOATE PRODUSELE</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+                            <!-- Containter Produse Start 1 -->
+      <mj-section background-color="#fff" padding-top="10px" padding-bottom="40px" padding-left="5px" padding-right="5">
+        <!-- Produs 1 start -->
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/tratament-pentru-scalp-seboreic-oily-scalp-treatment-oily-moroccanoil-45-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-44/TRATAMENT-PENTRU-SCALP-GRAS.jpg" alt="CREMĂ DE COAFAT HIDRATANTĂ" align="center" border="none" width="300" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+              <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+      <h3>TRATAMENT PENTRU SCALP GRAS</h3>
+    </mj-text>
+              <mj-button border="3px #42c4dc solid" width="80%" background-color="#00ace9" color="#fff" font-size="17" font-weight="900" align="center" padding="10px 20px" border-radius="10px" href="https://www.glemis.ro/tratament-pentru-scalp-seboreic-oily-scalp-treatment-oily-moroccanoil-45-ml?utm_content=product_buy" padding-bottom="5" padding-top="0">
+      DESCOPERĂ
+    </mj-button>
+        </mj-column>
+
+            <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/luciu-sclipitor-pentru-par-glimmer-shine-finish-moroccanoil-100-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/morccanoil/moroccano1.png" alt="PROTECȚIE LA COAFATUL LA CALD" align="center" border="none" width="300" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+           <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+      <h3>LUCIU SCLIPITOR PENTRU PAR</h3>
+    </mj-text>
+          <mj-button border="3px #42c4dc solid" width="80%" background-color="#00ace9" color="#fff" font-size="17" font-weight="900" align="center" padding="10px 20px" border-radius="10px" href="https://www.glemis.ro/luciu-sclipitor-pentru-par-glimmer-shine-finish-moroccanoil-100-ml?utm_content=product_buy" padding-bottom="5" padding-top="0">
+      DESCOPERĂ
+    </mj-button>
+        </mj-column>
+      </mj-section>
+
+            <mj-section background-color="#42c4dc" padding-bottom="0" padding-top="0">
+                <mj-column>
+                    <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+                        <p class="p-footer">
+                            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.<br><br>
+                            Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului 
+                            <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative
+                            de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+                        </p>
+                    </mj-text>
+                </mj-column>   
+            </mj-section>
+
+            <mj-section background-color="#42c4dc" padding-bottom="0" padding-top="0">
+                <mj-column width="15%">
+                </mj-column>
+                <mj-column width="70%">
+                    <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+                        <p class="p-footer">
+                            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|&nbsp; 
+                            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+                        </p>
+                    </mj-text>
+                    <mj-social font-size="13" text-mode="false" facebook-href="https://www.facebook.com/GlemisRomania" twitter-href="https://twitter.com/GlemisRomania" google-href="https://plus.google.com/+GlemisSuceava" mode="horizontal" display="facebook twitter google"
+                               padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="5px">
+                    </mj-social>
+                </mj-column>
+                <mj-column width="15%">
+                </mj-column>
+            </mj-section>
+
+        </mj-container>
+    </mj-body>
+</mjml>

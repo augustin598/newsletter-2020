@@ -1,0 +1,230 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      .discount{
+    display: inline-block;
+    background-color: red;
+    width:100%;
+    font-size: 13px;
+    padding:5px 0px;
+    margin: 0px auto;
+    box-sizing: border-box;
+    color: #fff;
+    text-transform: uppercase;
+    }
+
+      .link-nostyle { color: inherit; text-decoration: none } .circle {border-radius: 50%; width: 200px; height: 200px;}
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#d6dde5">
+        <mj-section padding-bottom="20px" padding-top="0px"></mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-image href="https://glemis.ro" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" alt="Racoon logo" align="center" width="170px" padding="10px"></mj-image>
+        <mj-text align="center">
+      Titlu
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#fa8739">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/paese" color="#ffffff">Cosmetice profesionale si parfumuri de lux</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0">
+      <mj-column width="200px">
+        <mj-text align="left" color="#fff" font-size="40px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p style="font-size: 15px;">PROMOTII DE TOAMNA</p>
+          <p>50%</p>
+          <p style="font-size:27px;">Reducere</p>
+          <p style="font-size: 13px">Cosmetice profesionale si parfumuri de lux<br /></p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#fa8739" font-size="16px" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/index.php?route=product/special" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">DESCOPERĂ</mj-button>
+      </mj-column>
+      <mj-column width="400px">
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-8/10-Habits-Happy-And-Beautiful-Women-Swear-By_bb197banner.jpg" alt="Clothes set" align="center" border="none" width="400px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#2f323b" padding-bottom="0px" padding-top="0">
+      <mj-column width="25%">
+        <mj-image src="http://191n.mj.am/img/191n/3s/x4t.png" alt="Box free shipping" align="center" border="none" width="42px" padding-left="0px" padding-right="0px" padding-bottom="10px" padding-top="10"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="center
+        " color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p>FLIVRARE GRATUITĂ<br><span style="font-weight: bold;color: rgb(250, 135, 57);">  La comenzi de peste 300 RON</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="20px" padding-top="10">
+      <mj-column vertical-align="bottom">
+        <mj-image href="https://www.glemis.ro/balsam-pentru-par-vopsit-cu-structura-fina-sys-3-scalp-revitaliser-conditioner-fine-hair-chemically-treated-nioxin-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/nioxin/hair-system-3/scalp-revitaliser-conditioner-fine-hair-chemically-treated-nioxin-300-ml-228x228.jpg" alt="Chesterk tank" align="center" border="none" width="209px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="30"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Nioxin System 3</p>
+          <p class="discount">discount -50% <br><strike style="color: red; font-size: 12px; background-color: #fff; padding:0px 5px 0px 5px;">74,40 Lei</strike></p>
+          <p style="color: rgb(250, 135, 57); padding: 0px;">37,20 Ron</p>
+        </mj-text>
+        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/balsam-pentru-par-vopsit-cu-structura-fina-sys-3-scalp-revitaliser-conditioner-fine-hair-chemically-treated-nioxin-300-ml" padding-bottom="10px" padding-top="0">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="bottom">
+        <mj-image href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-2-scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/nioxin/hair-system-2/scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml-500x500.jpg" alt="Beyond backpack" align="center" border="none" width="209px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="30"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Nioxin System 2</p>
+          <p class="discount">discount -50% <br><strike style="color: red; font-size: 12px; background-color: #fff; padding:0px 5px 0px 5px;">74,40 Lei</strike></p>
+          <p style="color: rgb(250, 135, 57); padding: 0px;">37,20 Ron</p>
+        </mj-text>
+        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-2-scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml" padding-bottom="10px" padding-top="0">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+
+      
+      <mj-column vertical-align="bottom">
+              <mj-image href="https://www.glemis.ro/balsam-pentru-par-natural-sau-tratat-chimic-cu-structura-medie-spre-groasa-sys-5-revitaliser-nioxin-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/nioxin/hair-system-5/sys-5-revitaliser-nioxin-300-ml-228x228.jpg" alt="Beyond backpack" align="center" border="none" width="209px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="30"></mj-image>
+              <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+                <p>Nioxin System 2</p>
+                <p class="discount">discount -50% <br><strike style="color: red; font-size: 12px; background-color: #fff; padding:0px 5px 0px 5px;">74,40 Lei</strike></p>
+                <p style="color: rgb(250, 135, 57); padding: 0px;">37,20 Ron</p>
+              </mj-text>
+              <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/balsam-pentru-par-natural-cu-structura-fina-sys-2-scalp-revitaliser-conditioner-fine-hair-noticeably-thinning-nioxin-300-ml" padding-bottom="10px" padding-top="0">CUMPĂRĂ</mj-button>
+            </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+          <a style="font-size:25px;" href="https://www.glemis.ro/nioxin?utm_content=call_action" class="link-nostyle">-50% la toata gama de produse NIOXIN</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="20px" padding-top="10">
+      <mj-column vertical-align="bottom">
+        <mj-image href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-toilette-gentlemen-only-casual-chic-givenchy-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/givenchy/gentlemen-only/eau-de-toilette-gentlemen-only-casual-chic-givenchy-100-ml-228x228.jpg" alt="Verdant cap" align="center" border="none"  padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Casual Chic Givenchy 100 ml</p>
+          <p class="discount">discount -50% <br><strike style="color: red; font-size: 12px; background-color: #fff; padding:0px 5px 0px 5px;">419,00 Lei</strike></p>
+          <p style="color: rgb(250, 135, 57); padding: 0px;">209,50 lei</p>
+        </mj-text>
+        </mj-text>
+        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" border="none" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-toilette-gentlemen-only-casual-chic-givenchy-100-ml" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="0">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="bottom">
+        <mj-image href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-toilette-gentlemen-only-givenchy-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/givenchy/gentlemen-only/eau-de-toilette-gentlemen-only-givenchy-100-ml-228x228.jpg" alt="Blake polo shirt" align="center" border="none" width="208px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Gentlemen Only Givenchy 100 ml</p>
+          <p class="discount">discount -50% <br><strike style="color: red; font-size: 12px; background-color: #fff; padding:0px 5px 0px 5px;">419,00 Lei</strike></p>
+          <p style="color: rgb(250, 135, 57); padding: 0px;">209,50 lei</p>
+        </mj-text>
+        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-toilette-gentlemen-only-givenchy-100-ml" padding-bottom="10px" padding-top="0">CUMPĂRĂ</mj-button>
+      </mj-column>
+
+      <mj-column vertical-align="bottom">
+        <mj-image href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-toilette-gentlemen-only-intense-givenchy-50-ml" src="https://www.glemis.ro/image/cache/catalog/product/givenchy/gentlemen-only/eau-de-toilette-gentlemen-only-intense-givenchy-50-ml-228x228.jpg" alt="Sketch floral" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Gentlemen Only Intense Givenchy</p>
+          <p class="discount">discount -50% <br><strike style="color: red; font-size: 12px; background-color: #fff; padding:0px 5px 0px 5px;">322,00 Lei</strike></p>
+          <p style="color: rgb(250, 135, 57); padding: 0px;">161,00 LEI</p>
+        </mj-text>
+        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/apa-de-toaleta-pentru-barbati-eau-de-toilette-gentlemen-only-intense-givenchy-50-ml" padding-bottom="10px" padding-top="0">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis" src="https://www.glemis.ro/image/cache/catalog/product/glemis/18k-gold-plated-facial-hair-remover-glemis-228x228.png" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size: 19px;">Epilator facial hipoalergenic</p>
+          <p style="font-size: 36px;">89,25 LEI</p>
+          <p>Cine are timp sau bani pentru epilatul cu ceară? Acum, aveți o alternativă la epilare, care nu vă irită pielea!</p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#fa8739" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/epilator-facial-hipoalergenic-placat-cu-aur-fara-durere-pentru-femei-18k-gold-plated-facial-hair-remover-glemis" padding-bottom="10px" padding-top="0">CUMPĂRĂ ACUM</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2f323b" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size: 19px;">Tratament pentru toate tipurile de par</p>
+          <p style="font-size: 36px;">184,03 LEI</p>
+          <p>Tratamentul pentru toate tipurile de par de la Moroccanoil transforma parul in totalitate cu ajutorul formulei sale revolutionare ce infuzeaza parul cu ingrediente vitale esentiale.</p>
+        </mj-text>
+        <mj-button background-color="#fa8739" color="#fff" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/tratament-pentru-toate-tipurile-de-par-treatment-moroccanoil-100-ml" padding-bottom="10px" padding-top="0">CUMPĂRĂ ACUM</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image hre="https://www.glemis.ro/tratament-pentru-toate-tipurile-de-par-treatment-moroccanoil-100-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/scalp-balance/treatment-moroccanoil-100-ml-228x228.jpg" alt="Man 2" align="center" border="none" width="302px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p style="font-size: 14px;">DESCOPERĂ</p>
+          <p style="font-size: 27px;">Moroccanoil</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="20px" padding-top="20">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-shampoo-moroccanoil-hydration-250-ml-228x228.png" alt="Topaz C3 shoes" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-text align="center" color="#000" font-size="15px" font-weight="bold" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Sampon intens hidratant pentru par uscat sau degradat</p>
+          <p style="color: rgb(250, 135, 57);">116,33 LEI</p>
+        </mj-text>
+        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-250-ml" padding-bottom="10px" padding-top="0">CUMPĂRĂ ACUM</mj-button>
+      </mj-column>
+
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-shampoo-moroccanoil-hydration-500-ml-500x500.jpg" alt="Camden backpack" align="center" border="none" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-text align="center" color="#000" font-size="15px" font-weight="bold" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Sampon intens hidratant pentru par uscat sau degradat</p>
+          <p style="color: rgb(250, 135, 57);">183,50 LEI</p>
+        </mj-text>
+        <mj-button background-color="#fa8739" color="#fff" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-500-ml" padding-bottom="10px" padding-top="0">CUMPĂRĂ ACUM</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#2f323b" padding-bottom="20px" padding-top="20">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/glemisromania/" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="pinterest" href="https://www.pinterest.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px" padding-top="0px"></mj-section>
+  </mj-body>
+</mjml>

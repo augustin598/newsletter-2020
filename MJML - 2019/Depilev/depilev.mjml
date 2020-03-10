@@ -1,0 +1,345 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .link-nostyle {
+      	color: inherit;
+      	text-decoration: none
+      }
+
+      body {
+      	background-image: url("#");
+      }
+
+      .discount {
+      	font-family: Ubuntu;
+      	font-size: 14px;
+      	text-align: center;
+      	font-weight: bolder;
+      	line-height: 14px;
+      	letter-spacing: 2px;
+      	color: #f00;
+      }
+
+      .pret {
+      	font-weight: normal;
+      	color: #000;
+      	letter-spacing: 0pt;
+      	word-spacing: 0pt;
+      	text-align: center;
+      	font-size: 16px;
+      	font-family: Ubuntu;
+      	line-height: 16px;
+      	margin: 5px;
+      	padding: 5px;
+      }
+
+      blockquote {
+      	margin-left: 15px;
+      	display: inline;
+      	border-left: 2px solid rgb(221, 221, 221);
+      	padding: 0px 0px 0px 10px;
+      	font-size: 17px;
+      	line-height: 23px;
+      	font-weight: bold;
+      }
+
+      h1 {
+      	font-family: Ubuntu;
+      	line-height: 1;
+      	font-size: 21px;
+      	font-weight: 500;
+      	text-align: center;
+      	padding: 10px 10px;
+      	margin: 0px 0px;
+      }
+
+      .h1-center {
+      	font-family: Ubuntu;
+      	line-height: 1;
+      	font-size: 21px;
+      	text-align: center;
+      	padding: 10px 10px;
+      	margin: 0px;
+      	font-weight: 500;
+      	line-height: 26px;
+      }
+
+      .h1-left {
+      	font-family: Ubuntu;
+      	line-height: 1;
+      	font-size: 21px;
+      	text-align: left;
+      	padding: 10px 10px;
+      	margin: 0px;
+      	font-weight: 500;
+      	line-height: 26px;
+      }
+
+      p {
+      	font-weight: normal;
+      	color: #000;
+      	letter-spacing: 0pt;
+      	word-spacing: 0pt;
+      	font-size: 16px;
+      	text-align: justify;
+      	font-family: Ubuntu;
+      	line-height: 16px;
+      	margin: 5px;
+      	padding: 5px;
+      }
+
+      .p-head {
+      	font-weight: normal;
+      	color: #000;
+      	letter-spacing: 0px;
+      	word-spacing: 0pt;
+      	font-size: 17px;
+      	text-align: justify;
+      	font-family: Ubuntu;
+      	line-height: 17px;
+      	margin: 5px;
+      	padding: 5px;
+      }
+
+      .p-footer {
+      	font-weight: normal;
+      	color: #fff;
+      	letter-spacing: 0pt;
+      	word-spacing: 3pt;
+      	font-size: 12px;
+      	text-align: center;
+      	font-family: lucida sans unicode, lucida grande, sans-serif;
+      	line-height: 20px;
+      	margin: 5px;
+      	padding: 5px;
+      }
+
+      .product-title {}
+
+      h3 {
+      	font-family: Ubuntu;
+      	line-height: 1;
+      	font-size: 16px;
+      	text-align: center;
+      	padding: 10px 0px;
+      	margin: 0px;
+      	color: #000;
+      	font-weight: 500;
+      	height: 40px;
+      	overflow: hidden;
+      }
+
+      .product {
+      	font-weight: normal;
+      	color: #000000;
+      	letter-spacing: 3pt;
+      	word-spacing: 2pt;
+      	font-size: 12px;
+      	text-align: center;
+      	font-family: lucida sans unicode, lucida grande, sans-serif;
+      	line-height: 1;
+      	margin: 5px;
+      	padding: 5px;
+      	height: 67px;
+      	overflow: hidden;
+      	text-overflow: ellipsis;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#d6dde5">
+      <mj-section background-color="#fff" padding-bottom="" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#2f323b" font-size="13" padding-left="25" padding-right="25" padding-bottom="5" padding-top="10">
+            Acum orice comanda iti aduca un cadou Garantat!
+          </mj-text>
+          <mj-text align="center" color="#2f323b" font-size="13" padding-left="25" padding-right="25" padding-bottom="10" padding-top="5">
+            Daca intampinati probleme in vizualizarea acestui mail, <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong></a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-navbar background-color="#ffffff">
+        <mj-column width="50%">
+          <mj-image href="https://www.glemis.ro/" src="https://www.glemis.ro/image/catalog/newsletter/newsletter-44/logo1.png" alt="Glemis" align="center" padding="10">
+          </mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-inline-links base-url="https://www.glemis.ro" hamburger="hamburger" ico-color="#fa8739">
+            <mj-link href="https://www.glemis.ro/index.php?route=product/special&amp;utm_content=header_menu" color="red" font-size="20" font-weight="900">Oferte</mj-link>
+            <mj-link font-size="20" font-weight="900" href="https://www.glemis.ro/articole?utm_content=header_menu" color="#000">blog</mj-link>
+            <mj-link href="https://www.glemis.ro?utm_content=header_menu" color="#000000" font-size="20" font-weight="900">store</mj-link>
+          </mj-inline-links>
+        </mj-column>
+      </mj-navbar>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-30-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-41/img-sus.png" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+      
+            <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/depileve?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-41/img-jos.png" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="5" padding-bottom="0">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h1>Ceara Traditionala</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="10" padding-bottom="10" padding-left="5" padding-right="5">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/ceara-traditionala-chlorophyl-wax-depileve-500-gr?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/depileve/traditional-wax/chlorophyl-wax-depileve-500-gr-228x228.png" title="Chlorophyl Wax Depileve" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Chlorophyl Wax Depileve</h3>
+          </mj-text>
+
+          <mj-button width="100%" background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/ceara-traditionala-chlorophyl-wax-depileve-500-gr?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/ceara-traditionala-karite-butter-wax-depileve-500-gr?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/depileve/traditional-wax/karite-butter-wax-depileve-500-gr-228x228.jpg" title="Karite Butter Wax Depileve" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Karite Butter Wax Depileve</h3>
+          </mj-text>
+
+          <mj-button width="100%" background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/ceara-traditionala-karite-butter-wax-depileve-500-gr?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/ceara-traditionala-pink-wax-depileve-500-gr?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/depileve/traditional-wax/pink-wax-depileve-500-gr-228x228.jpg" title="Pink Wax Depileve" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Pink Wax Depileve</h3>
+          </mj-text>
+
+          <mj-button width="100%" background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/ceara-traditionala-pink-wax-depileve-500-gr?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+
+        </mj-column>
+
+      </mj-section>
+      
+ <mj-section padding-top="5" padding-bottom="5">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-30-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-41/produs-cadou-2.jpg" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+      
+            <mj-section background-color="#fff" padding-top="5" padding-bottom="0">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h1>Ceara Extrafina</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+            <mj-section background-color="#fff" padding-top="10" padding-bottom="10" padding-left="5" padding-right="5">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/ceara-elastica-cu-unt-de-karite-karite-extra-film-wax-depileve-800-gr?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/depileve/extra-fine-wax/karite-extra-film-wax-depileve-800-gr-228x228.jpg" title="Karite Extra Film Wax" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Karite Extra Film Wax</h3>
+          </mj-text>
+
+          <mj-button width="100%" background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/ceara-elastica-cu-unt-de-karite-karite-extra-film-wax-depileve-800-gr?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/ceara-elastica-pentru-zona-intima-si-axile-intimate-film-rosin-depileve-800g?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/depileve/extra-fine-wax/intimate-film-rosin-depileve-800g-228x228.jpg" title="Intimate Film Rosin" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Intimate Film Rosin</h3>
+          </mj-text>
+
+          <mj-button width="100%" background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/ceara-elastica-pentru-zona-intima-si-axile-intimate-film-rosin-depileve-800g?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+
+        </mj-column>
+
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/ceara-naturala-natural-pine-rosin-depileve-800-gr?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/depileve/extra-fine-wax/natural-pine-rosin-depileve-800-gr-228x228.jpg" title="Natural Pine Rosin - Depileve" align="center" padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+          <mj-text font-weight="bold" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h3>Natural Pine Rosin</h3>
+          </mj-text>
+
+          <mj-button width="100%" background-color="#fa8739" color="#fff" font-size="13" align="center" padding="15px 30px" border-radius="3px" href="https://www.glemis.ro/ceara-naturala-natural-pine-rosin-depileve-800-gr?utm_content=product_buy" padding-bottom="10" padding-top="0">
+            CUMPĂRĂ
+          </mj-button>
+        </mj-column>
+
+      </mj-section>
+      
+ <mj-section padding-top="5" padding-bottom="5">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-500-ml?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-39/6.png" alt="Glemis" align="center" border="none" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+            
+            <mj-section background-color="#53c553" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#fff" font-size="20" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <a style="font-size:20;" href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-500-ml?utm_content=call_action" class="link-nostyle">Cremă termoactivă anti celulitică profesională</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+                  <mj-section background-color="#000" padding-bottom="0" padding-top="0">
+                <mj-column>
+                    <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+                        <p class="p-footer">
+                            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.<br><br>
+                            Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+                            <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative
+                            de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+                        </p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section background-color="#000" padding-bottom="0" padding-top="0">
+                <mj-column width="15%">
+                </mj-column>
+                <mj-column width="70%">
+                    <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+                        <p class="p-footer">
+                            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|&nbsp;
+                            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+                        </p>
+                    </mj-text>
+                    <mj-social font-size="13" text-mode="false" facebook-href="https://www.facebook.com/GlemisRomania" twitter-href="https://twitter.com/GlemisRomania" google-href="https://plus.google.com/+GlemisSuceava" mode="horizontal" display="facebook twitter google instagram"
+                               padding-left="25" padding-right="25" padding-bottom="5" padding-top="5">
+                    </mj-social>
+                </mj-column>
+                <mj-column width="15%">
+                </mj-column>
+            </mj-section>
+
+    </mj-container>
+    <mj-body>

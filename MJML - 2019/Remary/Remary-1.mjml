@@ -1,0 +1,342 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+            .link-nostyle {
+      	color: inherit;
+      	text-decoration: none
+      }
+
+      .circle {
+      	border-radius: 50%;
+      	width: 200px;
+      	height: 200px;
+      }
+
+      p {
+      	font-weight: normal;
+      	color: #000000;
+      	letter-spacing: 0pt;
+      	word-spacing: 2pt;
+      	font-size: 12px;
+      	text-align: justify;
+      	font-family: Ubuntu;
+      	line-height: 1;
+      	margin: 5px;
+      	padding: 5px;
+      }
+
+      .p-head {
+      	font-weight: normal;
+      	color: #000;
+      	letter-spacing: 0pt;
+      	word-spacing: 0pt;
+      	font-size: 17px;
+      	text-align: justify;
+      	font-family: Ubuntu;
+      	line-height: 19px;
+      	margin: 5px;
+      	padding: 5px;
+      }
+
+      .p-footer {
+      	font-weight: normal;
+      	color: #fff;
+      	letter-spacing: 0pt;
+      	word-spacing: 2pt;
+      	font-size: 12px;
+      	text-align: center;
+      	font-family: lucida sans unicode, lucida grande, sans-serif;
+      	line-height: 16px;
+      	margin: 5px;
+      	padding: 5px;
+      }
+
+      h3 {
+      	font-weight: normal;
+      	color: #000000;
+      	letter-spacing: 1pt;
+      	word-spacing: 2pt;
+      	font-size: 17px;
+      	text-align: center;
+      	font-family: arial black, sans-serif;
+      	line-height: 1;
+      	padding: 10px 15px;
+      	margin: 5px
+      }
+
+      h1 {
+      	font-family: Ubuntu, Helvetica, Arial, sans-serif;
+      	line-height: 1;
+      	font-size: 21px;
+      	text-align: center;
+      	padding: 10px 10px;
+      	margin: 0px;
+      }
+
+      .h1-left {
+      	font-family: Ubuntu, Helvetica, Arial, sans-serif;
+      	line-height: 1;
+      	font-size: 21px;
+      	text-align: center;
+      	padding: 10px 10px;
+      	margin: 0px;
+      	font-weight: 500;
+      	line-height: 26px;
+      }
+
+      /* === PRODUCT DESCRIPTION === */
+
+      .product {
+      	font-weight: normal;
+      	color: #000000;
+      	letter-spacing: 3pt;
+      	word-spacing: 2pt;
+      	font-size: 12px;
+      	text-align: center;
+      	font-family: lucida sans unicode, lucida grande, sans-serif;
+      	line-height: 1;
+      	margin: 5px;
+      	padding: 5px;
+      	height: 67px;
+      	overflow: hidden;
+      	text-overflow: ellipsis;
+      }
+
+      /* === PRODUCT DESCRIPTION === */
+
+      /* === PRODUCT
+      HEADING === */
+
+      h3 {
+      	font-family: Ubuntu, Helvetica, Arial, sans-serif;
+      	line-height: 1;
+      	font-size: 16px;
+      	text-align: center;
+      	padding: 10px 0px;
+      	margin: 0px;
+      	color: #000;
+      	font-weight: 500;
+      	height: 40px;
+      	overflow: hidden;
+      }
+
+      /* === PRODUCT HEADING === */
+
+      /* === BACKGROUND BODY START === */
+
+      body {
+      	background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-31/10008-v2.jpg");
+      }
+
+      /* === BACKGROUND BODY End === */
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container > 
+      <mj-section background-color="#fff" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#2f323b" font-size="13px" padding-left="25" padding-right="25" padding-bottom="5" padding-top="10">
+           Care sunt cauzele apariției celulitei și cum te poate ajuta Crema Termoactiva Anticelulitica Foarte Puternica Ecovital?
+          </mj-text>
+          <mj-text align="center" color="#2f323b" font-size="13px" padding-left="25" padding-right="25" padding-bottom="10" padding-top="5">
+            Daca intampinati probleme in vizualizarea acestui mail, <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong></a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-navbar background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image href="https://www.glemis.ro/" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" alt="Glemis" width="200" align="center" padding="10">
+          </mj-image>
+          < </mj-column>
+            <mj-column width="100%">
+              <mj-text padding-top="5" padding-bottom="5">
+                <h1>Descoperă crema anticelulită revoluționară care va reduce urmele inestetice rapid și sigur!</h1>
+              </mj-text>
+            </mj-column>
+      </mj-navbar>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-31/anticelulitica.jpg" alt="Glemis" align="center" border="none" width="600"
+            padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#fff" font-size="30" padding-left="25" padding-right="25" padding-bottom="15" padding-top="15">
+            <a style="font-size:30;" href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=call_action" class="link-nostyle">Vezi produsul</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff" padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-text font-weight="bold" align="justify" color="#000" font-size="15" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0">
+            <h1>Ce este Crema Termoactiva Anticelulitica <span style="color:#fe7cb7;">Foarte Puternica</span> Ecovital?</h1>
+            <p class="p-head">Te-ai săturat să plătești o mulțime de bani pe
+              <a href="https://www.glemis.ro/produse-anticelulitice" class="link-nostyle"> <span style="color:#fe7cb7;"><b>produse anticelulitice</b></span></a> care au dau niciun rezultat? Nu ești singura! Conform unui studiu, femeile cheltuie milioane de dolari pe an pe creme pentru întreținere. </p>
+            <h1><span style="color:#fe7cb7;">E timpul pentru o schimbare!</span></h1>
+            <p class="p-head">
+              Având în vedere că vine vara, trebuie să aratăm bine și dacă timpul nu ne-a permis să facem sport, ei bine, acum avem parte de soluții extrem de simple care pot fi la îndemâna oricui.
+            </p>
+            <p class="p-head">
+              <blockquote> Noi îți vom prezenta cele mai bune decoperiri în materie de produse de îngrijire a corpului. </blockquote>
+            </p>
+
+          </mj-text>
+          <mj-divider border-color="#F45E43" width="100%" padding-top="0" padding-left="0" padding-right="9" padding-bottom="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=banner" src="https://www.glemis.ro/image/catalog/landing-page/crema-anticelulitica-ecovital.jpg" alt="Glemis" align="center" border="none" width="600"
+            padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fa8739" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#fff" font-size="25" padding-left="25" padding-right="25" padding-bottom="15" padding-top="15">
+            <a style="font-size:25; line-height:25px;" href="https://www.glemis.ro/alfaparf-milano?utm_content=call_action" class="link-nostyle">Descoperă Crema Termoactiva Anticelulitica</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Produse Headear Start -->
+      <mj-section background-color="#fff" padding-top="5" padding-bottom="5">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h1>Care sunt <span style="color:#fe7cb7;">cauzele apariției celulitei</span> și cum te poate ajuta Crema Termoactiva Anticelulitica Foarte Puternica Ecovital?</h1>
+            <p class="p-head">
+              Multe produse anticelulită se dovedesc a fi ineficiente tocmai din cauza faptului că acestea nu fac decât să modifice doar aspectul pielii, în timp ce crema anticelulitica foarte puternica Ecovital a fost creat pentru a trata celulita în 3 pași.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Produse Headear End -->
+
+      <!-- Containter Produse Start 1 -->
+      <mj-section background-color="#fa8739">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/landing-page/crema-ecovital-aniticelulitica-termoactiva.jpg" title="" align="center"
+            padding-left="5" padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/landing-page/celulita-si-coaja-de-portocala.jpg" title="" align="center" padding-left="5"
+            padding-right="5" padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/landing-page/zay%C4%B1flama.jpg" title="" align="center" padding-left="5" padding-right="5"
+            padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+        </mj-column>
+      </mj-section>
+      <!-- Containter Produse End 1 -->
+
+      <!-- Produse Headear Start -->
+      <mj-section background-color="#fff" padding-top="5" padding-bottom="5">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#000" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <h1><span style="color:#fe7cb7;">1. Elimină toxinele și excesul de grăsime</span></h1>
+            <p class="p-head">
+              Celulita este o modalitate necorespunzătoare de stocare a grăsimilor. Celulele adipoase sunt ca niște depozite de grăsime care pot crește și pot depăși chiar și volumul lor normal de 60 de ori, iar acest lucru, duce la comprimarea vaselor de sânge.
+            </p>
+
+            <p class="p-head">
+              <b>Crema Termoactiva Anticelulitica Foarte Puternica Ecovital</b> este concepută cu alge marine care penetrează pielea, elimină toxinele și excesul de grăsime, drenează și remineralizează și în ultimă instanță lasă epiderma detoxifiată.
+            </p>
+
+            <h1><span style="color:#fe7cb7;">2. Dispare aspectul de „<span style="color:#d9534f;">coajă de portocală</span>”</span>
+            </h1>
+            <p class="p-head">Stratul fibros separă țesutul adipos de piele, fiind precum o rețea de ochiuri compartimentate unde sunt menținute celulele adipoase.</p>
+
+            <p class="p-head">Celulita apare din cauza faptului că stratul adipos este împins în jos, iar celulele adipoase tind să ascensioneze, iar in felul acesta rezultă acel aspect de „coajă de portocală”. </p>
+            <p class="p-head">Crema Termoactiva Anticelulitica are rolul de a reduce aspectul inestetic de „coajă de portocală” deoarece stimulează circulația sangvină, iar pielea devine hidratată și revitalizată, recăpătându-și elasticitatea. </p>
+
+
+            <h1><span style="color:#fe7cb7;">3. Reduce dimensiunile șoldurilor și ale taliei</span></h1>
+            <p class="p-head">Reducerea circulației sângelui din cauza lipsei de mișcare, precum și un drenaj limfatic defectuos duce la acumulări de grăsime, la apariția imperfecțiunilor și la denivelarea pielii.</p>
+            <p class="p-head">Din cauza faptului că celulele adipoase se inflamează, celulele de grăsime vor crește în volum. </p>
+            <p class="p-head">Crema Termoactiva Anticelulitica Foarte Puternica Ecovital produce un efect de încălzire care crește receptivitatea pielii la ingredientele active ale produsului, astfel încât, dimensiunile șoldurilor și ale taliei vor fi reduse. </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Produse Headear End -->
+
+      <!-- Containter Produse Start 2 -->
+      <mj-section padding-bottom="5" padding-top="5" background-color="#7fb227">
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/landing-page/stop-celulita.jpg" title="" align="center" padding-left="5" padding-right="5"
+            padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/landing-page/ecovital-green2.jpg" title="" align="center" padding-left="5" padding-right="5"
+            padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/landing-page/fara-celulita-2.jpg" title="" align="center" padding-left="5" padding-right="5"
+            padding-bottom="0" padding-top="0" width="200">
+          </mj-image>
+
+        </mj-column>
+      </mj-section>
+      <!-- Containter Produse End 2 -->
+      <mj-section background-color="#fff" padding-top="5" padding-bottom="5" padding-left="0" padding-right="5">
+        <mj-column background-color="#fe7cb7" width="50%">
+          <mj-text align="center" color="#fff" font-size="25" padding-left="0" padding-right="00" padding-bottom="20" padding-top="20">
+            <a style="font-size:25;" href="https://www.glemis.ro/produsul-minune-anti-celulita-crema-termoactiva-ecovital?utm_content=call_action" class="link-nostyle">Ce spun alți clienți?</a>
+          </mj-text>
+
+        </mj-column>
+        <mj-column background-color="#fa8739" width="50%">
+          <mj-text align="center" color="#fff" font-size="25" padding-left="0" padding-right="00" padding-bottom="20" padding-top="20">
+            <a style="font-size:25;" href="https://www.glemis.ro/crema-termoactiva-anticelulitica-foarte-puternica-ecovital?utm_content=call_action" class="link-nostyle">Comandă acum!</a>
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#7fb227" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <p class="p-footer">
+              CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.<br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+              <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+                style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#7fb227" padding-bottom="0" padding-top="0">
+        <mj-column width="15%">
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+            <p class="p-footer">
+              <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|&nbsp;
+              <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+            </p>
+          </mj-text>
+          <mj-social font-size="13" text-mode="false" facebook-href="https://www.facebook.com/GlemisRomania" twitter-href="https://twitter.com/GlemisRomania" google-href="https://plus.google.com/+GlemisSuceava" mode="horizontal" display="facebook twitter google"
+            padding-left="25" padding-right="25" padding-bottom="5" padding-top="5">
+          </mj-social>
+        </mj-column>
+        <mj-column width="15%">
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>

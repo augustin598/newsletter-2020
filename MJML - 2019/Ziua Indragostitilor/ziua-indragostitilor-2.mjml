@@ -1,0 +1,293 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+      E:\#0 Theme\resurse
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <mj-include path="../#0-Theme/resurse/background.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+          Foloseste codul <b>"10VAL19"</b> pentru10% Off Valentine's Day
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Menu -->
+    <mj-section mj-class="menu" background-color="#ecebe9">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links" href="/moroccanoil">Moroccanoil</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" href="/alfaparf-milano">Alfaparf Milano</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links" href="/joico">Joico</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://glemis.ro?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2019/valentin/valentin-1.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-50">
+        <mj-text font-weight="bold" align="center" color="#df0130" font-size="15px" padding="0px 10px">
+            <h1> 10% Off Valentine's Day</h1>
+      </mj-text>
+      </mj-column>
+      <mj-column mj-class="col-50">
+        <mj-button background-color="#df0130" border="1px solid #fff" font-size="18px" href="https://www.glemis.ro/" align="center">
+        &nbsp;&nbsp;Cod:  <b>10VAL19</b>&nbsp;&nbsp;
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+    
+    <!-- Call to action Full Start-->
+    <mj-section mj-class="cta-full">
+      <mj-column mj-class="col-100" background-color="#ecebe9" padding="5px">
+        <mj-text mj-class="tx-center" font-size="20px" color="#000">
+          <a class="clear-link" href="?utm_content=call_action">Valabilitate: 14.02.2019- 15.02.2019 ora 24:00</a>
+        </mj-text>
+        <mj-text align="center" color="#000">
+          * -10% Doar la produsele fara discount! *
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Full End-->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/crema-hidratanta-pentru-coafare-si-definire-hydrating-styling-cream-hydration-moroccanoil-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-styling-cream-hydration-moroccanoil-300-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Crema hidratanta pentru coafare si definire</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/crema-hidratanta-pentru-coafare-si-definire-hydrating-styling-cream-hydration-moroccanoil-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-hidratant-pentru-toate-tipurile-de-par-hydrating-conditioner-hydration-moroccanoil-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-conditioner-hydration-moroccanoil-250-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam hidratant pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/balsam-hidratant-pentru-toate-tipurile-de-par-hydrating-conditioner-hydration-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/hydration/hydrating-shampoo-moroccanoil-hydration-250-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon intens hidratant pentru par uscat sau degradat</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-par-uscat-sau-degradat-hydrating-shampoo-moroccanoil-hydration-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/volum-de-la-radacina-root-boost-volume-moroccanoil-250-ml" src="https://www.glemis.ro/image/cache/catalog/product/moroccanoil/volume-line/root-boost-volume-moroccanoil-250-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Volum de la radacina Moroccanoil</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/volum-de-la-radacina-root-boost-volume-moroccanoil-250-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- 2 Group Image Elements Start -->
+    <mj-section mj-class="two-img" background-color="#df0130">
+      <mj-column mj-class="col-50">
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2019/valentin/love-1.png" href="https://www.glemis.ro/index.php?route=product/special" padding="10px">
+        </mj-image>
+      </mj-column>
+
+      <mj-column mj-class="col-50">
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2019/valentin/glemis-discount.png" href="https://www.glemis.ro/index.php?route=product/special" padding="10px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- 2 Group Image Elements Start -->
+
+
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-vopsit-k-pak-color-therapy-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/k-pak-color-therapy-duo-joico-2-x-500-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam reparator pentru păr vopsit</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-vopsit-k-pak-color-therapy-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-degradat-k-pak-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/k-pak-duo-joico-2-x-500-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam reparator pentru păr degradat</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/set-sampon-balsam-reparator-pentru-par-degradat-k-pak-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-pentru-volum-body-luxe-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/body-luxe-duo-joico-2-x-500-ml-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam pentru volum</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/set-sampon-balsam-pentru-volum-body-luxe-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/set-sampon-balsam-pentru-par-vopsit-color-endure-duo-joico-2-x-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/joico/sets-duo/color-endure-duo-joico-2-x-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Set şampon + balsam pentru păr vopsit</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/set-sampon-balsam-pentru-par-vopsit-color-endure-duo-joico-2-x-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+    
+    <!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="slider" src="https://www.glemis.ro/image/catalog/newsletter-2019/valentin/17893.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Slide End  -->
+
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-de-reconstructie-pentru-parul-degradat-reparative-shampoo-semi-di-lino-reconstruction-alfaparf-milano-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-reconstruction/reparative-shampoo-semi-di-lino-reconstruction-alfaparf-milano-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon de reconstructie pentru parul degradat</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/sampon-de-reconstructie-pentru-parul-degradat-reparative-shampoo-semi-di-lino-reconstruction-alfaparf-milano-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-de-hidratare-pentru-par-uscat-nutritive-shampoo-semi-di-lino-moisture-alfaparf-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-moisture/nutritive-shampoo-semi-di-lino-moisture-alfaparf-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon de hidratare pentru par uscat</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/sampon-de-hidratare-pentru-par-uscat-nutritive-shampoo-semi-di-lino-moisture-alfaparf-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-de-stralucire-si-revitalizare-pentru-par-normal-illuminating-conditioner-semi-di-lino-diamond-alfaparf-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/semi-di-lino-diamond/illuminating-conditioner-semi-di-lino-diamond-alfaparf-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam de stralucire si revitalizare pentru par normal</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/balsam-de-stralucire-si-revitalizare-pentru-par-normal-illuminating-conditioner-semi-di-lino-diamond-alfaparf-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-pentru-curatare-in-profunzime-deep-cleansing-shampoo-lisse-design-alfaparf-milano-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/alfaparf-milano/lisse-design-keratin-therapy/deep-cleansing-shampoo-lisse-design-alfaparf-milano-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon pentru curatare in profunzime</span>
+          </mj-text>
+          <mj-button mj-class="red-button" href="https://www.glemis.ro/sampon-pentru-curatare-in-profunzime-deep-cleansing-shampoo-lisse-design-alfaparf-milano-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- footer Start -->
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer-text">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

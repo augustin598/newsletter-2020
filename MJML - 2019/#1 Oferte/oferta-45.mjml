@@ -1,0 +1,323 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#BB9D55" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#9B1D1E" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-botton-ar" padding="5px 0px" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px"  />
+
+      <mj-class name="green-botton-ar-b" padding="5px 0px" align="center" border="2px solid #00c853" background-color="#fff" color="#000" border-radius="24px" font-size="13px"  />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#000" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+
+     <mj-style inline="inline">
+    .link-nostyle { color: inherit; text-decoration: none }
+    .circle {border-radius: 50%; width: 200px; height: 200px;}
+       .p-head{font-weight:normal; color:#000; letter-spacing:0pt;word-spacing:2pt;font-size:15px;text-align:center;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:15px;margin:5px;padding:5px;}
+
+    h2 {display: block;
+      font-size: 1.5em;
+  		margin: 10px 0px;
+      font-weight: bold;
+      height: 55px;
+      padding: 10px 0px;
+      overflow: hidden;
+    }
+
+    .product {
+      font-weight: normal;
+      color: #000000;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+
+       body {
+        background-image: url("https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-71/back1.jpg");
+     }
+       </mj-style>
+  </mj-head>
+  <mj-body>
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Descopera, echipamentele profesionale pentru saloane.
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section background-color="#ffff" padding="5px 0px">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0 0" background-color="#9E1B21">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link font-size="18px" href="/joico" color="#ffffff">Joico</mj-navbar-link>
+          <mj-navbar-link font-size="18px" href="/try-it-live" color="#ffffff"> KEUNE </mj-navbar-link>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+<!-- Slide Start  -->
+    <mj-section padding-top="0px" padding-bottom="0" background-color="#9E1B21">
+      <mj-column>
+        <mj-text align="center" padding="0px 0px">
+        <h1 style="color:#fff; font-size:20px; font-weight:500; padding:0px 5px; margin-top:0px;">Părul tău merită ce-i mai bun: produse profesionale pentru îngrijirea părului de la Keune!</h1>
+        </mj-text>
+        <mj-image mj-class="slider" href="?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-71/keunde-baner.jpg" alt="Glemis"></mj-image>
+        <mj-text>
+          <p style="color:#fff;" class="p-head">Keune oferă produse pentru îngrijirea părului de cea mai înaltă calitate</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- Slide End  -->
+
+  <!-- Product button Green start -->
+    <mj-section border-bottom="5px dotted #9B1D1E" background-color="#ffffff" vertical-align="top" padding-top="5px" border-bottom="0px">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Easy and quick</h2>
+          <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+        </mj-text>
+        <mj-button mj-class="green-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Easy and quick</h2>
+          <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+        </mj-text>
+        <mj-button mj-class="green-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Easy and quick</h2>
+          <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+        </mj-text>
+        <mj-button mj-class="green-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Product button Green End -->
+    <!-- Call to action Start  -->
+    <mj-section border-bottom="5px dotted #9B1D1E" background-color="#fff" padding-bottom="0px" padding-top="0">
+      <mj-column>
+          <mj-text align="center" color="#000" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+              <a style="font-size:25px;" href="?utm_content=call_action" class="link-nostyle">Vezi toate produsele de la Keune</a>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Start  -->
+
+    <mj-section background-color="#fff" padding="3px 0px"> </mj-section>
+
+    <mj-section padding-top="0px" padding-bottom="0" background-color="#BB9D55">
+      <mj-column>
+        <mj-text align="center" color="#fff" padding="0px 0px" line-height="23px">
+        <h1 style="font-size:20px; font-weight:500; padding:5px 5px;">Revigorează-ți părul degradat și lipsit de strălucire! Arta părului frumos are un nume: Joico</h1>
+        </mj-text>
+        <mj-image mj-class="slider" href="?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter/JOI-3-1600x600_main.jpg" alt="Glemis"></mj-image>
+        <mj-text>
+          <p style="color:#fff; line-height:20px;" class="p-head">Joico își depășește limitele pe zi ce trece deoarece combină puterea științei moderne cu ingredientele sale care hrănesc, protejează și reconstituie părul din cuticulă către cortex.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Product button Green start -->
+      <mj-section border-bottom="5px dotted #BB9D55" background-color="#ffffff" vertical-align="top" padding-top="10px" border-bottom="0px">
+        <mj-column vertical-align="middle" width="33.33333333333333%">
+          <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+          <mj-text align="center" padding-bottom="0px">
+            <h2>Easy and quick</h2>
+            <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+          </mj-text>
+          <mj-button mj-class="red-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        <mj-column vertical-align="middle" width="33.33333333333333%">
+          <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+          <mj-text align="center" padding-bottom="0px">
+            <h2>Easy and quick</h2>
+            <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+          </mj-text>
+        <mj-button mj-class="red-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+        <mj-column vertical-align="middle" width="33.33333333333333%">
+          <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+          <mj-text align="center" padding-bottom="0px">
+            <h2>Easy and quick</h2>
+            <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+          </mj-text>
+        <mj-button mj-class="red-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- Product button Green End -->
+
+      <mj-section background-color="#fff" padding="3px 0px"> </mj-section>
+
+      <mj-section padding="0px 0px">
+        <mj-column width="50%" background-color="#BB9D55">
+          <mj-text align="center" padding="0px 0px" color="#fff">
+            <h1 style="border: 2px solid #fff; padding:10px;">JOICO</h1>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="50%" background-color="#9B1D1E">
+            <mj-text align="center" padding="0px 0px" color="#fff">
+            <h1 style="border: 2px solid #fff; padding:10px;">KEUNE</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+  <!--  call to action intro -->
+
+  <!-- Product button Green start -->
+    <mj-section background-color="#ffffff" border-bottom="5px dotted #BB9D55"  vertical-align="top" padding-top="5px">
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Easy and quick</h2>
+          <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+        </mj-text>
+        <mj-button mj-class="red-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Easy and quick</h2>
+          <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+        </mj-text>
+        <mj-button mj-class="red-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="33.33333333333333%">
+        <mj-image href="?utm_content=product_defined" src="https://dummyimage.com/200x200/000/fff" alt="" width="200" padding="0px"></mj-image>
+        <mj-text align="center" padding-bottom="0px">
+          <h2>Easy and quick</h2>
+          <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+        </mj-text>
+        <mj-button mj-class="red-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Product button Green End -->
+
+    <mj-section border-bottom="5px dotted #BB9D55"  background-color="#fff" padding-bottom="0px" padding-top="0">
+      <mj-column>
+          <mj-text align="center" color="#000" padding-left="25px" padding-right="25px" padding-bottom="10" padding-top="10">
+              <a style="font-size:25px;" href="?utm_content=call_action" class="link-nostyle">Vezi toate produsele de la Joico</a>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action Start  -->
+
+    <mj-section background-color="#fff" padding="3px 0px"> </mj-section>
+
+  <!-- Email content End -->
+
+  <!-- footer Start -->
+    <mj-section background-color="#faf0ef" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #000; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#faf0ef" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none; color:#000;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none; color:#000;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/glemisromania/" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="pinterest" href="https://www.pinterest.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+  </mj-body>
+</mjml>

@@ -1,0 +1,19 @@
+<mj-section background-color="#6DCBE4" border="2px solid #fff" padding="20px 0px;">
+  <mj-column vertical-align="middle" width="40%" padding="0px">
+    <mj-table>
+    <tr>
+      <td style="padding: 0px" align="center">
+        <img src="https://www.glemis.ro/image/catalog/newsletter-2018/new/logistics-delivery-truck-in-movement2.png" width="64" />
+      </td>
+    </tr>
+  </mj-table>
+  </mj-column>
+  <mj-column vertical-align="middle" width="60%">
+    <mj-table>
+      <td align="center">
+     <span style="font-size:16px; color:#fff; text-transform:uppercase;">Ce spun clienții Glemis.ro</span>
+      </td>
+    </tr>
+  </mj-table>
+  </mj-column>
+</mj-section>

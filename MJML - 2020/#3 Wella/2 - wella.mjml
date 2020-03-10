@@ -1,0 +1,426 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#fff" font-size="13px" padding-left="40px" padding-right="10px" padding-bottom="0px" padding-top="34px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#fff" font-size="13px" padding-left="40px" padding-right="10px" padding-bottom="5px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 0px 0px" src="https://glemis.ro/image/catalog/logo_b_on_w_e.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="200px" height="200px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-botton-ar" padding="5px 0px" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" />
+
+      <mj-class name="green-botton-ar-b" padding="5px 0px" align="center" border="2px solid #00c853" background-color="#fff" color="#000" border-radius="24px" font-size="13px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+      <!-- Call to action button  -->
+      <mj-class name="call-action-green" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" font-size="20px" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="15px" padding-top="15px"
+      />
+      
+      <!-- Image Product Start  -->
+      <mj-class name="sec-padd-product" vertical-align="top" padding="10px 0px" background-color="#fff" />
+      <!-- Image Product End  -->
+
+      <!-- Background Mod's Start -->
+      <mj-class name="section-background" background-color="#ffffff" vertical-align="top" padding-top="25px 0px" />
+      <!-- Background Mod's End -->
+
+      <!-- Colums Mod's Start  -->
+      <mj-class name="col-33" vertical-align="middle" width="33.33333333333333%" />
+    </mj-attributes>
+
+    <mj-style inline="inline">
+      .link-nostyle {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+
+      .discount {
+        display: inline-block;
+        background-color: red;
+        width: 100%;
+        font-size: 13px;
+        padding: 5px 0px;
+        margin: 0px auto;
+        box-sizing: border-box;
+        color: #fff;
+        text-transform: uppercase;
+      }
+
+      @media only screen and (max-width: 480px) {
+        .b-bootom {
+          border: 2px solid #000;
+        }
+
+        .top30 {
+          padding-top: 30px !important;
+        }
+
+        .top20 {
+          padding-top: 20px !important;
+        }
+
+        .top15 {
+          padding-top: 15px !important;
+        }
+
+      }
+
+      .web_version {
+        text-decoration: none;
+        color: #000000;
+      }
+
+      .product_title{
+        padding: 0px 10px;
+        font-size: 16px;
+        display: inline-block;
+        line-height: 16px;
+        font-weight: 400;
+        overflow: hidden;
+        height:60px;
+        text-align:center;
+      }
+
+      .two_img_header {
+        font-size: 2em;
+        display: block;
+        padding: 5px 0px;
+        color: #fff;
+        text-transform: uppercase;
+      }
+
+      .subtitle {
+        font-size: 1.3em;
+        display: block;
+        padding: 5px 10px;
+        color: #000;
+      }
+
+      .custom_text_1 {
+        font-size: 1.2em;
+        display: block;
+        text-align: center;
+        line-height: 1.2em;
+        padding: 5px ;
+        color: #000;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body backgorund-color="#0063C1">
+    <!-- Title & Title Info -->
+    <mj-section background-url="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-12/header-logo-backgorund.png" background-color="#454545" background-repeat="no-repeat" padding-top="35px" padding-bottom="0px">
+      <mj-column>
+          <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text mj-class="title">
+           Top reduceri de iarna -30% -40% -50%
+        </mj-text>
+        <mj-text mj-class="title-info">
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #fff;"><strong>Vedeti varianta Web</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Menu -->
+    <mj-section padding="0px 0px" background-color="#454545">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=8" color="#ffffff" font-weight="900" font-size="17px">Reduceri -20%</mj-navbar-link>
+          <mj-navbar-link href="/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=4" color="#ffffff" font-weight="900" font-size="17px">Reduceri -30%</mj-navbar-link>
+          <mj-navbar-link href="/index.php?route=product/special" color="#ffffff" font-weight="900" font-size="17px">Reduceri -50%</mj-navbar-link>
+        </mj-navbar>
+          <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-12/bg-1.png" width="600px" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+    <!-- Slide Start  -->
+    <mj-section padding-top="0px" padding-bottom="0" background-color="#454545">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/index.php?route=product/special" src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-27/winter-sale.jpg" padding="0px 5px"></mj-image>
+        <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-12/bg-2.png" width="600px" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Slide End  -->
+
+    <!-- Call to action  -->
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-button href="https://www.glemis.ro/index.php?route=product/special&sort=percent&order=ASC&limit=24&page=4" mj-class="call-action-green">
+          Produse cu reducere de 30% - 45%
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Call to action  -->
+
+    <!-- Product 4 Start -->
+     <mj-section mj-class="sec-padd-product">
+       <mj-group>
+         <mj-column vertical-align="middle">
+         <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-copper-peach-opal-essence-illumina-color-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/copper-peach-opal-essence-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+           <mj-text align="center" padding="0px 0px">
+              <span class="product_title">Vopsea profesionala Copper Peach</span>
+           </mj-text>
+         <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-copper-peach-opal-essence-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+         </mj-column>
+           
+         <mj-column vertical-align="middle">
+         <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-5-7-illumina-color-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/5-7-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+           <mj-text align="center" padding="0px 0px">
+              <span class="product_title">Vopsea Illumina Color 5/7 wella <br></span>
+           </mj-text>
+         <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-5-7-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+         </mj-column>
+       </mj-group>  
+       
+       <mj-group>
+         <mj-column vertical-align="middle">
+         <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-6-76-illumina-color-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/6-76-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+           <mj-text align="center" padding="0px 0px">
+              <span class="product_title">Vopsea Illumina Color 6/76</span>
+           </mj-text>
+         <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-6-76-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+         </mj-column>
+           
+         <mj-column vertical-align="middle">
+         <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-9-03-illumina-color-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/9-03-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+           <mj-text align="center" padding="0px 0px">
+              <span class="product_title">vopsea Illumina Color 9/03</span>
+           </mj-text>
+         <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-9-03-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+         </mj-column>
+       </mj-group>  
+       </mj-section>
+     <!-- Product 4 End --> 
+     
+     
+         <mj-section background-color="#7e003d" padding-bottom="0" padding-top="0">
+         <mj-column>
+             <mj-text align="center" color="#fff"  padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+                 <a style="font-size:25px;" href="https://www.glemis.ro/wella-professionals-illumina-color" class="link-nostyle">Vospsele profesionale Wella Illumina Color <br> Reducere -35%</a>
+             </mj-text>
+         </mj-column>
+         </mj-section>
+
+     
+     <!-- Product 4 Start -->
+      <mj-section mj-class="sec-padd-product">
+        <mj-group>
+          <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-7-35-illumina-color-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/7-35-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+               <span class="product_title">Vopsea Illumina Color 7/35</span>
+            </mj-text>
+          <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-7-35-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+            
+          <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-9-03-illumina-color-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/9-03-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+               <span class="product_title">Vopsea Illumina Color 9/03</span>
+            </mj-text>
+          <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-9-03-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+        </mj-group>  
+        
+        <mj-group>
+          <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-9-7-illumina-color-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/9-7-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+               <span class="product_title">Vopsea Illumina Color 9/7</span>
+            </mj-text>
+          <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-9-7-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+            
+          <mj-column vertical-align="middle">
+          <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-8-13-illumina-color-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/illumina-color/8-13-illumina-color-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+            <mj-text align="center" padding="0px 0px">
+               <span class="product_title">Vopsea Illumina Color 8/13</span>
+            </mj-text>
+          <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-8-13-illumina-color-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+          </mj-column>
+        </mj-group>  
+        </mj-section>
+      <!-- Product 4 End --> 
+      
+
+    <mj-section background-url="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-12/produse-originale.png" background-color="#7E003D"  vertical-align="middle" background-repeat="no-repeat" padding-top="0px" padding-bottom="0px">
+      <mj-column padding="10px">
+        <mj-text align="center" color="#fff" font-size="18px">
+          <p style="padding: 0px;"> Toate produsele listate <b>SUNT ORIGINALE</b>, au termen <br>de valabilitate mare și se livrează însoțite de factură </br>cu declarație de conformitate.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <    <!-- Product 4 Start -->
+         <mj-section mj-class="sec-padd-product">
+           <mj-group>
+             <mj-column vertical-align="middle">
+             <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-28-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect-me/0-28-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+               <mj-text align="center" padding="0px 0px">
+                  <span class="product_title">Koleston Perfect Me+ 0/28</span>
+               </mj-text>
+             <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-28-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+             </mj-column>
+               
+             <mj-column vertical-align="middle">
+             <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-88-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect-me/0-88-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+               <mj-text align="center" padding="0px 0px">
+                  <span class="product_title">Koleston Perfect Me+ 0/88</span>
+               </mj-text>
+             <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-0-88-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+             </mj-column>
+           </mj-group>  
+           
+           <mj-group>
+             <mj-column vertical-align="middle">
+             <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-10-04-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect-me/10-04-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+               <mj-text align="center" padding="0px 0px">
+                  <span class="product_title">Koleston Perfect Me+ 10/04</span>
+               </mj-text>
+             <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-10-04-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+             </mj-column>
+               
+             <mj-column vertical-align="middle">
+             <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-2-8-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect-me/2-8-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+               <mj-text align="center" padding="0px 0px">
+                  <span class="product_title">Koleston Perfect Me+ 2/8</span>
+               </mj-text>
+             <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-2-8-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+             </mj-column>
+           </mj-group>  
+           </mj-section>
+         <!-- Product 4 End --> 
+         
+         <!-- Product 4 Start -->
+          <mj-section mj-class="sec-padd-product">
+            <mj-group>
+              <mj-column vertical-align="middle">
+              <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-33-66-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect-me/33-66-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+                <mj-text align="center" padding="0px 0px">
+                   <span class="product_title">Koleston Perfect Me+ 33/66</span>
+                </mj-text>
+              <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-33-66-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+              </mj-column>
+                
+              <mj-column vertical-align="middle">
+              <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-5-00-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect-me/5-00-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+                <mj-text align="center" padding="0px 0px">
+                   <span class="product_title">Koleston Perfect Me+ 5/00</span>
+                </mj-text>
+              <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-5-00-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+              </mj-column>
+            </mj-group>  
+            
+            <mj-group>
+              <mj-column vertical-align="middle">
+              <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-6-7-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect-me/6-7-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+                <mj-text align="center" padding="0px 0px">
+                   <span class="product_title">Koleston Perfect Me+ 6/7</span>
+                </mj-text>
+              <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-6-7-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+              </mj-column>
+                
+              <mj-column vertical-align="middle">
+              <mj-image css-class="top30" href="https://www.glemis.ro/vopsea-profesionala-permanenta-9-7-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/wella-professionals/koleston-perfect/9-7-koleston-perfect-me-wella-professionals-60-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+                <mj-text align="center" padding="0px 0px">
+                   <span class="product_title">Koleston Perfect Me+ 9/7</span>
+                </mj-text>
+              <mj-button mj-class="green-button" href="https://www.glemis.ro/vopsea-profesionala-permanenta-9-7-koleston-perfect-me-wella-professionals-60-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+              </mj-column>
+            </mj-group>  
+            </mj-section>
+          <!-- Product 4 End --> 
+
+    <mj-section background-color="#7e003d" padding-bottom="0" padding-top="0">
+    <mj-column>
+        <mj-text align="center" color="#fff"  padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <a style="font-size:25px;" href="https://www.glemis.ro/wella-professionals-koleston-perfect-me" class="link-nostyle">Vospsele profesionale Wella Koleston Perfect Me+ 
+Reducere -35%</a>
+        </mj-text>
+    </mj-column>
+    </mj-section>
+
+
+
+    <!-- Email content End -->
+
+    <!-- footer Start -->
+    <mj-section background-color="#930760" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+          <mj-image src="https://www.glemis.ro/image/catalog/newsletter-2018/new/newsletter-12/bg-1.png" width="600px" padding="0px"></mj-image>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#930760" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+
+    <!-- Footer Start -->
+    <mj-section background-color="#7e003d" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/glemisromania/" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="pinterest" href="https://www.pinterest.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+  </mj-body>
+</mjml>

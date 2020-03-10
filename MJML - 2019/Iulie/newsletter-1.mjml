@@ -1,0 +1,637 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600px" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+
+    </mj-attributes>
+    <mj-style>
+      .link-nostyle {
+        color: inherit;
+        text-decoration: none;
+      }
+
+
+      /* === BACKGROUND BODY START === */
+
+      body {
+        background-image: url("#");
+      }
+
+      .discount {
+        font-family: Ubuntu;
+        font-size: 14px;
+        text-align: center;
+        font-weight: bolder;
+        line-height: 14px;
+        letter-spacing: 2px;
+        color: #f00;
+      }
+
+      .pret {
+        font-weight: normal;
+        color: #000;
+        letter-spacing: 0pt;
+        word-spacing: 0pt;
+        text-align: center;
+        font-size: 16px;
+        font-family: Ubuntu;
+        line-height: 16px;
+        margin: 5px;
+        padding: 5px;
+      }
+
+      blockquote {
+        margin-left: 15px;
+        display: inline;
+        border-left: 2px solid rgb(221, 221, 221);
+        padding: 0px 0px 0px 10px;
+        font-size: 17px;
+        line-height: 23px;
+        font-weight: bold;
+      }
+
+      h1 {
+        font-family: Ubuntu;
+        line-height: 1;
+        font-size: 21px;
+        font-weight: 500;
+        text-align: center;
+        padding: 10px 10px;
+        margin: 0px 0px;
+      }
+
+      .h1-center {
+        font-family: Ubuntu;
+        line-height: 1;
+        font-size: 21px;
+        text-align: center;
+        padding: 10px 10px;
+        margin: 0px;
+        font-weight: 500;
+        line-height: 26px;
+      }
+
+      .h1-left {
+        font-family: Ubuntu;
+        line-height: 1;
+        font-size: 21px;
+        text-align: left;
+        padding: 10px 10px;
+        margin: 0px;
+        font-weight: 500;
+        line-height: 26px;
+      }
+
+      p {
+        font-weight: normal;
+        color: #000;
+        letter-spacing: 0pt;
+        word-spacing: 0pt;
+        font-size: 16px;
+        text-align: justify;
+        font-family: Ubuntu;
+        line-height: 16px;
+        margin: 5px;
+        padding: 5px;
+      }
+
+      .p-head {
+        font-weight: normal;
+        color: #000;
+        letter-spacing: 0px;
+        word-spacing: 0pt;
+        font-size: 17px;
+        text-align: center;
+        font-family: Ubuntu;
+        line-height: 17px;
+        margin: 5px;
+        padding: 5px;
+      }
+
+      .p-footer {
+        font-weight: normal;
+        color: #fff;
+        letter-spacing: 0pt;
+        word-spacing: 2pt;
+        font-size: 12px;
+        font-weight: 400;
+        text-align: center;
+        font-family: lucida sans unicode, lucida grande, sans-serif;
+        line-height: 16px;
+        margin: 5px;
+        padding: 5px;
+      }
+
+      .product-title {}
+
+      h3 {
+        font-family: Ubuntu;
+        line-height: 1;
+        font-size: 16px;
+        text-align: center;
+        padding: 10px 0px;
+        margin: 0px;
+        color: #000;
+        font-weight: 500;
+        height: 23px;
+        overflow: hidden;
+      }
+
+      .product {
+        font-weight: normal;
+        color: #000000;
+        letter-spacing: 3pt;
+        word-spacing: 2pt;
+        font-size: 12px;
+        text-align: center;
+        font-family: lucida sans unicode, lucida grande, sans-serif;
+        line-height: 1;
+        margin: 5px;
+        padding: 5px;
+        height: 67px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bd-img30 {
+          padding-top: 30px !important;
+        }
+
+        .bd-img20 {
+          padding-top: 20px !important;
+        }
+
+        .bd-img15 {
+          padding-top: 15px !important;
+        }
+
+        .custom-p {
+          height: 10px !important;
+        }
+
+        .custom-p2 {
+          height: 25px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Keune este brandul eleganței și al creativității care îi conferă părului un aspect modern.
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong>
+          </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0 0" background-color="#ff002a">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/keune-vital-nutrition" color="#ffffff">Keune vital nutrition</mj-navbar-link>
+          <mj-navbar-link href="/keune-color-brillianz" color="#ffffff">Keune Color Brillianz</mj-navbar-link>
+          <mj-navbar-link href="/" color="#ffffff">Keune Satin Oil</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/keune" src="https://www.glemis.ro/image/catalog/newsletter-2019/keune/keune-header.jpg" alt="Glemis" align="center" border="none" width="600px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="10px" padding-top="10px" background-color="#a5e8e1" border-top="2px solid #94d347">
+      <mj-column>
+        <mj-button width="100%" background-color="#94d347" color="#fff" font- font-size="18px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/academie?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+          Académie
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button width="100%" background-color="#94d347" color="#fff" font- font-size="18px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/moroccanoil?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+          Moroccanoil
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button width="100%" background-color="#94d347" color="#fff" font-weight="600" font-size="18px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/olaplex?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+          Olaplex
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" border-top="2px solid #94d347" border-bottom="2px solid #94d347" vertical-align="top" padding="10px 0px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/kit-hidratant-pentru-stralucirea-parului-borseta-satin-oil-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/kit-moisturizer-for-the-hair-shine-fanny-pack-satin-oil-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Satin Oil<br>Keune</h3>
+            <p class="discount">-23% Discount</p>
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/kit-mic-pentru-stralucire-satin-oil-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/kit-mic-pentru-stralucire-satin-oil-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Kit mic pentru stralucire</h3>
+            <p class="discount">-7% Discount</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img20" href="?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/kit-to-shine-satin-oil-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Kit mare pentru stralucire</h3>
+            <p class="discount">-15% Discount</p>
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img20" href="https://www.glemis.ro/ulei-tratament-de-stralucire-si-hranire-pentru-parul-deshidratat-satin-oil-treatment-keune-95-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/satin-oil/satin-oil-treatment-keune-95-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Ulei tratament de strălucire</h3>
+            <p class="discount">&nbsp;</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+
+    <!-- Containter Produse End 1 -->
+    <mj-section padding-bottom="10px" padding-top="10px" background-color="#a5e8e1" border-bottom="2px solid #94d347">
+      <mj-column>
+        <mj-button width="100%" background-color="#94d347" color="#fff" font-weight="600" font-size="18px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/bruno-vassari?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+          Bruno Vassari
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button width="100%" background-color="#94d347" color="#fff" font-weight="600" font-size="18px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/chi?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+          CHI
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button width="100%" background-color="#94d347" color="#fff" font-weight="600" font-size="18px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/joico?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+          Joico
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Produse Headear End -->
+
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-500-ml?utm_content=banner" src="    https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-48/cel-mai-vandut.jpg" alt="Glemis" align="center" border="none" width="600px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#94d347" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="20px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:18px; color:#fff; text-decoration:none;" href="https://www.glemis.ro/crema-termoactiva-anti-celulitica-profesionala-professional-thermoactive-anti-cellulite-cream-remary-500-ml?utm_content=call_action" class="link-nostyle">CUMPĂRĂ CEL MAI VANDUT PRODUS</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" border-top="2px solid #94d347" border-bottom="2px solid #94d347" vertical-align="top" padding="10px 0px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/kit-mic-pentru-sigilarea-culorii-color-brillianz-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/kit-mic-pentru-sigilarea-culorii-color-brillianz-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Kit mic pentru sigilarea culorii</h3>
+            <p class="discount">-7% Discount</p>
+          </mj-text><mjml>
+  <mj-body background-color="#d6dde5">
+    <mj-section padding-bottom="20px" padding-top="20">
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="left" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">[[HEADLINE]]</span></mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text align="right" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="https://mjml.io" style="text-decoration: none; color: inherit;">[[PERMALINK_LABEL]]</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20">
+      <mj-column width="100%" vertical-align="top">
+        <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/xxr.png" alt="Amario logo" align="center" border="none" width="182px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-url="http://191n.mj.am/img/191n/3s/xm6.jpg" padding-bottom="27px" padding-top="0">
+      <mj-column width="100%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p><span style="font-size: 16px;"><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);">Home</span></span>
+            </a><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"> / </span></span><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);">blog</span></span></a></span>
+          </p>
+          <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"><span style="font-size: 16px;"><br></span></span>
+            </span>
+          </p>
+          <p><span style="font-size: 27px;"><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);">AMARIO.COM</span></span>
+            </a>
+            </span>
+          </p>
+          <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"><span style="font-size: 27px;">YOUR CRUISES EXPERT</span></span>
+            </span>
+          </p>
+          <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"><span style="font-size: 27px;">FROM EUROPE TO ASIA</span></span>
+            </span>
+          </p>
+        </mj-text>
+        <mj-button background-color="#414141" color="#FFFFFF" font-size="15px" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="70">CHECK OUT OUR PROMOTIONS !</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20">
+      <mj-column width="25%" vertical-align="top"></mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p><span style="color: rgb(106, 138, 162);"><span style="font-weight: bold;"><span style="font-size: 16px;">WHY SAILING WITH US ?</span></span>
+            </span>
+          </p>
+        </mj-text>
+        <mj-text align="justify" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p><span style="color: rgb(57, 63, 76);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget </span><span style="font-weight: bold;"><span style="color: rgb(57, 63, 76);">magna efficitur</span></span><span style="color: rgb(57, 63, 76);">, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet </span>
+            <span style="font-weight: bold;"><span style="color: rgb(57, 63, 76);">suscipit nibh</span></span><span style="color: rgb(57, 63, 76);">. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.</span></p>
+        </mj-text>
+        <mj-button background-color="#c7896f" color="#FFFFFF" font-size="13px" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">LEARN MORE</mj-button>
+      </mj-column>
+      <mj-column width="25%" vertical-align="top"></mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20">
+      <mj-column width="50%" vertical-align="top">
+        <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/xx9.png" alt="Step 1 - Choose a destination" align="center" border="none" width="250px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/x0w.png" alt="Step 2 - Select a type of boat" align="center" border="none" width="250px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/x0x.png" alt="Step 3 - Book and enjoy your trip" align="center" border="none" width="250px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="http://191n.mj.am/img/191n/3s/xmh.jpg" alt="Boat" align="center" border="none" width="250px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20">
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-image src="http://191n.mj.am/img/191n/3s/x0s.png" alt="A wide range of cruises" align="center" border="none" width="125px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10"></mj-image>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-image src="http://191n.mj.am/img/191n/3s/x01.png" alt="Eco friendly sailing" align="center" border="none" width="125px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10"></mj-image>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-image src="http://191n.mj.am/img/191n/3s/x0l.png" alt="Insurances included" align="center" border="none" width="125px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20">
+      <mj-column width="100%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p><span style="color: rgb(59, 70, 82);"><span style="font-size: 24px;">Cruise of the month : Corse, preserved beauty</span></span>
+          </p>
+        </mj-text>
+        <mj-image src="http://191n.mj.am/img/191n/3s/xmi.jpg" alt="Cruise of the month : Corse" align="center" border="none" width="500px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-button background-color="#464e5e" color="#FFFFFF" font-size="13px" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="10">BOOK A CORSICAN TOUR NOW</mj-button>
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0">
+          <p><span style="color: rgb(59, 70, 82);"><span style="font-size: 18px;">22 places available</span></span>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20">
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="http://191n.mj.am/img/191n/3s/xmj.jpg" alt="Sailing" align="center" border="none" width="250px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10"></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p><span style="color: rgb(59, 70, 82);"><span style="font-size: 15px;"><span style="font-weight: bold;">RENT A SAILING</span></span>
+            </span>
+          </p>
+          <p><span style="color: rgb(59, 70, 82);"><span style="font-size: 15px;"><span style="font-weight: bold;">BOAT</span></span>
+            </span>
+          </p>
+          <p><span style="color: rgb(59, 70, 82);"><span style="font-size: 15px;"><span style="font-weight: bold;">AND ORGANIZE</span></span>
+            </span>
+          </p>
+          <p><span style="color: rgb(59, 70, 82);"><span style="font-size: 15px;"><span style="font-weight: bold;">YOUR OWN</span></span>
+            </span>
+          </p>
+          <p><span style="color: rgb(59, 70, 82);"><span style="font-size: 15px;"><span style="font-weight: bold;">CRUISE</span></span>
+            </span>
+          </p>
+        </mj-text>
+        <mj-button background-color="#c7896f" color="#FFFFFF" font-size="15px" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">SEE CONDITIONS</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20">
+      <mj-column width="100%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p>Any questions, comments, concerns?</p>
+          <p>Contact our support staff at <a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;">support@amario.com</span></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#8bafad" padding-bottom="0px" padding-top="0">
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/x0p.png" alt="Amario logo" align="center" border="none" width="77px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10"></mj-image>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="color: rgb(255, 255, 255);">Privacy policy</span></a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="top">
+        <mj-social padding-top="20px">
+          <mj-social-element name="facebook" href="[[SHORT_PERMALINK]]"> </mj-social-element>
+          <mj-social-element name="twitter" href="[[SHORT_PERMALINK]]"> </mj-social-element>
+          <mj-social-element name="google" href="[[SHORT_PERMALINK]]"> </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px" padding-top="20">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size:11px">[[DELIVERY_INFO]]</p>
+        </mj-text>
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size:11px">[[POSTAL_ADDRESS]]</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/kit-pentru-sigilarea-culorii-color-brillianz-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/kit-pentru-sigilarea-culorii-color-brillianz-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Kit mare pentru sigilarea culorii</h3>
+            <p class="discount">-15% Discount</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img20" href="https://www.glemis.ro/kit-pentru-sigilarea-culorii-parului-borseta-color-brillianz-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/kit-to-seal-hair-color-fanny-pack-color-brillianz-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Kit pentru sigilarea culorii + borseta
+            </h3>
+            <p class="discount">-26% Discount</p>
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img20" href="https://www.glemis.ro/spray-stabilizator-de-culoare-color-brillianz-conditioning-spray-keune-140-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/color-brillianz/color-brillianz-conditioning-spray-keune-140-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Spray stabilizator de culoare</h3>
+            <p class="discount">&nbsp;</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+
+    <mj-section background-color="#94d347" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="20px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:18px; color:#fff; text-decoration:none;" href="https://www.glemis.ro/index.php?route=product/special" class="link-nostyle">Oferte promotionale</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-image href="https://www.glemis.ro/keune" src="https://www.glemis.ro/image/catalog/newsletter-2019/keune/keune.jpg" alt="Glemis" align="center" border="none" width="600px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Product button Orange start -->
+    <mj-section background-color="#ffffff" border-top="2px solid #94d347" border-bottom="2px solid #94d347" vertical-align="top" padding="10px 0px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/kit-mic-pentru-par-degradat-vital-nutrition-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/kit-mic-pentru-par-degradat-vital-nutrition-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Kit mic pentru par degradat</h3>
+            <p class="discount">-7% Discount</p>
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.glemis.ro/kit-pentru-par-degradat-vital-nutrition-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/kit-pentru-par-degradat-vital-nutrition-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Kit mare pentru par degradat</h3>
+            <p class="discount">-15% Discount</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img20" href="https://www.glemis.ro/kit-reparator-pentru-parul-degradat-borseta-vital-nutrition-keune?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/kit-repairer-for-hair-degraded-fanny-pack-vital-nutrition-keune-228x228.png" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Kit reparator pentru parul degradat </h3>
+            <p class="discount">-26% Discount</p>
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-image css-class="bd-img20" href="https://www.glemis.ro/spray-protector-si-hranitor-pentru-par-intens-degradat-vital-nutrition-protein-spray-keune-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/keune/vital-nutrition/vital-nutrition-protein-spray-keune-200-ml-228x228.jpg" width="150px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+            <h3>Spray protector și hrănitor</h3>
+            <p class="discount">&nbsp;</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product button Orange End -->
+
+    <mj-section background-color="#94d347" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="20px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:18px; color:#fff; text-decoration:none;" href="https://www.glemis.ro/keune" class="link-nostyle">Vezi brandul KEUNE</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- footer Start -->
+    <mj-section background-color="#a5e8e1" padding-bottom="0px" padding-top="10px">
+      <mj-column width="100%">
+        <mj-text mj-class="footer">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#a5e8e1" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+  </mj-body>
+</mjml>

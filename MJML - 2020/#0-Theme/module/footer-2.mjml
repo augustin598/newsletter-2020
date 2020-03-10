@@ -1,0 +1,29 @@
+<mj-section background-color="#000" padding-bottom="0" padding-top="0">
+  <mj-column>
+    <mj-divider border-color="#F45E43" width="100%" padding-top="0" padding-bottom="0" padding-left="0" padding-right="10"></mj-divider>
+    <mj-text font-weight="bold" align="center" color="#fff" font-size="15" padding-left="10" padding-right="10" padding-bottom="0" padding-top="0">
+      <p class="p-footer"><?=$company_data;?> Cosibella SRL</p>
+      <p class="p-footer">
+      	<?=$text_footer;?>
+        Primiti acest mail deoarece adresa de mail augustin.ciobanu@outlook.com este inregistrata in baza de date a magazinului glemis.ro pentru clientul Augustin Ciobanu. Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona dand click aici.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#000" padding-bottom="0" padding-top="0" border-top="3px #0f000">
+  <mj-column width="15%">
+  </mj-column>
+  <mj-column width="70%">
+    <mj-social font-size="13" text-mode="false" facebook-href="<?= $facebook; ?>" twitter-href="<?= $twitter; ?>" google-href="<?= $google; ?>" instagram-href="<?= $instagram; ?>" pinterest-href="<?= $pinterest; ?>" mode="horizontal" display="facebook twitter google instagram pinterest"
+      padding-left="25" padding-right="25" padding-bottom="5" padding-top="5">
+    </mj-social>
+  </mj-column>
+  <mj-column width="15%">
+  </mj-column>
+</mj-section>
+<mj-section padding-top="10" padding-bottom="0" background-color="#000">
+  <mj-column>
+   <mj-divider border-color="#F45E43" width="100%" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0"></mj-divider>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,356 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Ubuntu" />
+      <mj-text padding-top="5px" padding-left="10px" padding-right="10px" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-class name="p-intro" font-size="20px" color "#fff" />
+      <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="10px" line-height="15px;" />
+      <mj-class name="title-info" align="center" color="#2f323b" font-size="13px" padding-left="25px" padding-right="25" padding-bottom="10px" padding-top="0px" line-height="18px;" />
+      <mj-class name="" />
+      <mj-class name="logo" width="150" align="center" padding="0px 0px 20px 0px" src="https://www.glemis.hu/image/catalog/newsletter-2018/logo-negru-floare.png" />
+      <mj-all font-family="Ubuntu" />
+      <mj-class name="product-image" width="300px" height="150px" align="middle" padding="1" vertical align="middle" />
+      <mj-class name="slider" align="center" border="none" width="600" padding="0px 0px" />
+
+      <!-- Buttons Start -->
+      <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fa8739" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+
+      <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+      <!-- Buttons End -->
+
+      <!-- Footer Start -->
+      <mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="22px;" padding="5px" margin="5px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+      <!-- Footer end -->
+      
+      <!-- Colums Mod's Start  -->
+      <mj-class name="col-33" vertical-align="middle" width="33.33333333333333%" />
+      <mj-class name="col-50" vertical-align="middle" width="50.00000000000000%" />
+      <mj-class name="col-100" vertical-align="middle" width="100%" />
+      <!-- Colums Mod's End  -->
+
+
+    </mj-attributes>
+
+     <mj-style>
+       
+       @media only screen and (max-width: 480px) {
+         .b-bootom {
+           border: 2px solid #000;
+         }
+         
+         .not-display{
+           display: none;
+         }
+       
+         .top30 {
+           padding-top: 30px !important;
+         }
+       
+         .top20 {
+           padding-top: 20px !important;
+         }
+         
+         .top10 {
+           padding-top: 10px !important;
+         }
+       
+         .top15 {
+           padding-top: 15px !important;
+         }
+         
+       
+       }
+.link-nostyle { color: inherit; text-decoration: none }
+.circle {border-radius: 50%; width: 200px; height: 200px;}
+
+  h2 {display: block;
+    font-size: 1.5em;
+		margin: 10px 0px;
+    font-weight: 500;
+    padding: 10px 0px;
+    text-align: left;
+    color: #000;
+  }
+
+    .product {
+      font-weight: normal;
+      color: #000000;
+      letter-spacing: 0pt;
+      word-spacing: 2pt;
+      font-size: 12px;
+      text-align: center;
+      font-family: lucida sans unicode, lucida grande, sans-serif;
+      line-height: 1;
+      margin: 5px;
+      padding: 5px;
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+   .discount{
+       display: inline-block;
+       background-color: red;
+       width:100%;
+       font-size: 13px;
+       padding:5px 0px;
+       margin: 0px auto;
+       box-sizing: border-box;
+       color: #fff;
+       text-transform: uppercase;
+       }
+
+       .p-head{font-weight:normal; color:#000; letter-spacing:0pt;word-spacing:2pt;font-size:15px;text-align:left;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:26px;margin:5px;padding:5px;}
+       .p-head2{font-weight:normal; color:#000; letter-spacing:0pt;word-spacing:2pt;font-size:15px;text-align:justify;font-family:lucida sans unicode,lucida grande, sans-serif;line-height:26px;margin:5px;padding:5px;}
+       </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <!-- Title & Title Info -->
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text mj-class="title">
+          Charcoal Teeth Whitening Powder - Magic Coco - 30g
+        </mj-text>
+        <mj-text mj-class="title-info">
+          Daca intampinati probleme in vizualizarea acestui mail,
+          <a href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" style="text-decoration: none; color: #000000;"><strong>vedeti varianta web dand click aici</strong>
+       </a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & Title Info -->
+
+
+    <!-- Logo -->
+    <mj-section padding="5px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- logo End -->
+
+    <!-- Menu -->
+    <mj-section padding="0 0" background-color="#000">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g" color="#ffffff" font-size="18px">Pudra magica pentru albirea dintilor (100% naturala)</mj-navbar-link>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Email content Start -->
+
+<!-- Slide Start  -->
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image mj-class="slider" href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g?utm_content=banner?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter/newsletter-40/magic-head.png" alt="Glemis"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Slide Start  -->
+        <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+          
+          <mj-column mj-class="col-50">
+            <mj-text align="center" font-size="30px">
+              <a class="link-nostyle" href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g#reviews">
+              <span style="color:#337ab7; font-size:30px;">Review-uri (245) de</span>
+              </a>
+            </mj-text>
+          </mj-column>
+        
+          <mj-column mj-class="col-50">
+            <mj-text align="center" font-size="30px">
+                <a class="link-nostyle" href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g#reviews">
+              <span style="color:#f9bf3b; font-size:50px;">★★★★★</span>
+            </a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+
+
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0">
+  <mj-column>
+      <mj-text padding-top="0px">
+        <h2>Dinți mai albi chiar după prima utilizare!</h2>
+          <p class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>1.</b></span> Curăță și albește dinții complet, ajută la eliminarea petelor inestetice și a aspectului galben al dinților.</p>
+          <p class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>2.</b></span>
+          Îndepărtează tartrul, absoarbe mirosurile neplăcute ale gurii și împrospătează respirația.</p>
+          <p class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>3.</b></span>
+          Întărește și protejează smalțul dinților.</p>
+          <p class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>4.</b></span>
+          Gingiile vor fi mai sănătoase, iar dacă este folosită pentru o perioadă mai lungă, aceasta ajută la prevenirea problemelor paradontale.</p>
+          <p class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>5.</b></span>
+          Pasta de dinți va deveni mai eficientă dacă este folosită în combinație cu cărbunele activ.</p>
+        </mj-text>
+  </mj-column>
+</mj-section>
+      
+        <!-- cupon Content -->
+ <mj-section background-color="#fff" padding-bottom="0px" padding-top="0px">
+    <mj-column>
+      <mj-text font-size="18px">
+        <h2 style="text-align:center; color:#e85034; padding:0px;">🚚 LIVRARE GRATUITĂ</h2>
+      <mj-text color="#000" padding="0px">
+      <p style="text-align:center;">Cu acest produs în coș beneficiați de 100% LIVRARE GRATUITĂ indiferent de valoare cosului de cumparaturi</p>
+      <mj-text>
+      </mj-text>
+    </mj-column>
+ </mj-section>
+  <!-- cupon Content -->
+
+<mj-section padding-top="0" padding-bottom="0">
+  <mj-column>
+    <mj-image mj-class="slider" href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g?utm_content=banner?utm_content=banner" src="https://www.glemis.ro/image/catalog/magic/poza4.png" alt="Glemis"></mj-image>
+  </mj-column>
+</mj-section>
+<!-- Call to action Start  -->
+<mj-section background-color="#e85034" padding-bottom="0" padding-top="0">
+  <mj-column>
+      <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:20px;" href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g" class="link-nostyle">Pudra magica pentru albirea dintilor (100% naturala)</a>
+      </mj-text>
+  </mj-column>
+</mj-section>
+<!-- Call to action Start  -->
+
+<mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+    <mj-column width="45%">
+      <mj-text align="center" padding-top="10px" padding-left="10px" padding-right="10px">
+        <h2>BENEFICII:</h2>
+      <p class="p-head"><span style="color:#7FB227; font-size: 23px; font-weight: 900;"><b>✔</b></span> Curăță Albește dinții</p>
+      <p class="p-head"><span style="color:#7FB227; font-size: 23px; font-weight: 900;"><b>✔</b></span> Curăță Lustruiește dinții</p>
+      <p class="p-head"><span style="color:#7FB227; font-size: 23px; font-weight: 900;"><b>✔</b></span> Curăță Protejează dinții</p>
+      <p class="p-head"><span style="color:#7FB227; font-size: 23px; font-weight: 900;"><b>✔</b></span> Curăță  Împrospătează respirația</p>
+      <p class="p-head"><span style="color:#7FB227; font-size: 23px; font-weight: 900;"><b>✔</b></span> Curăță Albește dinții</p>
+      </mj-text>
+    </mj-column>
+    <mj-column width="55%">
+      <mj-text align="center" padding-top="10px" padding-left="10px" padding-right="10px">
+        <h2>INGREDIENTE:</h2>
+        <p class="p-head">❤️ 100% cărbune activ de cocos</p>
+        <p style="text-align: justify;" class="p-head">Efect rapid: Pudra magică Magic Coco îndepărtează petele de pe dinți cauzate de vin, cafea sau tutun. Pentru a avea un zâmbet perfect puteți avea încredere în pudra Magic Coco. Uită de metodele clasice de albire a dinților și încearcă acum Magic Coco chiar în confortul propriei case!</p>
+      </mj-text>
+    </mj-column>
+</mj-section>
+
+<!-- Product button Orange start -->
+  <mj-section background-color="#ffffff" vertical-align="top" padding-top="5px" border-bottom="0px">
+    <mj-column css-class="full-width">
+      <mj-image href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g?utm_content=banner?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/magic/poza1.png" padding="0px"></mj-image>
+    </mj-column>
+    <mj-column mj-class="col-33">
+      <mj-image href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g?utm_content=banner?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/magic/poza2.png" padding="0px"></mj-image>
+
+    </mj-column>
+    <mj-column mj-class="col-33">
+      <mj-image href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g?utm_content=banner?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/magic/poza3.png" padding="0px"></mj-image>
+    </mj-column>
+  </mj-section>
+<!-- Product button Orange End -->
+
+<!-- Call to action Start  -->
+<mj-section background-color="#7FB227" padding-bottom="0" padding-top="0">
+  <mj-column>
+      <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:20px;" href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g" class="link-nostyle">Descopeara Pudră magică pentru albirea dinților</a>
+      </mj-text>
+  </mj-column>
+</mj-section>
+<!-- Call to action Start  -->
+
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+  <mj-column>
+      <mj-text>
+        <h2>MOD DE UTILIZARE:</h2>
+          <p class="p-head2">Aplicați pudra Magic Coco pe vârful periuței de dinți umezite în prealabil. Periați dinții ușor timp de 2 minute.<p>
+          <p class="p-head2">Clătiți dinții apoi periați pentru a îndepărta rezidurile. Pentru un rezultat optim, repetați procedeul de două ori pe zi.
+Atenție! A nu se lăsa la îndemâna copiilor.<p>
+          <p class="p-head2">Evitați contactul cu ochii. În caz de contact, clătiți cu apă rece. Dacă apare senzația de discomfort sau sensibilitate, întrerupeți folosirea pudrei<p>
+        </mj-text>
+              <mj-image href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g?utm_content=banner?utm_content=product_defined" src="https://www.glemis.ro/image/catalog/newsletter-2018/screenshot-www.glemis.ro-2018.07.17-11-05-59.png" padding="0px"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+  <mj-column>
+      <mj-text>
+      <h2 style="text-align:center;">Protejează-ți zâmbetul cu Pudra magică pentru albirea dinților Magic Coco!</h2>
+      <p style="float: left;" class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>&#9733;</b></span> Ușor de utilizat</p>
+    <p style="float: left;" class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>&#9733;</b></span> Vegan</p>
+      <p style="float: left;" class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>&#9733;</b></span> Curăță Protejează dinții</p>
+      <p style="float: left;" class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>&#9733;</b></span> Curăță  Împrospătează respirația</p>
+      <p style="float: left;" class="p-head"><span style="color:red; font-size: 23px; font-weight: 900;"><b>&#9733;</b></span> Curăță Albește dinții</p>
+        </mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section padding-top="0" padding-bottom="0">
+  <mj-column>
+    <mj-image mj-class="slider" href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g?utm_content=banner?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter/newsletter-40/shutterstock_471137213.jpg" alt="Glemis"></mj-image>
+  </mj-column>
+</mj-section>
+
+<!-- Call to action Start  -->
+<mj-section background-color="#e85034" padding-bottom="0" padding-top="0">
+  <mj-column>
+      <mj-text align="center" color="#fff" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <a style="font-size:20px;" href="https://www.glemis.ro/pudra-magica-pentru-albirea-dintilor-100-naturala-charcoal-teeth-whitening-powder-magic-coco-30g" class="link-nostyle">Pudra magica pentru albirea dintilor (100% naturala)</a>
+      </mj-text>
+  </mj-column>
+</mj-section>
+<!-- Call to action Start  -->
+
+
+    <!-- footer Start -->
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text mj-class="footer">
+          <br>
+          <b>
+          CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+            style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-weight="normal" align="center" color="#fff" font-size="15px" padding-left="10px" padding-right="10px" padding-bottom="0px" padding-top="0px">
+          <p class="p-footer">
+            <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+            <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+    <mj-section background-color="#000" padding="0px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer End -->
+
+
+  </mj-body>
+</mjml>

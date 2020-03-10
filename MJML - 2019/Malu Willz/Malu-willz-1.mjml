@@ -1,0 +1,411 @@
+<mjml>
+  
+
+<mj-head>
+  <mj-attributes>
+    <mj-all font-family="Ubuntu" />
+    <!-- Title & web_version & Logo Start -->
+    <mj-class name="title" align="center" color="#2f323b" font-size="13px" padding="10px 25px 10px 25px" line-height="20px;" />
+    <mj-class name="logo" width="150" align="center" padding="0px 0px 10px 0px" src="https://www.glemis.ro/image/catalog/newsletter-2018/logo-negru-floare.png" />
+    <mj-class name="web-version" align="center" color="#2f323b" font-size="13px" padding="0px 25px 10px 25px" line-height="18px;" />
+    <mj-class name="sec-padd-0" padding="0px" background-color="#ffffff" />
+    <!-- Mj Title & web_version & Logo Start -->
+       
+    <!-- Menu  -->
+    <mj-class name="sec-padd-menu" padding="0px" background-color="#DA3C31" border-bottom="2px #fff" />
+    <mj-class name="menu_links" color="#ffffff" font-weight="400" font-size="16px" />
+    <mj-class name="menu_links_offer" color="#F6DA01" font-weight="900" font-size="18px" />
+    <!-- Menu  -->
+    
+    <!-- Buttons Start -->
+    <mj-class name="orange-button" align="center" border="2px solid #fff" background-color="#fbb450" color="#fff" font-size="13px" padding="5px 0px" />
+    <mj-class name="red-button" align="center" border="2px solid #fff" background-color="#df0130" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+    <mj-class name="green-button" align="center" border="2px solid #fff" background-color="#00c853" color="#fff" border-radius="24px" font-size="13px" padding="5px 0px" />
+    <!-- Buttons End -->
+    
+    <!-- Image Start  -->
+    <mj-class name="sec-padd-slider" padding="0px"/>
+    <mj-class name="slider" align="center" border="none" width="600px" padding="0px" />
+    <!-- Image End  -->
+    
+    <!-- Image Product Start  -->
+    <mj-class name="sec-padd-product" vertical-align="top" padding="10px 0px" background-color="#fff" />
+    <!-- Image Product End  -->
+    
+    <!-- Group 2 image  -->
+  <mj-class name="sec-padd-two-img" padding="10px 5px" background-color="#DA3C31" />
+  <mj-class name="sec-padd-two-img-text" padding="10px 5px" background-color="#fff" />
+  <mj-class name="sec-padd-header-product-title" padding="10px 5px" background-color="#fff" />
+  <!-- Group 2 image  -->
+    
+    <!-- Border Diver -->
+    <mj-class name="border-1" border-color="#fff" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+    <mj-class name="border-2" border-color="#fff" border-style="solid" border-width="2px" padding="5px 10px 5px 10px"/>
+    <mj-class name="header-boder-product" border-color="#FABA00" border-style="solid" border-width="2px" padding="5px 100px 5px 100px"/>
+    <!-- Border Diver -->
+    
+    
+    <!-- Call to action button  -->
+    <mj-class name="call-action-small"font-family="Helvetica" font-size="16px" background-color="#fff" color="#DA3C31" border="2px solid #DA3C31" inner-padding="15px 25px" border-radius="15px" />
+    
+    <mj-class name="call-action-round" font-family="Helvetica" font-size="16px" background-color="#fff" color="#ff7f50" border="2px solid #ff7f50" inner-padding="15px 25px" border-radius="15px" />
+    <!-- Call to action button  -->
+    
+    <!-- Colums Mod's Start  -->
+    <mj-class name="col-33" vertical-align="middle" width="33.33333333333333%" />
+    <mj-class name="col-50" vertical-align="middle" width="50.00000000000000%" />
+    <mj-class name="col-100" vertical-align="middle" width="100%" />
+    <!-- Colums Mod's End  -->
+    
+<!-- Footer Start -->
+<mj-class name="sec-padd-footer" padding="10px 0px" background-color="#000" />
+
+<mj-class name="plitic-terms" font-weight="normal" align="center" color="#fff" font-size="15px" padding="0 10px 0 10px"/>
+
+<mj-class name="footer" font-weight="normal" color="#fff" font-size="13px" align="center" line-height="26px;" padding="0px" letter-spacing="0pt" word-spacing="2pt" font-family="lucida sans unicode,lucida grande, sans-serif" />
+  <!-- Footer end -->
+
+</mj-attributes>
+<mj-style>
+.link-nostyle {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.discount {
+  display: inline-block;
+  background-color: red;
+  width: 100%;
+  font-size: 13px;
+  padding: 5px 0px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 480px) {
+  .b-bootom {
+    border: 2px solid #000;
+  }
+
+  .top30 {
+    padding-top: 30px !important;
+  }
+
+  .top20 {
+    padding-top: 20px !important;
+  }
+
+  .top15 {
+    padding-top: 15px !important;
+  }
+
+}
+
+.web_version {
+  text-decoration: none;
+  color: #000000;
+}
+
+.product_title{
+  padding: 0px 10px;
+  font-size: 16px;
+  display: inline-block;
+  line-height: 16px;
+  font-weight: 400;
+  overflow: hidden;
+  height: 50px;
+  text-align:center;
+}
+
+.two_img_header {
+  font-size: 2em;
+  display: block;
+  padding: 5px 0px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-size: 1.3em;
+  display: block;
+  padding: 5px 10px;
+  color: #000;
+}
+
+.custom_text_1 {
+  font-size: 1.2em;
+  display: block;
+  text-align: center;
+  line-height: 1.2em;
+  padding: 5px ;
+
+  color: #000;
+}
+
+</mj-style>
+</mj-head>
+<mj-body background-color="#eee">
+  <!-- Title & web_version & Logo -->
+  <mj-section mj-class="sec-padd-0">
+    <mj-column>
+      <mj-text mj-class="title">
+     Maria Galland & MALU WILZ pentru un ritualul perfect de infrumusetare!
+      </mj-text>
+      <mj-image mj-class="logo" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+      <mj-text mj-class="web-version">
+        <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version" ><strong>Vezi varianta web.</strong>
+        </a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Title & web_version & Logo -->
+  
+  <!-- Menu -->
+   <mj-section mj-class="sec-padd-menu">
+     <mj-column>
+       <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+         <mj-navbar-link mj-class="menu_links" href="/malu-wilz">Bruno Vassari</mj-navbar-link>
+         <mj-navbar-link mj-class="menu_links" href="/maria-galland">Maria Galland</mj-navbar-link>
+       </mj-navbar>
+     </mj-column>
+   </mj-section>
+   <!-- Menu End -->
+   
+   <!-- Slide Start  -->
+   <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+     <mj-column>
+     <mj-image mj-class="slider" href="https://www.glemis.ro/malu-wilz?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-35/download-beauty-face-t.jpg"></mj-image>
+     </mj-column>
+   </mj-section>
+   <!-- Slide End  -->
+   
+   <!-- Header title Product -->
+   <mj-section mj-class="sec-padd-header-product-title">
+   <mj-column mj-class="col-100">
+     <mj-table padding="0px 0px">
+       <tr>
+       <td style="text-align:center;">
+         <span style="font-size: 2.5em; display: block; padding:5px 10px; color:#000;">Malu Wilz</span>
+         </td>
+       </tr>
+     </mj-table>
+   </mj-column>
+   </mj-section>
+   <!-- Header title Product -->
+   
+   <!-- Product 4 Start -->
+    <mj-section mj-class="sec-padd-product">
+      <mj-group>
+        <mj-column vertical-align="middle">
+        <mj-image css-class="top30" href="?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-01-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+             <span class="product_title">Lipstick - MALU WILZ - Nr. 01</span>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+          
+        <mj-column vertical-align="middle">
+        <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-04a?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-04a-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text align="center" padding="0px 0px">
+           <span class="product_title">Lipstick - MALU WILZ - Nr. 04A</span>
+          </mj-text>
+        <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-04a?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>  
+      
+      <mj-group>
+       <mj-column vertical-align="middle">
+       <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-102?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-102-228x228.png" width="200px" padding="5px"></mj-image>
+         <mj-text align="center" padding="0px 0px">
+           <span class="product_title">Lipstick - MALU WILZ - Nr. 102</span>
+         </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-102?utm_content=product_buy">CUMPĂRĂ</mj-button>
+       </mj-column>
+          
+       <mj-column vertical-align="middle">
+       <mj-image css-class="top30" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-106?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/lipsticks/lipstick-malu-wilz-nr-106-228x228.jpg" width="200px" padding="5px"></mj-image>
+         <mj-text align="center" padding="0px 0px">
+            <span class="product_title">Lipstick - MALU WILZ - Nr. 106</span>
+         </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/ruj-lipstick-malu-wilz-nr-106?utm_content=product_buy">CUMPĂRĂ</mj-button>
+       </mj-column>
+      </mj-group>  
+      </mj-section>
+    <!-- Product 4 End --> 
+   
+   
+   <mj-section background-color="#fff" padding-top="5px" padding-bottom="5px">
+     
+<mj-column>
+     <mj-button width="100%" background-color="#a50002" color="#fff" font-size="23px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/malu-wilz-pudre?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+      Pudre
+ </mj-button>
+
+     </mj-column>
+<mj-column>
+ <mj-button width="100%" background-color="#e54883" color="#fff" font-size="23px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/malu-wilz-camuflaje?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+      Camuflaje
+ </mj-button>
+</mj-column>
+<mj-column>
+     <mj-button width="100%" background-color="#760001" color="#fff" font-size="23px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/malu-wilz-mascara?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+     Mascara
+ </mj-button>
+     </mj-column>
+</mj-section>
+
+<!-- Product 4 Start -->
+ <mj-section mj-class="sec-padd-product">
+   <mj-group>
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/fond-de-ten-cu-efect-satinat-nr-15-satin-finish-liquid-foundation-malu-wilz-30-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/satin-finish-liquid-foundation/nr-15-satin-finish-liquid-foundation-malu-wilz-30-ml-228x228.png" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+          <span class="product_title">Fond de ten cu efect satinat Nr. 15</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/fond-de-ten-cu-efect-satinat-nr-15-satin-finish-liquid-foundation-malu-wilz-30-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+       
+     <mj-column vertical-align="middle">
+     <mj-image css-class="top30" href="https://www.glemis.ro/fond-de-ten-cu-efect-satinat-nr-02-satin-finish-liquid-foundation-malu-wilz-30-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/satin-finish-liquid-foundation/nr-02-satin-finish-liquid-foundation-malu-wilz-30-ml-228x228.png" width="200px" padding="5px"></mj-image>
+       <mj-text align="center" padding="0px 0px">
+        <span class="product_title">Fond de ten cu efect satinat Nr. 02</span>
+       </mj-text>
+     <mj-button mj-class="orange-button" href="https://www.glemis.ro/fond-de-ten-cu-efect-satinat-nr-02-satin-finish-liquid-foundation-malu-wilz-30-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+     </mj-column>
+   </mj-group>  
+   
+   <mj-group>
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/fond-de-ten-cu-efect-satinat-nr-06-satin-finish-liquid-foundation-malu-wilz-30-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/satin-finish-liquid-foundation/nr-06-satin-finish-liquid-foundation-malu-wilz-30-ml-228x228.png" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+        <span class="product_title">Fond de ten cu efect satinat Nr. 06</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/fond-de-ten-cu-efect-satinat-nr-06-satin-finish-liquid-foundation-malu-wilz-30-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+       
+    <mj-column vertical-align="middle">
+    <mj-image css-class="top30" href="https://www.glemis.ro/fond-de-ten-cu-efect-satinat-nr-09-satin-finish-liquid-foundation-malu-wilz-30-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/malu-wilz/satin-finish-liquid-foundation/nr-09-satin-finish-liquid-foundation-malu-wilz-30-ml-228x228.png" width="200px" padding="5px"></mj-image>
+      <mj-text align="center" padding="0px 0px">
+         <span class="product_title">Fond de ten cu efect satinat Nr. 09</span>
+      </mj-text>
+    <mj-button mj-class="orange-button" href="https://www.glemis.ro/fond-de-ten-cu-efect-satinat-nr-09-satin-finish-liquid-foundation-malu-wilz-30-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+    </mj-column>
+   </mj-group>  
+   </mj-section>
+ <!-- Product 4 End --> 
+
+
+            <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+          <mj-image href="https://www.glemis.ro/maria-galland?utm_content=banner" src="https://www.glemis.ro/image/catalog/newsletter-2018/newsletter-35/mgalland02.jpg" alt="Glemis" align="center" border="none" width="600px" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+      </mj-column>
+  </mj-section>
+  
+  <!-- Product 4 Start -->
+   <mj-section mj-class="sec-padd-product">
+     <mj-group>
+       <mj-column vertical-align="middle">
+       <mj-image css-class="top30" href="https://www.glemis.ro/gel-demachiant-d-120-gentle-double-effect-cleansing-gel-soin-dermatologique-maria-galland-200-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/maria-galland/dermatological-system/d-120-gentle-double-effect-cleansing-gel-soin-dermatologique-maria-galland-200-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+         <mj-text align="center" padding="0px 0px">
+            <span class="product_title">Gel demachiant Maria Galland</span>
+         </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/gel-demachiant-d-120-gentle-double-effect-cleansing-gel-soin-dermatologique-maria-galland-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+       </mj-column>
+         
+       <mj-column vertical-align="middle">
+       <mj-image css-class="top30" href="https://www.glemis.ro/lotiune-tonica-calmanta-d-420-moisturising-and-soothing-toner-soin-dermatologique-maria-galland-100-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/maria-galland/dermatological-system/d-420-moisturising-and-soothing-toner-soin-dermatologique-maria-galland-100-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+         <mj-text align="center" padding="0px 0px">
+          <span class="product_title">Lotiune tonica calmanta Maria Galland</span>
+         </mj-text>
+       <mj-button mj-class="orange-button" href="https://www.glemis.ro/lotiune-tonica-calmanta-d-420-moisturising-and-soothing-toner-soin-dermatologique-maria-galland-100-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+       </mj-column>
+     </mj-group>  
+     
+     <mj-group>
+      <mj-column vertical-align="middle">
+      <mj-image css-class="top30" href="https://www.glemis.ro/masca-demachianta-calmanta-d-300-soothing-cleansing-mask-soin-dermatologique-maria-galland-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/maria-galland/dermatological-system/d-300-soothing-cleansing-mask-soin-dermatologique-maria-galland-50-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+          <span class="product_title">Masca demachianta calmanta</span>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/masca-demachianta-calmanta-d-300-soothing-cleansing-mask-soin-dermatologique-maria-galland-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+         
+      <mj-column vertical-align="middle">
+      <mj-image css-class="top30" href="https://www.glemis.ro/peeling-intens-cu-enzimi-si-acizi-din-fructe-d-220-soin-dermataologique-maria-galland-50-ml?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/product/maria-galland/dermatological-system/d-220-soin-dermataologique-maria-galland-50-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+        <mj-text align="center" padding="0px 0px">
+           <span class="product_title">Peeling intens cu enzimi si acizi din fructe</span>
+        </mj-text>
+      <mj-button mj-class="orange-button" href="https://www.glemis.ro/peeling-intens-cu-enzimi-si-acizi-din-fructe-d-220-soin-dermataologique-maria-galland-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+      </mj-column>
+     </mj-group>  
+     </mj-section>
+   <!-- Product 4 End --> 
+
+                      <mj-section background-color="#fff" padding-top="5px" padding-bottom="5px">
+              
+      <mj-column>
+              <mj-button width="100%" background-color="#a50002" color="#fff" font-size="23px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/maria-galland-demachiere?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+                &nbsp;
+               Demachiere
+          </mj-button>
+        
+              </mj-column>
+      <mj-column>
+          <mj-button width="100%" background-color="#e54883" color="#fff" font-size="23px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/maria-galland-hidratare-intensa?utm_content=product_buy" padding-bottom="5px" padding-top="5px">
+               Hidratare intensa
+          </mj-button>
+      </mj-column>
+      <mj-column>
+              <mj-button width="100%" background-color="#760001" color="#fff" font-size="23px" align="center" padding="10px 10px" border-radius="3px" href="https://www.glemis.ro/maria-galland-activ-age" padding-bottom="5px" padding-top="5px">
+                Activ 
+                <br/> Age	
+          </mj-button>
+              </mj-column>
+  </mj-section>
+
+
+ 
+ <!-- footer Start -->
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-text mj-class="footer">
+       <b>
+       CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+       <a class="link-nostyle" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}"
+         style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+       </p>
+     </mj-text>
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column width="15%">
+   </mj-column>
+   <mj-column width="70%">
+     <mj-text mj-class="plitic-terms">
+         <a class="link-nostyle" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+         <a class="link-nostyle" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+     </mj-text>
+   </mj-column>
+   <mj-column width="15%">
+   </mj-column>
+ </mj-section>
+
+ <mj-section mj-class="sec-padd-footer">
+   <mj-column>
+     <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+       </mj-social-element>
+       <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+       </mj-social-element>
+     </mj-social>
+   </mj-column>
+ </mj-section>
+<!-- Footer End -->
+
+</mj-body>
+</mjml>

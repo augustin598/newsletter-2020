@@ -1,0 +1,294 @@
+<mjml>
+  <!-- All header control ellement Start -->
+  <mj-head>
+    <mj-attributes>
+      <mj-include path="../#0-Theme/resurse/style.mjml" />
+    </mj-attributes>
+    <mj-include path="../#0-Theme/resurse/standard-css.mjml" />
+    <!-- <mj-include path="../#0-Theme/resurse/background.mjml" /> -->
+    <mj-style>
+      
+  @media only screen and (max-width: 480px) {
+    .b-bootom {
+      border: 2px solid #000;
+    }
+    
+    .not-display{
+      display: none;
+    }
+  
+    .top30 {
+      padding-top: 30px !important;
+    }
+  
+    .top20 {
+      padding-top: 20px !important;
+    }
+    
+    .top10 {
+      padding-top: 10px !important;
+    }
+  
+    .top15 {
+      padding-top: 15px !important;
+    }
+  
+  }
+    </mj-style>
+  </mj-head>
+  <!-- All header control ellement End -->
+
+  <!-- Container Start -->
+  <mj-body>
+    <!-- Title & web_version & Logo -->
+    <mj-section mj-class="sec-padd-0">
+      <mj-column>
+        <mj-text mj-class="title">
+          Gama de produse Milk Shake este compusă din șampoane, balsamuri, tratamente intensive și produse de styling, care trebuie să facă parte din rutina de îngrijire zilnică a părului.
+        </mj-text>
+        <mj-image mj-class="logo-v1" href="https://www.glemis.ro/" alt="Glemis"></mj-image>
+        <mj-text mj-class="web-version">
+          <a class="web_version" href="http://www.glemis.ro/index.php?route=ne/show&amp;uid={uid}&amp;utm_content=web_version"><strong>Vezi varianta web.</strong>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Title & web_version & Logo -->
+
+    <!-- Menu -->
+    <mj-section mj-class="menu" background-color="#eab900" border-bottom="1px solid #fff">
+      <mj-column>
+        <mj-navbar base-url="https://glemis.ro" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link mj-class="menu_links_white" href="/milk-shake-silver-shine">Silver Shine</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_white" href="/milk-shake-organic-argan-oil">Organic Argan Oil</mj-navbar-link>
+          <mj-navbar-link mj-class="menu_links_white" href="/milk-shake-integrity">Integrity</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- Menu End -->
+
+    <!-- Slide Start  -->
+    <mj-hero mode="fixed-height" height="469px" background-width="600px" background-height="469px" background-url="https://www.glemis.ro/image/catalog/newsletter-2019/milk/ezgif-3-4c209d29fcd8.jpg" background-color="#2a3448" padding="200px 10px">
+      <mj-image href="https://www.glemis.ro/milk-shake?utm_content=product_defined" src="https://www.glemis.ro/image/cache/catalog/manufacturer/milk-shake-240x100.png" width="150px" padding="5px"></mj-image>
+      <mj-button background-color="#eab900" font-size="18px" href="https://www.glemis.ro/milk-shake" align="center">
+        DESCOPERA
+      </mj-button>
+    </mj-hero>
+    <!-- Slide End  -->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Milk Shake</span>
+              <span class="subtitle">Produsele pentru păr Milk Shake sunt inspirate de natură. Sunt concepute după o filosofie simplă: folosesc puterea și frumusețea naturii pentru a obține un rezultat uluitor, indiferent de ocazie.</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-mentinerea-parului-blond-silver-shine-milk-shake" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/silver-shine/kit-for-maintaining-blonde-hair-silver-shine-milk-shake-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit pentru mentinerea parului blond</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-mentinerea-parului-blond-silver-shine-milk-shake?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mare-hidratant-pentru-par-blond-sweet-chamomile-milk-shake" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/sweet-chamomile/kit-great-moisturizer-for-blonde-hair-sweet-chamomile-milk-shake-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mare hidratant pentru par blond</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mare-hidratant-pentru-par-blond-sweet-chamomile-milk-shake?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-mic-hidratant-pentru-par-blond-sweet-chamomile-milk-shake" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/sweet-chamomile/kit-little-moisturizer-for-blonde-hair-sweet-chamomile-milk-shake-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit mic hidratant pentru par blond</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-mic-hidratant-pentru-par-blond-sweet-chamomile-milk-shake?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/kit-pentru-ingrijirea-parului-blond-sweet-chamomile-milk-shake" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/sweet-chamomile/kit-for-hair-care-blond-sweet-chamomile-milk-shake-228x228.png" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Kit pentru ingrijirea parului blond</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/kit-pentru-ingrijirea-parului-blond-sweet-chamomile-milk-shake?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- Group avantge -->
+<mj-include path="../#0-Theme/module/avatage-1.mjml" />
+    <!-- Group avantge -->
+
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Milk Shake Integrity</span>
+              <span class="subtitle">
+A lansat o noua gamă numită Integrity System, un sistem-tratament inovativ  bazat </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/balsam-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-conditioner-integrity-milk-shake-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/nourishing-conditioner-integrity-milk-shake-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Balsam intens hidratant pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/balsam-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-conditioner-integrity-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-shampoo-integrity-milk-shake-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/nourishing-shampoo-integrity-milk-shake-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon intens hidratant pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-shampoo-integrity-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-reparator-si-hidratant-cu-concentrat-de-proteine-pentru-par-degradat-repairing-hair-lotion-integrity-milk-shake-8x12-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/repairing-hair-lotion-integrity-milk-shake-8x12-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament reparator si hidratant pentru par degradat</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-reparator-si-hidratant-cu-concentrat-de-proteine-pentru-par-degradat-repairing-hair-lotion-integrity-milk-shake-8x12-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/unt-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-muru-muru-butter-integrity-milk-shake-200-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/integrity-system/nourishing-muru-muru-butter-integrity-milk-shake-200-ml-500x500.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Unt intens hidratant pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/unt-intens-hidratant-pentru-toate-tipurile-de-par-nourishing-muru-muru-butter-integrity-milk-shake-200-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <mj-include path="../#0-Theme/module/crema-porto.mjml" />
+    
+    <!-- Header title Product -->
+    <mj-section mj-class="brand-title" background-color="#fff">
+      <mj-column mj-class="col-100">
+        <mj-table padding="0px 0px">
+          <tr>
+            <td style="text-align:center;">
+              <span style="font-size: 1.8em; display: block; padding:5px 10px; color:#000;">Organic Argan Oil</span>
+              <span class="subtitle">Uleiul de Argan sau„aurul Maroccul- ui”  este un puternic antioxidant cu acțiune împotriva îmbătrânirii firului de păr.</span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider mj-class="header-boder-product"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Header title Product -->
+
+    <!-- Product 4 Start -->
+    <mj-section mj-class="product">
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-hidratant-cu-ulei-organic-de-argan-pentru-toate-tipurile-de-par-argan-shampoo-organic-argan-oil-milk-shake-1000-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/organ-argan-oil/argan-shampoo-organic-argan-oil-milk-shake-1000-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Sampon hidratant cu ulei organic de argan pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-hidratant-cu-ulei-organic-de-argan-pentru-toate-tipurile-de-par-argan-shampoo-organic-argan-oil-milk-shake-1000-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/sampon-hidratant-cu-ulei-organic-de-argan-pentru-toate-tipurile-de-par-argan-shampoo-organic-argan-oil-milk-shake-300-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/organ-argan-oil/argan-shampoo-organic-argan-oil-milk-shake-300-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title"> Sampon hidratant cu ulei organic de argan pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/sampon-hidratant-cu-ulei-organic-de-argan-pentru-toate-tipurile-de-par-argan-shampoo-organic-argan-oil-milk-shake-300-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-hidratant-cu-ulei-de-argan-pentru-toate-tipurile-de-par-glistening-argan-oil-organic-argan-oil-milk-shake-50-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/organ-argan-oil/glistening-argan-oil-organic-argan-oil-milk-shake-50-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament hidratant cu ulei de argan pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-hidratant-cu-ulei-de-argan-pentru-toate-tipurile-de-par-glistening-argan-oil-organic-argan-oil-milk-shake-50-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="top30" href="https://www.glemis.ro/tratament-intensiv-de-reconstructie-pentru-toate-tipurile-de-par-argan-deep-treatment-organic-argan-oil-milk-shake-500-ml" src="https://www.glemis.ro/image/cache/catalog/product/milk-shake/organ-argan-oil/argan-deep-treatment-organic-argan-oil-milk-shake-500-ml-228x228.jpg" width="200px" padding="5px"></mj-image>
+          <mj-text mj-class="tx-prod-center">
+            <span class="product_title">Tratament intensiv de reconstructie pentru toate tipurile de par</span>
+          </mj-text>
+          <mj-button mj-class="orange-button" href="https://www.glemis.ro/tratament-intensiv-de-reconstructie-pentru-toate-tipurile-de-par-argan-deep-treatment-organic-argan-oil-milk-shake-500-ml?utm_content=product_buy">CUMPĂRĂ</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Product 4 End -->
+
+    <!-- footer Start -->
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer-text">
+          <b>
+            CosiBella srl, CIF: RO30133602, Reg. Com: J33/321/2012.</b><br><br> Primiti&nbsp;acest mail deoarece adresa de mail {email} este inregistrata in baza de date a magazinului
+          <a class="clear-link" href="https://www.glemis.ro">glemis.ro</a> pentru clientul {lastname} {name}.&nbsp;Daca nu mai doriti mailuri promotionale / informative de la glemis.ro va puteti dezabona <a href="http://www.glemis.ro/index.php?route=ne/unsubscribe&amp;t=mail&amp;uid={uid}&amp;key={key}" style="text-decoration: none; color: #fff; font-weight: bold;">dand click aici.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="footer">
+      <mj-column width="15%">
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="politic-terms">
+          <a class="clear-link" href="http://www.glemis.ro/termeni-si-conditii" style="text-decoration: none;" target="_blank">Termeni si Conditii</a>&nbsp;|
+          <a class="clear-link" href="http://www.glemis.ro/politica-de-confidentialitate" style="text-decoration: none;" target="_blank">Politica de confidentialitate</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%">
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://plus.google.com/+GlemisSuceava" background-color="#4d4d4d">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/GlemisRomania" background-color="#4d4d4d">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- Footer End -->
+  </mj-body>
+</mjml>

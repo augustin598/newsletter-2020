@@ -1,0 +1,10 @@
+<!-- Slide Start  -->
+<mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+  <mj-column>
+    <mj-image mj-class="slider" href="?utm_content=banner" src="https://dummyimage.com/600x600/000/fff"></mj-image>
+    <mj-button href="?utm_content=call_action" mj-class="call-action-small">
+      www.glemis.ro
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- Slide End  -->
